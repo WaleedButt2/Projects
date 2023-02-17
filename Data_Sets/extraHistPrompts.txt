@@ -1,0 +1,789 @@
+Narrative: You antagonize Strauss.
+You: What are you writing, Strauss? A shopping list?
+Strauss: I am making a list of people I want to see hang.
+
+Narrative: You antagonize Strauss.
+You: You know, Strauss, you'd make a great undertaker.
+Strauss: And you'd make a great corpse, Arthur.
+
+Narrative: You antagonize Strauss.
+You: Strauss, you're starting to smell like a dead rat.
+Strauss: And you're starting to smell like a dead horse, Arthur.
+
+Narrative: You antagonize Strauss.
+You: Hey, Strauss, how's that debt collecting business going?
+Strauss: Better than your hunting, Arthur.
+
+Narrative: You antagonize Strauss.
+You: You're looking a bit rough, Strauss. Need some sleep?
+Strauss: I'm fine, Arthur. You're the one who looks like he's been sleeping in a ditch.
+
+Narrative: You antagonize Strauss.
+You: What's that you're reading, Strauss? A cookbook?
+Strauss: No, Arthur. It's a book about how to kill men like you.
+
+Narrative: You antagonize Strauss.
+You: You're not looking too good, Strauss. Need a doctor?
+Strauss: I'm fine, Arthur. You're the one who needs a doctor with all those injuries.
+
+Narrative: You antagonize Strauss.
+You: You're getting too old for this life, Strauss.
+Strauss: And you're getting too slow, Arthur.
+
+Narrative: You antagonize Strauss.
+You: You know, Strauss, you'd look better without that hat.
+Strauss: And you'd look better without that face, Arthur.
+
+Narrative: You antagonize Strauss.
+You: What's the matter, Strauss? Forgot your glasses again?
+Strauss: No, Arthur. I just didn't want to see your ugly face.
+
+Narrative: You antagonize Strauss.
+You: You're looking a bit pale, Strauss. Need some sun?
+Strauss: And you're looking a bit fat, Arthur. Need some exercise?
+
+Narrative: You antagonize Strauss.
+You: You know, Strauss, I've been meaning to ask you. Do you ever bathe?
+Strauss: At least I don't smell like a horse, Arthur.
+
+Narrative: You antagonize Strauss.
+You: Strauss, you're starting to look like a rat.
+Strauss: And you're starting to look like a pig, Arthur.
+
+Narrative: You antagonize Strauss.
+You: What's that smell, Strauss? Did you forget to wash your clothes again?
+Strauss: No, Arthur. I think it's just your breath.
+
+Narrative: You antagonize Strauss.
+You: You're looking a bit nervous, Strauss. Did you steal something again?
+Strauss: No, Arthur. I just don't like being around you.
+
+Narrative: You antagonize Hosea.
+You: Looks like you're getting too old for this, Hosea.
+Hosea: Never too old for a good fight, Arthur.
+
+Narrative: You antagonize Hosea.
+You: You're getting a little slow there, old man.
+Hosea: And you're getting a little cocky, Arthur.
+
+Narrative: You antagonize Hosea.
+You: I don't need you to tell me how to do my job, Hosea.
+Hosea: No, but you sure seem to make a mess of it without my help.
+
+Narrative: You antagonize Hosea.
+You: You're just dead weight, Hosea. We could do better without you.
+Hosea: Is that so? Well, let's see how far you get without me, then.
+
+Narrative: You antagonize Hosea.
+You: You're starting to look a little too comfortable in that chair, Hosea.
+Hosea: Maybe I am. But at least I'm not as restless as you, Arthur.
+
+Narrative: You antagonize Hosea.
+You: You're getting forgetful, Hosea. You're lucky I'm here to pick up the slack.
+Hosea: I may be forgetful, but at least I'm not as reckless as you.
+
+Narrative: You antagonize Hosea.
+You: You're getting soft, Hosea. You're not cut out for this life anymore.
+Hosea: Maybe I am getting soft. But at least I'm not as heartless as you.
+
+Narrative: You antagonize Hosea.
+You: You're getting slow in your old age, Hosea. Maybe it's time to retire.
+Hosea: Maybe it is. But at least I'm not as foolish as you.
+
+Narrative: You antagonize Hosea.
+You: You're not as sharp as you used to be, Hosea. Maybe you're losing your touch.
+Hosea: Maybe I am. But at least I'm not as stubborn as you.
+
+Narrative: You antagonize Hosea.
+You: You're slowing us down, Hosea. We need to cut our losses and leave you behind.
+Hosea: Maybe we do. But at least I'm not as selfish as you.
+
+Narrative: You antagonize Hosea.
+You: You're a relic of the past, Hosea. Maybe it's time for you to retire.
+Hosea: Maybe it is. But at least I'm not as cold-blooded as you.
+
+Narrative: You antagonize Hosea.
+You: You're getting soft in your old age, Hosea. Maybe it's time for you to step aside.
+Hosea: Maybe it is. But at least I'm not as impulsive as you.
+
+Narrative: You antagonize Hosea.
+You: You're not as useful as you used to be, Hosea. Maybe it's time for us to part ways.
+Hosea: Maybe it is. But at least I'm not as careless as you.
+
+Narrative: You antagonize Hosea.
+You: You're getting lazy, Hosea. We need someone who's willing to do the work.
+Hosea: Maybe we do. But at least I'm not as greedy as you.
+
+Narrative: You antagonize Dutch.
+You: You're not the leader you think you are.
+Dutch: Is that so, Arthur?
+
+Narrative: You antagonize Dutch.
+You: You're going to get us all killed with your reckless actions.
+Dutch: I know what I'm doing.
+
+Narrative: You antagonize Dutch.
+You: I don't know why we follow you.
+Dutch: Because I know what I'm doing.
+
+Narrative: You antagonize Dutch.
+You: You don't care about anyone but yourself.
+Dutch: That's not true, Arthur.
+
+Narrative: You antagonize Dutch.
+You: You're a selfish bastard.
+Dutch: I'm doing what I have to do to keep us all alive.
+
+Narrative: You antagonize Dutch.
+You: You're not as smart as you think you are.
+Dutch: You underestimate me, Arthur.
+
+Narrative: You antagonize Dutch.
+You: You're leading us all down a dangerous path.
+Dutch: I know what I'm doing, Arthur.
+
+Narrative: You antagonize Dutch.
+You: You're going to get us all killed, Dutch.
+Dutch: We'll see about that.
+
+Narrative: You antagonize Dutch.
+You: You're not the man I thought you were.
+Dutch: And what's that supposed to mean?
+
+Narrative: You antagonize Dutch.
+You: You're becoming more and more reckless with each passing day.
+Dutch: I'm doing what I have to do to keep us alive.
+
+Narrative: You antagonize Dutch.
+You: You're going to get us all killed with your grand plans.
+Dutch: My plans are the only way we're going to survive.
+
+Narrative: You antagonize Dutch.
+You: You're a danger to us all.
+Dutch: You're wrong, Arthur.
+
+Narrative: You antagonize Dutch.
+You: You're making a mess of everything, Dutch.
+Dutch: I know what I'm doing, Arthur.
+
+Narrative: You antagonize Dutch.
+You: You don't know what you're doing.
+Dutch: You underestimate me, Arthur.
+
+Narrative: You antagonize Dutch.
+You: You're not the leader we need right now.
+Dutch: I'm doing everything I can to keep us alive, Arthur.
+
+Narrative: You antagonize Dutch.
+You: What's the matter, Dutch? Afraid I'll outshine you again?
+
+Narrative: You antagonize Dutch.
+You: You're slipping, Dutch. Maybe it's time for someone else to lead this gang.
+
+Narrative: You antagonize Dutch.
+You: You're losing control, Dutch. And everyone knows it.
+
+Narrative: You antagonize Dutch.
+You: You're just a has-been, Dutch. A relic of a bygone era.
+
+Narrative: You antagonize Dutch.
+You: You're a liability to this gang, Dutch. Maybe it's time we cut you loose.
+
+Narrative: You antagonize Dutch.
+You: You're all talk, Dutch. You couldn't lead your way out of a paper bag.
+
+Narrative: You antagonize Dutch.
+You: You're a fool, Dutch. You think you're untouchable, but you're not.
+
+Narrative: You antagonize Dutch.
+You: You're getting soft, Dutch. It's time for a real leader to take charge.
+
+Narrative: You antagonize Dutch.
+You: You've lost your edge, Dutch. It's time to step aside and let someone else lead.
+
+Narrative: You antagonize Dutch.
+You: You're a coward, Dutch. You talk a big game, but you're afraid to take real risks.
+
+Narrative: You antagonize Dutch.
+You: You're a relic, Dutch. The world has passed you by, and you don't even realize it.
+
+Narrative: You antagonize Dutch.
+You: You're nothing without this gang, Dutch. And you know it.
+
+Narrative: You antagonize Dutch.
+You: You're a has-been, Dutch. It's time to retire and let the rest of us take over.
+
+Narrative: You antagonize Dutch.
+You: You're a washed-up old man, Dutch. It's time to step aside and let the young guns take over.
+
+Narrative: You antagonize Dutch.
+You: You're a liability, Dutch. And we're all getting tired of cleaning up your messes.
+
+Narrative: You antagonize Micah.
+You: What are you looking at, Micah?
+Micah: Nothing much, Arthur. Just the sight of a man who's too damn cowardly to do anything about it.
+
+Narrative: You antagonize Micah.
+You: Hey, Micah. You're starting to smell like a pigsty.
+Micah: I think I'd rather smell like a pigsty than like you, Arthur.
+
+Narrative: You antagonize Micah.
+You: What's the matter, Micah? You seem a little jumpy.
+Micah: Jumpy? I ain't jumpy, Arthur. But I am sick of your constant criticism.
+
+Narrative: You antagonize Micah.
+You: Why don't you go bother someone else for a change, Micah?
+Micah: Oh, I would, Arthur. But I seem to be the only one around here with any sense.
+
+Narrative: You antagonize Micah.
+You: You know, Micah, sometimes I wonder why we let you stick around.
+Micah: I wonder the same thing about you, Arthur. But I guess Dutch knows what he's doing.
+
+Narrative: You antagonize Micah.
+You: What's the matter, Micah? You seem to be in a bad mood.
+Micah: Bad mood? Who's in a bad mood? I'll show you a bad mood if you keep it up.
+
+Narrative: You antagonize Micah.
+You: You know, Micah, I don't think I've ever seen you do anything useful around here.
+Micah: That's rich coming from you, Arthur. At least I'm not the one who's always getting into trouble.
+
+Narrative: You antagonize Micah.
+You: Why don't you go find some other gang to join, Micah?
+Micah: Because there's no other gang that would put up with a lazy bastard like you, Arthur.
+
+Narrative: You antagonize Micah.
+You: You know, Micah, you might want to try taking a bath once in a while.
+Micah: And you might want to try minding your own damn business, Arthur.
+
+Narrative: You antagonize Micah.
+You: Hey, Micah, why don't you go start your own gang if you're so damn smart?
+Micah: Because I don't want to be responsible for a bunch of losers like you, Arthur.
+
+Narrative: You antagonize Micah.
+You: What's the matter, Micah? Can't handle a little bit of criticism?
+Micah: I can handle criticism just fine, Arthur. But I'm not going to take it from someone like you.
+
+Narrative: You antagonize Micah.
+You: You know, Micah, sometimes I wonder why we ever let you join the gang in the first place.
+Micah: And sometimes I wonder why I ever thought it was a good idea to hang around with a bunch of losers like you.
+
+Narrative: You antagonize Micah.
+You: Hey, Micah, why don't you go jump off a cliff or something?
+Micah: Why don't you go join me, Arthur? I'd be happy to push you.
+
+Narrative: You antagonize Micah.
+You: What's the matter, Micah? Can't take a joke?
+Micah: I can take a joke just fine, Arthur. But you're not exactly a comedian,
+
+Narrative: You antagonize Micah.
+You: Keep your mouth shut, Micah.
+Micah: What's your problem?
+
+Narrative: You antagonize Micah.
+You: I can't stand being around you, Micah.
+Micah: You ain't so great yourself.
+
+Narrative: You antagonize Micah.
+You: I don't know why Dutch puts up with you, Micah.
+Micah: Because I'm better than you, Arthur.
+
+Narrative: You antagonize Micah.
+You: You're a liability to the gang, Micah.
+Micah: That's not what Dutch thinks.
+
+Narrative: You antagonize Micah.
+You: Your recklessness is going to get us all killed, Micah.
+Micah: You're just scared, Arthur.
+
+Narrative: You antagonize Micah.
+You: I can't believe I have to share a camp with you, Micah.
+Micah: You're lucky to be in my presence, Arthur.
+
+Narrative: You antagonize Micah.
+You: You're a snake, Micah. Always causing trouble.
+Micah: I'm just trying to survive, Arthur.
+
+Narrative: You antagonize Micah.
+You: I know what you did to that girl in Strawberry, Micah.
+Micah: I have no idea what you're talking about.
+
+Narrative: You antagonize Micah.
+You: You're nothing but trouble, Micah.
+Micah: And you're nothing without Dutch.
+
+Narrative: You antagonize Micah.
+You: I don't trust you, Micah.
+Micah: Good, I don't trust you either.
+
+Narrative: You antagonize Micah.
+You: You think you're better than everyone else, Micah.
+Micah: I know I'm better than you, Arthur.
+
+Narrative: You antagonize Micah.
+You: I can't wait until Dutch realizes what a liability you are, Micah.
+Micah: Dutch knows what he's doing.
+
+Narrative: You antagonize Micah.
+You: You're always trying to start a fight, Micah.
+Micah: Only with people like you, Arthur.
+
+Narrative: You antagonize Micah.
+You: You're going to get us all killed one day, Micah.
+Micah: You're just scared of taking risks, Arthur.
+
+Narrative: You antagonize Micah.
+You: You're a disease, Micah. You infect everything you touch.
+Micah: And yet, Dutch still keeps me around.
+
+Narrative: You antagonize Hosea
+You: You know, Hosea, you may be getting too old for this life.
+Hosea: Ha! You think so? Maybe you're just not cut out for it anymore.
+
+Narrative: You antagonize Hosea
+You: You always think you're so clever, don't you?
+Hosea: Oh, and you're not? You're just a common thug.
+
+Narrative: You antagonize Hosea
+You: You really think we're going to get away with this?
+Hosea: Of course we are. You just need to learn to have a little faith.
+
+Narrative: You antagonize Hosea
+You: You're not as smart as you think you are, old man.
+Hosea: And you're not as tough as you think you are, kid.
+
+Narrative: You antagonize Hosea
+You: You've been getting sloppy lately, Hosea. What's going on?
+Hosea: I'm not the one who's been getting sloppy. Maybe you should take a look in the mirror.
+
+Narrative: You antagonize Hosea
+You: You know, Hosea, I don't think you're cut out for this life anymore.
+Hosea: Maybe you're right. But I'll be damned if I let you and Dutch ruin everything we've built.
+
+Narrative: You antagonize Hosea
+You: You really think Dutch is going to listen to you?
+Hosea: I don't need Dutch to listen to me. I know what needs to be done.
+
+Narrative: You antagonize Hosea
+You: You're always talking about your damn plans, Hosea. When are they ever going to work out?
+Hosea: They'll work out when you start following them instead of going off half-cocked.
+
+Narrative: You antagonize Hosea
+You: You know, Hosea, I think it's time for you to step down and let someone else take over.
+Hosea: I'll step down when I'm good and ready. Until then, you can keep your opinions to yourself.
+
+Narrative: You antagonize Hosea
+You: You're not as clever as you think you are, Hosea.
+Hosea: And you're not as tough as you think you are, Arthur.
+
+Narrative: You antagonize Hosea
+You: You know, Hosea, I think you're getting soft.
+Hosea: Soft? You're the one who's been acting like a damn fool lately.
+
+Narrative: You antagonize Hosea
+You: You really think Dutch is going to follow your lead, Hosea?
+Hosea: I don't need Dutch to follow my lead. I know what needs to be done.
+
+Narrative: You antagonize Hosea
+You: You've been getting sloppy lately, Hosea. What's going on?
+Hosea: I'm not the one who's been getting sloppy. Maybe you should take a look in the mirror.
+
+Narrative: You antagonize Hosea
+You: You always think you know better than everyone else, Hosea.
+Hosea: And you always think you can handle everything on your own, Arthur.
+
+Narrative: You antagonize Hosea
+You: You're not as clever as you think you are, Hosea.
+Hosea: And you're not as tough as you think you are, Arthur.
+
+Narrative: You antagonize Hosea.
+You: Hey Hosea, I heard Dutch doesn't even trust you anymore. What's it like being so useless to the gang?
+Hosea: sighs It's a shame you have to be so cruel, Arthur.
+
+Narrative: You antagonize Hosea.
+You: I don't know why Dutch keeps you around. You're nothing but a con man.
+Hosea: And yet, you're the one who keeps falling for my tricks, Arthur.
+
+Narrative: You antagonize Hosea.
+You: I heard you lost your touch, Hosea. Can't even pull off a simple heist these days.
+Hosea: chuckles I guess I'll have to show you otherwise, won't I?
+
+Narrative: You antagonize Hosea.
+You: You're getting old, Hosea. It's time for you to step down and let the younger generation take over.
+Hosea: sighs Maybe you're right. But until then, I'll keep doing what I can to help this gang survive.
+
+Narrative: You antagonize Hosea.
+You: Dutch is always going on about loyalty. Why do you think he keeps you around when you're no use to us?
+Hosea: smiles Because I know things you don't, Arthur. Things that keep this gang together.
+
+Narrative: You antagonize Hosea.
+You: You're always telling us what to do, Hosea. Do you ever shut up?
+Hosea: raises an eyebrow You know, sometimes I wonder the same thing about you, Arthur.
+
+Narrative: You antagonize Hosea.
+You: I don't know why Dutch thinks you're so valuable. You're just dead weight.
+Hosea: laughs You underestimate the power of knowledge, Arthur. It can be more valuable than any gun.
+
+Narrative: You antagonize Hosea.
+You: You're always trying to play both sides, Hosea. I don't trust you.
+Hosea: smirks You don't have to trust me, Arthur. Just watch and learn.
+
+Narrative: You antagonize Hosea.
+You: Dutch is the leader of this gang, not you. Stop trying to act like you have any real power.
+Hosea: shrugs I'm not interested in power, Arthur. Just in making sure we all come out of this alive.
+
+Narrative: You antagonize Hosea.
+You: I'm sick of your con man ways, Hosea. It's time for you to leave this gang.
+Hosea: smirks You can't get rid of me that easily, Arthur. I'll be here as long as Dutch wants me to be.
+
+Narrative: You antagonize Hosea.
+You: I can't believe Dutch still listens to you, Hosea. You're nothing but an old man.
+Hosea: smiles And yet, I still manage to outsmart you from time to time, don't I Arthur?
+
+Narrative: You antagonize Hosea.
+You: You're always trying to act like you know what's best for the gang, Hosea. But nobody cares about your opinions.
+Hosea: chuckles You'd be surprised how much weight my opinions carry, Arthur.
+
+Narrative: You antagonize Pearson
+You: Watch where you're going, you oaf.
+Pearson: Excuse me? You better watch your mouth.
+
+Narrative: You antagonize Pearson
+You: Hey Pearson, I bet you can't even fry an egg right.
+Pearson: What did you say? I'm the best damn cook this side of the Mississippi.
+
+Narrative: You antagonize Pearson
+You: You call that dinner? I've had better meals in jail.
+Pearson: If you don't like it, you can go without.
+
+Narrative: You antagonize Pearson
+You: I wouldn't trust your cooking if my life depended on it.
+Pearson: Well, lucky for you, your life doesn't depend on it.
+
+Narrative: You antagonize Pearson
+You: You're nothing but a worthless drunk, Pearson.
+Pearson: I may drink, but at least I don't insult people for no reason.
+
+Narrative: You antagonize Pearson
+You: Is this supposed to be beef stew? It tastes like old boots.
+Pearson: If you don't like it, make your own damn food.
+
+Narrative: You antagonize Pearson
+You: You call that a campfire? I've seen better fires at a child's birthday party.
+Pearson: If you think you can do better, go ahead and try.
+
+Narrative: You antagonize Pearson
+You: Your clothes look like they were stolen from a scarecrow.
+Pearson: At least I have clothes. What do you have, besides a big mouth?
+
+Narrative: You antagonize Pearson
+You: You're a disgrace to cooking, Pearson.
+Pearson: And you're a disgrace to common decency.
+
+Narrative: You antagonize Pearson
+You: You're a liability to the gang, Pearson. You should just go home.
+Pearson: I've done more for this gang than you ever will. You watch your tone.
+
+Narrative: You antagonize Pearson
+You: Is that all the food we get? No wonder we're all starving.
+Pearson: We're doing the best we can with what we've got. If you're not happy, leave.
+
+Narrative: You antagonize Pearson
+You: I've had better meals in prison than this slop.
+Pearson: If you don't like it, don't eat it. I don't care.
+
+Narrative: You antagonize Pearson
+You: I wouldn't feed this to my dog, Pearson.
+Pearson: If you don't like it, you can find your own damn food.
+
+Narrative: You antagonize Pearson
+You: You're not fit to cook for a rat, Pearson.
+Pearson: And you're not fit to shine my shoes.
+
+Narrative: You antagonize Pearson
+You: You're not a real cook, Pearson. You're just a glorified butcher.
+Pearson: If you want to eat, you'll shut your mouth and be grateful for what you have.
+
+Narrative: You antagonize Pearson.
+You: You're getting fatter every day, Pearson.
+Pearson: Maybe I am, but at least I can cook.
+You: Yeah, we all know that's the only reason you're still around.
+
+Narrative: You antagonize Pearson.
+You: You smell like rotten meat, Pearson.
+Pearson: Better than smelling like a horse's ass.
+You: You should know what that smells like, you spend all your time near them.
+
+Narrative: You antagonize Pearson.
+You: You're getting slow in your old age, Pearson.
+Pearson: At least I can still cook a mean stew.
+You: I've had better food at the bottom of my boot.
+
+Narrative: You antagonize Pearson.
+You: You're nothing but a glorified butcher, Pearson.
+Pearson: I'm the best damn cook in this camp.
+You: That's like saying you're the smartest kid in the special ed class.
+
+Narrative: You antagonize Pearson.
+You: You're looking pretty worn out these days, Pearson.
+Pearson: And you're looking pretty dumb as always.
+You: At least I don't spend all day cutting up meat like some kind of savage.
+
+Narrative: You antagonize Pearson.
+You: You're a pathetic excuse for a man, Pearson.
+Pearson: And you're a worthless piece of shit, [Name].
+You: That's rich coming from someone who's never accomplished anything in their life.
+
+Narrative: You antagonize Pearson.
+You: You're a lousy cook, Pearson.
+Pearson: Is that right?
+You: Yeah, I've had better meals from a slop bucket.
+
+Narrative: You antagonize Pearson.
+You: You're getting slow, Pearson. Maybe it's time to retire.
+Pearson: You're one to talk, always running around like a chicken with its head cut off.
+You: At least I'm doing something productive. All you do is cook and complain.
+
+Narrative: You antagonize Pearson.
+You: You're nothing but dead weight around here, Pearson.
+Pearson: And you're nothing but a troublemaker, [Name].
+You: At least I'm not wasting my time cooking meals for a bunch of ingrates.
+
+Narrative: You antagonize Pearson.
+You: You're a useless lump, Pearson.
+Pearson: And you're a waste of space.
+You: At least I'm not pretending to be useful by cooking for a bunch of lazy outlaws.
+
+Narrative: You antagonize Dutch
+You: What kind of leader are you, Dutch? You're taking us all down with you.
+Dutch: Oh, I see. I suppose you think you could do better?
+You: Better than this? Absolutely.
+
+Narrative: You antagonize Dutch
+You: Why do you always have to be so damn reckless, Dutch?
+Dutch: Reckless? I'm just trying to keep this gang alive.
+You: Well, your actions aren't doing us any favors.
+
+Narrative: You antagonize Dutch
+You: You know, Dutch, sometimes I wonder if you really care about any of us.
+Dutch: What are you talking about? Of course I care.
+You: It doesn't seem like it when you're putting us all in danger like this.
+
+Narrative: You antagonize Dutch
+You: Dutch, your arrogance is going to be the death of us all.
+Dutch: Arrogance? I'm just confident in my abilities.
+You: And yet here we are, constantly on the run and never safe.
+
+Narrative: You antagonize Dutch
+You: Dutch, you're just using us all to fulfill your own desires.
+Dutch: I don't know what you're talking about.
+You: You don't care about anyone else, just your own power and glory.
+
+Narrative: You antagonize Dutch
+You: You're leading us all down a dark path, Dutch.
+Dutch: Sometimes you have to do bad things to survive.
+You: And sometimes you just enjoy doing bad things, don't you?
+
+Narrative: You antagonize Dutch
+You: You're always so quick to make decisions without thinking them through, Dutch.
+Dutch: I have to make quick decisions to keep us all alive.
+You: But it's those quick decisions that are going to get us all killed.
+
+Narrative: You antagonize Dutch
+You: You're a coward, Dutch. You're too afraid to face the consequences of your actions.
+Dutch: I'm not a coward. I'm just trying to keep everyone safe.
+You: By running away and hiding? That's not keeping anyone safe.
+
+Narrative: You antagonize Dutch
+You: You're a liar, Dutch. You're always promising us things you can't deliver.
+Dutch: I never make promises I can't keep.
+You: Oh really? Then where's our freedom? Where's our new life?
+
+Narrative: You antagonize Dutch
+You: You know, Dutch, sometimes I think you're the biggest threat to this gang.
+Dutch: Me? How can you say that?
+You: Your ego and your need for power are going to be our downfall.
+
+Narrative: You antagonize Dutch
+You: You're a hypocrite, Dutch. You preach about loyalty and family, but you don't practice what you preach.
+Dutch: What are you talking about? I'm the most loyal one here.
+You: You're loyal to your own desires, not to anyone else.
+
+Narrative: You antagonize Susan
+You: You know, Susan, I don't think you're as indispensable as you seem to think you are.
+Susan: Is that so?
+You: Yeah, I mean, what exactly do you bring to the table besides your ability to keep Dutch's bed warm?
+Susan: You're entitled to your opinion.
+
+Narrative: You antagonize Susan
+You: I can't help but notice how you always seem to be up Dutch's ass, Susan.
+Susan: Is that supposed to bother me?
+You: No, it's just amusing to watch you grovel for his attention.
+
+Narrative: You antagonize Susan
+You: Hey, Susan, I hear you and Dutch used to be a thing. What happened, did he finally wise up to your nagging?
+Susan: Don't even try it, Arthur.
+
+Narrative: You antagonize Susan
+You: You know, Susan, for someone who's supposed to be so tough, you sure do whine a lot.
+Susan: Excuse me?
+You: I mean, I've heard toddlers with more backbone than you.
+
+Narrative: You antagonize Susan
+You: Susan, do you ever get tired of being Dutch's little lapdog?
+Susan: Why do you say that?
+You: I don't know, maybe because you follow him around like a lost puppy.
+
+Narrative: You antagonize Susan
+You: You really think you're irreplaceable, don't you, Susan?
+Susan: I know my worth.
+You: Yeah, your worth as a glorified housekeeper.
+
+Narrative: You antagonize Susan
+You: Susan, do you ever stop to think about how pathetic it is that you're always trying to prove yourself to Dutch?
+Susan: I don't know what you're talking about.
+You: Sure you don't. I bet you dream about him every night.
+
+Narrative: You antagonize Susan
+You: You know, Susan, sometimes I wonder if Dutch keeps you around just to make himself feel better.
+Susan: What's that supposed to mean?
+You: I mean, you're the epitome of mediocrity.
+
+Narrative: You antagonize Susan
+You: Hey, Susan, did you hear the one about the woman who thinks she's important but is really just a glorified maid?
+Susan: You're not funny.
+You: I'm not trying to be.
+
+Narrative: You antagonize Susan
+You: You know, Susan, sometimes I wonder what Dutch sees in you.
+Susan: Why don't you ask him?
+You: Maybe I will. Maybe I'll ask him if he enjoys being with someone so desperate for his attention.
+
+Narrative: You antagonize Susan
+You: Susan, it's pretty obvious that you're just a means to an end for Dutch.
+Susan: And what end is that?
+You: I don't know, maybe just to have someone around who will do whatever he says without question.
+
+Narrative: You antagonize Susan
+You: Hey, Susan, do you ever get tired of cleaning up after Dutch and the boys?
+Susan: Someone has to do it.
+You: Yeah, and that someone is you. What a life.
+
+Narrative: You antagonize Susan.
+You: Get out of my way, Susan.
+Susan: Excuse me?
+You: You heard me, move it.
+
+Narrative: You antagonize Susan.
+You: Why are you always in such a foul mood, Susan?
+Susan: What are you talking about?
+You: You're always so grumpy, it's no wonder no one wants to be around you.
+
+Narrative: You antagonize Susan.
+You: Can't you see I'm trying to work here, Susan?
+Susan: Sorry, I didn't realize.
+You: Well, now you know. Don't bother me again.
+
+Narrative: You antagonize Susan.
+You: Hey, Susan, you're looking pretty tired. Late night last night?
+Susan: Mind your own business.
+You: Oh, I see. You're still upset that I got that promotion instead of you.
+
+Narrative: You antagonize Susan.
+You: Susan, can you believe how terrible the food is here?
+Susan: It's not that bad.
+You: That's because you have no taste. I'm surprised you can even taste anything with that sour expression on your face all the time.
+
+Narrative: You antagonize Susan.
+You: Hey, Susan, are you feeling okay? You look a little pale.
+Susan: I'm fine.
+You: Really? It looks like you might be coming down with something. Maybe you should go home and rest.
+
+Narrative: You antagonize Susan.
+You: Susan, can you do me a favor and stop talking for a minute?
+Susan: What's your problem?
+You: You're always talking, and frankly, no one wants to hear it.
+
+Narrative: You antagonize Susan.
+You: You know, Susan, you're not as smart as you think you are.
+Susan: Excuse me?
+You: Yeah, you heard me. Your ideas are always terrible, and I don't know why anyone listens to you.
+
+Narrative: You antagonize Susan.
+You: Susan, did you do something with your hair? It looks terrible.
+Susan: What? No, I didn't do anything.
+You: Well, you should do something about it. You're starting to look like a crazy cat lady.
+
+Narrative: You antagonize Susan.
+You: You're really getting on my nerves, Susan.
+Susan: And you're not?
+You: That's because I'm not a miserable old hag like you.
+
+Narrative: You antagonize Susan.
+You: I don't know why Dutch keeps you around, Susan.
+Susan: Excuse me?
+You: Yeah, you're always complaining and making everyone miserable. I think it's time for you to go.
+
+Narrative: You antagonize Susan.
+You: Susan, why don't you go take a long walk off a short pier?
+Susan: That's not very nice.
+You: Well, neither are you, so I guess we're even.
+
+Narrative: You antagonize Susan.
+You: You know, Susan, I heard you've been talking behind my back.
+Susan: What? No, I haven't.
+You: That's not what I heard. You might want to watch your mouth from now on.
+
+Narrative: You greet Susan
+Susan: Good morning, Arthur. How's it going?
+You: Hey there, Susan. I'm doing alright. How about you?
+Susan: Can't complain. Just getting on with things.
+
+Narrative: You greet Susan
+Susan: Hello, Arthur. How are you holding up?
+You: Not too bad, Susan. Just taking things one day at a time. How about you?
+Susan: Same here, my friend. We'll get through this.
+Narrative: You greet Susan
+Susan: Good day to you, Arthur.
+You: Hey, Susan. How's it going today?
+Susan: Not too bad, not too bad. Just trying to stay busy.
+Narrative: You greet Susan
+Susan: Hello, Arthur. Nice to see you up and about.
+You: Thanks, Susan. Trying to stay active, you know.
+Susan: I hear you. It's important to keep moving in these times.
+Narrative: You greet Susan
+Susan: Good morning, Arthur. Did you sleep well?
+You: Not too bad, Susan. Had a bit of trouble nodding off last night.
+Susan: I'm sorry to hear that. Anything on your mind?
+Narrative: You greet Susan
+Susan: Hey there, Arthur. How's it going?
+You: Hey, Susan. I'm doing alright. Just trying to keep my head up.
+Susan: I hear you. It's not easy, but we've got to stay strong.
+Narrative: You greet Susan
+Susan: Good day to you, Arthur. How are you feeling?
+You: Hey, Susan. I'm feeling alright. Just taking things one step at a time.
+Susan: That's a good approach. We'll get through this, don't you worry.
+Narrative: You greet Susan
+Susan: Hello, Arthur. Nice to see you today.
+You: Hey, Susan. You too. How's everything going?
+Susan: Can't complain. Just keeping busy as usual.
+Narrative: You greet Susan
+Susan: Good morning, Arthur. How's your day going so far?
+You: Hey, Susan. It's going alright. Just taking things as they come.
+Susan: That's the spirit. We've got to stay positive, no matter what.
+Narrative: You greet Susan
+Susan: Hey there, Arthur. How are you holding up?
+You: Not too bad, Susan. Just trying to stay focused and keep moving.
+Susan: I hear you. We've got to keep our eyes on the prize, so to speak.
+Narrative: You greet Susan
+Susan: Good day to you, Arthur. How's everything with you?
+You: Hey, Susan. Everything's going alright, I suppose. Just trying to stay busy.
+Susan: That's a good way to be. We can't let ourselves get too idle.
+Narrative: You greet Susan
+Susan: Hello, Arthur. Nice to see you again.
+You: Hey, Susan. You too. How's everything in your world?
+Susan: Can't complain, really. Just trying to stay productive and focused.
+Narrative: You greet Susan
+Susan: Good morning, Arthur. How's your day going so far?
+You: Hey, Susan. It's going alright. Just trying to keep my head down and focus.
+Susan: That's a good way to be. We'll get through this, I'm sure of it.
+
