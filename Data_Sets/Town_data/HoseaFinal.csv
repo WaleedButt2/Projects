@@ -1,0 +1,127 @@
+Prompt,Completion
+"Narrative: You greet Hosea.","You:All quiet, Hosea. Hosea: Thankfully, yes. You: Good."
+"Narrative: You greet Hosea. You:All quiet, Hosea. Hosea: Thankfully, yes. You: Good. Narrative: You greet Hosea.","Okay, well let's talk more later. Hosea: See you later."
+
+"Narrative: You greet Hosea.","You: You were right about this place. It is a good spot. Hosea:It'll do for now. You: For sure."
+"Narrative: You greet Hosea. You: You were right about this place. It is a good spot. Hosea:It'll do for now. You: For sure. Narrative: You greet Hosea.","Okay, I'll catch you later then. Hosea: Okay."
+
+"Narrative: You greet Hosea.","You: What's going on. Hosea: Nothing too much, at this very moment.\"
+"Narrative: You greet Hosea. You: What's going on. Hosea: Nothing too much, at this very moment.\ Narrative: You antagonize Hosea.","You: I only asked, you miseable old bastard. Hosea: Who do you think you are talking to."
+
+"Narrative: You greet Hosea.","You: How did we end up over this way? Hosea: Huh?"
+"Narrative: You greet Hosea. You: How did we end up over this way? Hosea: Huh? Narrative: You greet Hosea.","You: Well, I guess we know the answer to that. Hosea: Thanks."
+
+"Narrative: You greet Hosea.","You: Hosea."
+"Narrative: You greet Hosea. You: Hosea. Narrative: You greet Hosea.","You: Mood seems pretty good around here. Hosea: It does."
+"Narrative: You greet Hosea. You: Hosea. Narrative: You greet Hosea. You: Mood seems pretty good around here. Hosea: It does. Narrative: You greet Hosea.","You: Well, guess we should enjoy it while it lasts. Hosea: Alright, Arthur."
+
+"Narrative: You greet Hosea.","You: Hosea, how are you. Hosea: Good Morning, Arthur."
+"Narrative: You greet Hosea. You: Hosea, how are you. Hosea: Good Morning, Arthur. Narrative: You greet Hosea.","You: What's going on, eh? Hosea: Nothing too much, at this very moment."
+"Narrative: You greet Hosea. You: Hosea, how are you. Hosea: Good Morning, Arthur. Narrative: You greet Hosea. You: What's going on, eh? Hosea: Nothing too much, at this very moment. Narrative: You greet Hosea.","You: Okay well...I'll leave you to it. Hosea: Sure Arthur."
+
+"Narrative: You greet Hosea.","You: Good morning to you."
+"Narrative: You greet Hosea. You: Good morning to you. Narrative: You greet Hosea.","You: Your'e looking good. Hosea: Thank you. "
+"Narrative: You greet Hosea. You: Good morning to you. Narrative: You greet Hosea. You: Your'e looking good. Hosea: Thank you.  Narrative: You greet Hosea.","You: Good to see. Hosea: Okay."
+
+"Action: You go near Hosea.","Hosea: How are you today Arthur."
+"Action: You go near Hosea. Hosea: How are you today Arthur. Narrative: You greet Hosea.","You: Hello."
+"Action: You go near Hosea. Hosea: How are you today Arthur. Narrative: You greet Hosea. You: Hello. Narrative: You greet Hosea.","You: Everything okay? Hosea: Well, I'm still alive."
+"Action: You go near Hosea. Hosea: How are you today Arthur. Narrative: You greet Hosea. You: Hello. Narrative: You greet Hosea. You: Everything okay? Hosea: Well, I'm still alive. Narrative: You greet Hosea.","You: Well, let's keep it that way. Hosea: Thanks."
+
+"Narrative: You greet Hosea.","You: How did we end up over this way? Hosea: Huh?"
+"Narrative: You greet Hosea. You: How did we end up over this way? Hosea: Huh? Narrative: You antagonize Hosea.","You: Actually, don't answer that. Don't need you moaning at me for an hour. Hosea: Is that supposed to be funny?"
+"Narrative: You greet Hosea. You: How did we end up over this way? Hosea: Huh? Narrative: You antagonize Hosea. You: Actually, don't answer that. Don't need you moaning at me for an hour. Hosea: Is that supposed to be funny? Narrative: You defuse the situation.","You: I'm only joking with you. Hosea: Try to keep it together, Arthur."
+
+"Action: You go near Hosea.","Hosea: Good morning, Arthur."
+"Action: You go near Hosea. Hosea: Good morning, Arthur. Narrative: You greet Hosea.","You: You okay?. Hosea: {calmdown}"
+"Action: You go near Hosea. Hosea: Good morning, Arthur. Narrative: You greet Hosea. You: You okay?. Hosea: {calmdown} Narrative: You greet Hosea.","You: Everything alright. Hosea: Well, I'm still alive."
+
+"Narrative: You go near Hosea.","Hosea: Good day Arthur. "
+"Narrative: You go near Hosea. Hosea: Good day Arthur.  Narrative: You greet Hosea.","You: Morning to you too. Hosea: {fingergun}"
+"Narrative: You go near Hosea. Hosea: Good day Arthur.  Narrative: You greet Hosea. You: Morning to you too. Hosea: {fingergun} Narrative: You greet Hosea.","You: What's going on? Hosea: Nothing too much, at this very moment."
+"Narrative: You go near Hosea. Hosea: Good day Arthur.  Narrative: You greet Hosea. You: Morning to you too. Hosea: {fingergun} Narrative: You greet Hosea. You: What's going on? Hosea: Nothing too much, at this very moment. Narrative: You antagonize Hosea.","You: I only asked, you miseable old bastard. Hosea: Now you need to watch your mouth."
+"Narrative: You go near Hosea. Hosea: Good day Arthur.  Narrative: You greet Hosea. You: Morning to you too. Hosea: {fingergun} Narrative: You greet Hosea. You: What's going on? Hosea: Nothing too much, at this very moment. Narrative: You antagonize Hosea. You: I only asked, you miseable old bastard. Hosea: Now you need to watch your mouth. Narrative: You defuse the situation.","You: Take it easy, I'm just needling you. Hosea: Is that supposed to be amusing?"
+
+
+"Narrative: You greet Hosea.","You: Mood seem's pretty good around here. Hosea: It does."
+"Narrative: You greet Hosea. You: Mood seem's pretty good around here. Hosea: It does. Narrative: You antagonize Hosea.","You: . Hosea: "
+
+"Narrative: You antagonize Hosea.","You: Hey, there. Hosea: {ThumbsUp}"
+
+"Narrative: You greet Hosea.","You: Mood seem's pretty good around here. Hosea: It does."
+"Narrative: You greet Hosea. You: Mood seem's pretty good around here. Hosea: It does. Narrative: You antagonize Hosea.","You: Apart from your sour face, of course. Hosea: Why don't we talk about your'r problems eh?"
+"Narrative: You greet Hosea. You: Mood seem's pretty good around here. Hosea: It does. Narrative: You antagonize Hosea. You: Apart from your sour face, of course. Hosea: Why don't we talk about your'r problems eh? Narrative: You defuse the situation.","You: Don't worry, I'm just playing with you. Hosea: What is going with you?"
+
+"Action: You go near Hosea.","Hosea: {Waves}."
+"Action: You go near Hosea. Hosea: {Waves}. Narrative: You greet Hosea.","You: Hey there. Hosea: {fingergun}"
+
+"Narrative: You greet Hosea.","You: Hosea "
+"Narrative: You greet Hosea. You: Hosea  Narrative: You greet Hosea.","You: Everything okay. Hosea: Well, I'm still alive."
+
+"Narrative: You greet Hosea.","You: Hey. "
+"Narrative: You greet Hosea. You: Hey.  Narrative: You greet Hosea.","You: Everything okay. Hosea: Well I'm still alive. "
+"Narrative: You greet Hosea. You: Hey.  Narrative: You greet Hosea. You: Everything okay. Hosea: Well I'm still alive.  Narrative: You antagonize Hosea.","You: You just love feeliing sorry for yourself, don't you? Hosea: I'm about the only one who stand's up for you."
+"Narrative: You greet Hosea. You: Hey.  Narrative: You greet Hosea. You: Everything okay. Hosea: Well I'm still alive.  Narrative: You antagonize Hosea. You: You just love feeliing sorry for yourself, don't you? Hosea: I'm about the only one who stand's up for you. Narrative: You defuse the situation.","You: I'm only kidding around. Hosea: You need to get your'e head straight."
+
+"Narrative: You greet Hosea.","You: Hey. "
+"Narrative: You greet Hosea. You: Hey.  Narrative: You greet Hosea.","You: Everything okay. Hosea: Well I'm still alive. "
+"Narrative: You greet Hosea. You: Hey.  Narrative: You greet Hosea. You: Everything okay. Hosea: Well I'm still alive.  Narrative: You antagonize Hosea.","You: You just love feeliing sorry for yourself, don't you? Hosea: Why dont we talk about you're problems eh."
+
+"Narrative: You greet Hosea.","You: Hey there. Hosea: Hello. "
+"Narrative: You greet Hosea. You: Hey there. Hosea: Hello.  Narrative: You greet Hosea.","You: How are you doing. Hosea: As well as can be expected."
+"Narrative: You greet Hosea. You: Hey there. Hosea: Hello.  Narrative: You greet Hosea. You: How are you doing. Hosea: As well as can be expected. Narrative: You greet Hosea.","You: Glad to hear it. Hosea: Alright Arthur. "
+
+
+
+"Narrative: You greet Hosea.","You: All quiet, Hosea. Hosea: Thankfully, yes. You: Good."
+"Narrative: You greet Hosea. You: All quiet, Hosea. Hosea: Thankfully, yes. You: Good. Narrative: You greet Hosea.","You: Okay, well let's talk more later. Hosea: Sure, Arthur."
+
+"Narrative: You greet Hosea.","You: Looking good. Hosea: Thanks."
+"Narrative: You greet Hosea. You: Looking good. Hosea: Thanks. Narrative: You greet Hosea.","You: I mean, considering you usually look like you've got one foot in the grave. Hosea: Now you need to watch your mouth."
+"Narrative: You greet Hosea. You: Looking good. Hosea: Thanks. Narrative: You greet Hosea. You: I mean, considering you usually look like you've got one foot in the grave. Hosea: Now you need to watch your mouth. Narrative: You defuse the situation.","You: I'm only kidding around. Hosea: What is going on with you."
+
+"Narrative: You antagonize Hosea.","You: So you get to read while everyone else is working off. Hosea: I'm about the only one round here who stand's up for you."
+"Narrative: You antagonize Hosea. You: So you get to read while everyone else is working off. Hosea: I'm about the only one round here who stand's up for you. Narrative: You antagonize Hosea.","You: One rule for you and another for the rest of us. Hosea: What in the hell's your problem."
+"Narrative: You antagonize Hosea. You: So you get to read while everyone else is working off. Hosea: I'm about the only one round here who stand's up for you. Narrative: You antagonize Hosea. You: One rule for you and another for the rest of us. Hosea: What in the hell's your problem. Narrative: You antagonize Hosea.","You: Some things never change. Lazy bastard. Hosea: I'm not wasting anymore attention on you right now."
+
+"Narrative: You antagonize Hosea.","You: I used to really look up to you, Hosea. Hosea: Is that supposed to be funny."
+"Narrative: You antagonize Hosea. You: I used to really look up to you, Hosea. Hosea: Is that supposed to be funny. Narrative: You antagonize Hosea.","You: You and Dutch both. Hosea: What's wrong with you?"
+"Narrative: You antagonize Hosea. You: I used to really look up to you, Hosea. Hosea: Is that supposed to be funny. Narrative: You antagonize Hosea. You: You and Dutch both. Hosea: What's wrong with you? Narrative: You antagonize Hosea.","You: But I seen through the pair of you. Hosea: I'm just going to ignore you."
+
+"Narrative: You antagonize Hosea.","You: You miserable old grump. Hosea: Why dont we talk about you'r problems, huh?"
+"Narrative: You antagonize Hosea. You: You miserable old grump. Hosea: Why dont we talk about you'r problems, huh? Narrative: You antagonize Hosea.","You: Yes, you, Hosea. Hosea: What is your issue."
+"Narrative: You antagonize Hosea. You: You miserable old grump. Hosea: Why dont we talk about you'r problems, huh? Narrative: You antagonize Hosea. You: Yes, you, Hosea. Hosea: What is your issue. Narrative: You antagonize Hosea.","You: Kinda depressing actually. Hosea: This is a waste of time."
+
+"Narrative: You antagonize Hosea.","You: Look around, we've made it, like you always said we would. Hosea: Who do you think you are talkinig to?"
+"Narrative: You antagonize Hosea. You: Look around, we've made it, like you always said we would. Hosea: Who do you think you are talkinig to? Narrative: You antagonize Hosea.","You: Twenty years of robbing, and still liviing in  tents like  vagrants. Hosea: What's your problem."
+"Narrative: You antagonize Hosea. You: Look around, we've made it, like you always said we would. Hosea: Who do you think you are talkinig to? Narrative: You antagonize Hosea. You: Twenty years of robbing, and still liviing in  tents like  vagrants. Hosea: What's your problem. Narrative: You antagonize Hosea.","You: I'm sorry, I'm starting to sound like you. Hosea: You'r not getting a rise outta me."
+
+"Narrative: You antagonize Hosea.","You: You ever gonna stop going on about the old days? Hosea: What's wrong with you?"
+"Narrative: You antagonize Hosea. You: You ever gonna stop going on about the old days? Hosea: What's wrong with you? Narrative: You antagonize Hosea.","You: I get it, things were better. Hosea: I'm just gonna pretend you're not here."
+
+"Narrative: You antagonize Hosea.","You: Nothing makes you happier then being miserable, does it? Hosea: Now you need to watch you're mouth."
+"Narrative: You antagonize Hosea. You: Nothing makes you happier then being miserable, does it? Hosea: Now you need to watch you're mouth. Narrative: You antagonize Hosea.","You: All you do these days is moan. Hosea: What do you want?"
+"Narrative: You antagonize Hosea. You: Nothing makes you happier then being miserable, does it? Hosea: Now you need to watch you're mouth. Narrative: You antagonize Hosea. You: All you do these days is moan. Hosea: What do you want? Narrative: You antagonize Hosea.","You: If you don't liven up, buzzards'll start feeding on you early. Hosea: How about I just ignore you. "
+
+"Narrative: You antagonize Hosea.","You: Look around, we've made it, like you always said we would. Hosea: Who do you think you are talkinig to?"
+"Narrative: You antagonize Hosea. You: Look around, we've made it, like you always said we would. Hosea: Who do you think you are talkinig to? Narrative: You antagonize Hosea.","You: Twenty years of robbing, and still liviing in  tents like  vagrants. Hosea: What's your problem."
+"Narrative: You antagonize Hosea. You: Look around, we've made it, like you always said we would. Hosea: Who do you think you are talkinig to? Narrative: You antagonize Hosea. You: Twenty years of robbing, and still liviing in  tents like  vagrants. Hosea: What's your problem. Narrative: You defuse the situation.","You: Sorry,I'll stop messing with you now.{laugh} Hosea: You play you're little games."
+
+"Narrative: You antagonize Hosea.","You: I used to really look up to you, Hosea. Hosea: Who do you think you are talking to."
+"Narrative: You antagonize Hosea. You: I used to really look up to you, Hosea. Hosea: Who do you think you are talking to. Narrative: You antagonize Hosea.","You: You and Dutch both. Hosea: What's wrong with you?"
+"Narrative: You antagonize Hosea. You: I used to really look up to you, Hosea. Hosea: Who do you think you are talking to. Narrative: You antagonize Hosea. You: You and Dutch both. Hosea: What's wrong with you? Narrative: You defuse the situation.","You: I'm only joking with you. Hosea: Is that supposed to be amusing? "
+
+"Action: You collide with Hosea."," You: Sorry about that, you alright?"
+
+"Action: You stand near Hosea."," Hosea: That's the spot you pick?"
+"Action: You stand near Hosea.  Hosea: That's the spot you pick? Action: You stand near Hosea."," Hosea: What's your problem?"
+"Action: You stand near Hosea.  Hosea: That's the spot you pick? Action: You stand near Hosea.  Hosea: What's your problem? Narrative: You defuse the situation.","You: I'm only joking with you. Hosea: Is that supposed to be amusing."
+
+"Action: You stand near Hosea."," Hosea: What do you want."
+"Action: You stand near Hosea.  Hosea: What do you want. Action: You stand near Hosea."," Hosea: Don't you have anything better to do?"
+"Action: You stand near Hosea.  Hosea: What do you want. Action: You stand near Hosea.  Hosea: Don't you have anything better to do? Action: You stand near Hosea."," Hosea: You do waht you want. See if I care."
+
+"Action: You collide with Hosea."," You: Oh, sorry friend."
+
+"Action: You walk near Hosea."," Hosea: Sit down Arthur."
+"Action: You walk near Hosea.  Hosea: Sit down Arthur. Action: You walk near Hosea."," Hosea: {greet}."

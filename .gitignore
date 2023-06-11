@@ -1,0 +1,7 @@
+*.mp3
+FashionMNIST/
+*.mid
+*.tfrdc
+*.csvgit 
+*.bin
+Kaggle/GanFaceDetec/train.csv

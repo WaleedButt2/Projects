@@ -1,0 +1,2579 @@
+Narrative: You antagonize Strauss.
+You: What are you writing, Strauss? A shopping list?
+Strauss: I am making a list of people I want to see hang.
+
+Narrative: You antagonize Strauss.
+You: You know, Strauss, you'd make a great undertaker.
+Strauss: And you'd make a great corpse, Arthur.
+
+Narrative: You antagonize Strauss.
+You: Strauss, you're starting to smell like a dead rat.
+Strauss: And you're starting to smell like a dead horse, Arthur.
+
+Narrative: You antagonize Strauss.
+You: Hey, Strauss, how's that debt collecting business going?
+Strauss: Better than your hunting, Arthur.
+
+Narrative: You antagonize Strauss.
+You: You're looking a bit rough, Strauss. Need some sleep?
+Strauss: I'm fine, Arthur. You're the one who looks like he's been sleeping in a ditch.
+
+Narrative: You antagonize Strauss.
+You: What's that you're reading, Strauss? A cookbook?
+Strauss: No, Arthur. It's a book about how to kill men like you.
+
+Narrative: You antagonize Strauss.
+You: You're not looking too good, Strauss. Need a doctor?
+Strauss: I'm fine, Arthur. You're the one who needs a doctor with all those injuries.
+
+Narrative: You antagonize Strauss.
+You: You're getting too old for this life, Strauss.
+Strauss: And you're getting too slow, Arthur.
+
+Narrative: You antagonize Strauss.
+You: You know, Strauss, you'd look better without that hat.
+Strauss: And you'd look better without that face, Arthur.
+
+Narrative: You antagonize Strauss.
+You: What's the matter, Strauss? Forgot your glasses again?
+Strauss: No, Arthur. I just didn't want to see your ugly face.
+
+Narrative: You antagonize Strauss.
+You: You're looking a bit pale, Strauss. Need some sun?
+Strauss: And you're looking a bit fat, Arthur. Need some exercise?
+
+Narrative: You antagonize Strauss.
+You: You know, Strauss, I've been meaning to ask you. Do you ever bathe?
+Strauss: At least I don't smell like a horse, Arthur.
+
+Narrative: You antagonize Strauss.
+You: Strauss, you're starting to look like a rat.
+Strauss: And you're starting to look like a pig, Arthur.
+
+Narrative: You antagonize Strauss.
+You: What's that smell, Strauss? Did you forget to wash your clothes again?
+Strauss: No, Arthur. I think it's just your breath.
+
+Narrative: You antagonize Strauss.
+You: You're looking a bit nervous, Strauss. Did you steal something again?
+Strauss: No, Arthur. I just don't like being around you.
+
+Narrative: You antagonize Hosea.
+You: Looks like you're getting too old for this, Hosea.
+Hosea: Never too old for a good fight, Arthur.
+
+Narrative: You antagonize Hosea.
+You: You're getting a little slow there, old man.
+Hosea: And you're getting a little cocky, Arthur.
+
+Narrative: You antagonize Hosea.
+You: I don't need you to tell me how to do my job, Hosea.
+Hosea: No, but you sure seem to make a mess of it without my help.
+
+Narrative: You antagonize Hosea.
+You: You're just dead weight, Hosea. We could do better without you.
+Hosea: Is that so? Well, let's see how far you get without me, then.
+
+Narrative: You antagonize Hosea.
+You: You're starting to look a little too comfortable in that chair, Hosea.
+Hosea: Maybe I am. But at least I'm not as restless as you, Arthur.
+
+Narrative: You antagonize Hosea.
+You: You're getting forgetful, Hosea. You're lucky I'm here to pick up the slack.
+Hosea: I may be forgetful, but at least I'm not as reckless as you.
+
+Narrative: You antagonize Hosea.
+You: You're getting soft, Hosea. You're not cut out for this life anymore.
+Hosea: Maybe I am getting soft. But at least I'm not as heartless as you.
+
+Narrative: You antagonize Hosea.
+You: You're getting slow in your old age, Hosea. Maybe it's time to retire.
+Hosea: Maybe it is. But at least I'm not as foolish as you.
+
+Narrative: You antagonize Hosea.
+You: You're not as sharp as you used to be, Hosea. Maybe you're losing your touch.
+Hosea: Maybe I am. But at least I'm not as stubborn as you.
+
+Narrative: You antagonize Hosea.
+You: You're slowing us down, Hosea. We need to cut our losses and leave you behind.
+Hosea: Maybe we do. But at least I'm not as selfish as you.
+
+Narrative: You antagonize Hosea.
+You: You're a relic of the past, Hosea. Maybe it's time for you to retire.
+Hosea: Maybe it is. But at least I'm not as cold-blooded as you.
+
+Narrative: You antagonize Hosea.
+You: You're getting soft in your old age, Hosea. Maybe it's time for you to step aside.
+Hosea: Maybe it is. But at least I'm not as impulsive as you.
+
+Narrative: You antagonize Hosea.
+You: You're not as useful as you used to be, Hosea. Maybe it's time for us to part ways.
+Hosea: Maybe it is. But at least I'm not as careless as you.
+
+Narrative: You antagonize Hosea.
+You: You're getting lazy, Hosea. We need someone who's willing to do the work.
+Hosea: Maybe we do. But at least I'm not as greedy as you.
+
+Narrative: You antagonize Dutch.
+You: You're not the leader you think you are.
+Dutch: Is that so, Arthur?
+
+Narrative: You antagonize Dutch.
+You: You're going to get us all killed with your reckless actions.
+Dutch: I know what I'm doing.
+
+Narrative: You antagonize Dutch.
+You: I don't know why we follow you.
+Dutch: Because I know what I'm doing.
+
+Narrative: You antagonize Dutch.
+You: You don't care about anyone but yourself.
+Dutch: That's not true, Arthur.
+
+Narrative: You antagonize Dutch.
+You: You're a selfish bastard.
+Dutch: I'm doing what I have to do to keep us all alive.
+
+Narrative: You antagonize Dutch.
+You: You're not as smart as you think you are.
+Dutch: You underestimate me, Arthur.
+
+Narrative: You antagonize Dutch.
+You: You're leading us all down a dangerous path.
+Dutch: I know what I'm doing, Arthur.
+
+Narrative: You antagonize Dutch.
+You: You're going to get us all killed, Dutch.
+Dutch: We'll see about that.
+
+Narrative: You antagonize Dutch.
+You: You're not the man I thought you were.
+Dutch: And what's that supposed to mean?
+
+Narrative: You antagonize Dutch.
+You: You're becoming more and more reckless with each passing day.
+Dutch: I'm doing what I have to do to keep us alive.
+
+Narrative: You antagonize Dutch.
+You: You're going to get us all killed with your grand plans.
+Dutch: My plans are the only way we're going to survive.
+
+Narrative: You antagonize Dutch.
+You: You're a danger to us all.
+Dutch: You're wrong, Arthur.
+
+Narrative: You antagonize Dutch.
+You: You're making a mess of everything, Dutch.
+Dutch: I know what I'm doing, Arthur.
+
+Narrative: You antagonize Dutch.
+You: You don't know what you're doing.
+Dutch: You underestimate me, Arthur.
+
+Narrative: You antagonize Dutch.
+You: You're not the leader we need right now.
+Dutch: I'm doing everything I can to keep us alive, Arthur.
+
+Narrative: You antagonize Dutch.
+You: What's the matter, Dutch? Afraid I'll outshine you again?
+
+Narrative: You antagonize Dutch.
+You: You're slipping, Dutch. Maybe it's time for someone else to lead this gang.
+
+Narrative: You antagonize Dutch.
+You: You're losing control, Dutch. And everyone knows it.
+
+Narrative: You antagonize Dutch.
+You: You're just a has-been, Dutch. A relic of a bygone era.
+
+Narrative: You antagonize Dutch.
+You: You're a liability to this gang, Dutch. Maybe it's time we cut you loose.
+
+Narrative: You antagonize Dutch.
+You: You're all talk, Dutch. You couldn't lead your way out of a paper bag.
+
+Narrative: You antagonize Dutch.
+You: You're a fool, Dutch. You think you're untouchable, but you're not.
+
+Narrative: You antagonize Dutch.
+You: You're getting soft, Dutch. It's time for a real leader to take charge.
+
+Narrative: You antagonize Dutch.
+You: You've lost your edge, Dutch. It's time to step aside and let someone else lead.
+
+Narrative: You antagonize Dutch.
+You: You're a coward, Dutch. You talk a big game, but you're afraid to take real risks.
+
+Narrative: You antagonize Dutch.
+You: You're a relic, Dutch. The world has passed you by, and you don't even realize it.
+
+Narrative: You antagonize Dutch.
+You: You're nothing without this gang, Dutch. And you know it.
+
+Narrative: You antagonize Dutch.
+You: You're a has-been, Dutch. It's time to retire and let the rest of us take over.
+
+Narrative: You antagonize Dutch.
+You: You're a washed-up old man, Dutch. It's time to step aside and let the young guns take over.
+
+Narrative: You antagonize Dutch.
+You: You're a liability, Dutch. And we're all getting tired of cleaning up your messes.
+
+Narrative: You antagonize Micah.
+You: What are you looking at, Micah?
+Micah: Nothing much, Arthur. Just the sight of a man who's too damn cowardly to do anything about it.
+
+Narrative: You antagonize Micah.
+You: Hey, Micah. You're starting to smell like a pigsty.
+Micah: I think I'd rather smell like a pigsty than like you, Arthur.
+
+Narrative: You antagonize Micah.
+You: What's the matter, Micah? You seem a little jumpy.
+Micah: Jumpy? I ain't jumpy, Arthur. But I am sick of your constant criticism.
+
+Narrative: You antagonize Micah.
+You: Why don't you go bother someone else for a change, Micah?
+Micah: Oh, I would, Arthur. But I seem to be the only one around here with any sense.
+
+Narrative: You antagonize Micah.
+You: You know, Micah, sometimes I wonder why we let you stick around.
+Micah: I wonder the same thing about you, Arthur. But I guess Dutch knows what he's doing.
+
+Narrative: You antagonize Micah.
+You: What's the matter, Micah? You seem to be in a bad mood.
+Micah: Bad mood? Who's in a bad mood? I'll show you a bad mood if you keep it up.
+
+Narrative: You antagonize Micah.
+You: You know, Micah, I don't think I've ever seen you do anything useful around here.
+Micah: That's rich coming from you, Arthur. At least I'm not the one who's always getting into trouble.
+
+Narrative: You antagonize Micah.
+You: Why don't you go find some other gang to join, Micah?
+Micah: Because there's no other gang that would put up with a lazy bastard like you, Arthur.
+
+Narrative: You antagonize Micah.
+You: You know, Micah, you might want to try taking a bath once in a while.
+Micah: And you might want to try minding your own damn business, Arthur.
+
+Narrative: You antagonize Micah.
+You: Hey, Micah, why don't you go start your own gang if you're so damn smart?
+Micah: Because I don't want to be responsible for a bunch of losers like you, Arthur.
+
+Narrative: You antagonize Micah.
+You: What's the matter, Micah? Can't handle a little bit of criticism?
+Micah: I can handle criticism just fine, Arthur. But I'm not going to take it from someone like you.
+
+Narrative: You antagonize Micah.
+You: You know, Micah, sometimes I wonder why we ever let you join the gang in the first place.
+Micah: And sometimes I wonder why I ever thought it was a good idea to hang around with a bunch of losers like you.
+
+Narrative: You antagonize Micah.
+You: Hey, Micah, why don't you go jump off a cliff or something?
+Micah: Why don't you go join me, Arthur? I'd be happy to push you.
+
+Narrative: You antagonize Micah.
+You: What's the matter, Micah? Can't take a joke?
+Micah: I can take a joke just fine, Arthur. But you're not exactly a comedian,
+
+Narrative: You antagonize Micah.
+You: Keep your mouth shut, Micah.
+Micah: What's your problem?
+
+Narrative: You antagonize Micah.
+You: I can't stand being around you, Micah.
+Micah: You ain't so great yourself.
+
+Narrative: You antagonize Micah.
+You: I don't know why Dutch puts up with you, Micah.
+Micah: Because I'm better than you, Arthur.
+
+Narrative: You antagonize Micah.
+You: You're a liability to the gang, Micah.
+Micah: That's not what Dutch thinks.
+
+Narrative: You antagonize Micah.
+You: Your recklessness is going to get us all killed, Micah.
+Micah: You're just scared, Arthur.
+
+Narrative: You antagonize Micah.
+You: I can't believe I have to share a camp with you, Micah.
+Micah: You're lucky to be in my presence, Arthur.
+
+Narrative: You antagonize Micah.
+You: You're a snake, Micah. Always causing trouble.
+Micah: I'm just trying to survive, Arthur.
+
+Narrative: You antagonize Micah.
+You: I know what you did to that girl in Strawberry, Micah.
+Micah: I have no idea what you're talking about.
+
+Narrative: You antagonize Micah.
+You: You're nothing but trouble, Micah.
+Micah: And you're nothing without Dutch.
+
+Narrative: You antagonize Micah.
+You: I don't trust you, Micah.
+Micah: Good, I don't trust you either.
+
+Narrative: You antagonize Micah.
+You: You think you're better than everyone else, Micah.
+Micah: I know I'm better than you, Arthur.
+
+Narrative: You antagonize Micah.
+You: I can't wait until Dutch realizes what a liability you are, Micah.
+Micah: Dutch knows what he's doing.
+
+Narrative: You antagonize Micah.
+You: You're always trying to start a fight, Micah.
+Micah: Only with people like you, Arthur.
+
+Narrative: You antagonize Micah.
+You: You're going to get us all killed one day, Micah.
+Micah: You're just scared of taking risks, Arthur.
+
+Narrative: You antagonize Micah.
+You: You're a disease, Micah. You infect everything you touch.
+Micah: And yet, Dutch still keeps me around.
+
+Narrative: You antagonize Hosea
+You: You know, Hosea, you may be getting too old for this life.
+Hosea: Ha! You think so? Maybe you're just not cut out for it anymore.
+
+Narrative: You antagonize Hosea
+You: You always think you're so clever, don't you?
+Hosea: Oh, and you're not? You're just a common thug.
+
+Narrative: You antagonize Hosea
+You: You really think we're going to get away with this?
+Hosea: Of course we are. You just need to learn to have a little faith.
+
+Narrative: You antagonize Hosea
+You: You're not as smart as you think you are, old man.
+Hosea: And you're not as tough as you think you are, kid.
+
+Narrative: You antagonize Hosea
+You: You've been getting sloppy lately, Hosea. What's going on?
+Hosea: I'm not the one who's been getting sloppy. Maybe you should take a look in the mirror.
+
+Narrative: You antagonize Hosea
+You: You know, Hosea, I don't think you're cut out for this life anymore.
+Hosea: Maybe you're right. But I'll be damned if I let you and Dutch ruin everything we've built.
+
+Narrative: You antagonize Hosea
+You: You really think Dutch is going to listen to you?
+Hosea: I don't need Dutch to listen to me. I know what needs to be done.
+
+Narrative: You antagonize Hosea
+You: You're always talking about your damn plans, Hosea. When are they ever going to work out?
+Hosea: They'll work out when you start following them instead of going off half-cocked.
+
+Narrative: You antagonize Hosea
+You: You know, Hosea, I think it's time for you to step down and let someone else take over.
+Hosea: I'll step down when I'm good and ready. Until then, you can keep your opinions to yourself.
+
+Narrative: You antagonize Hosea
+You: You're not as clever as you think you are, Hosea.
+Hosea: And you're not as tough as you think you are, Arthur.
+
+Narrative: You antagonize Hosea
+You: You know, Hosea, I think you're getting soft.
+Hosea: Soft? You're the one who's been acting like a damn fool lately.
+
+Narrative: You antagonize Hosea
+You: You really think Dutch is going to follow your lead, Hosea?
+Hosea: I don't need Dutch to follow my lead. I know what needs to be done.
+
+Narrative: You antagonize Hosea
+You: You've been getting sloppy lately, Hosea. What's going on?
+Hosea: I'm not the one who's been getting sloppy. Maybe you should take a look in the mirror.
+
+Narrative: You antagonize Hosea
+You: You always think you know better than everyone else, Hosea.
+Hosea: And you always think you can handle everything on your own, Arthur.
+
+Narrative: You antagonize Hosea
+You: You're not as clever as you think you are, Hosea.
+Hosea: And you're not as tough as you think you are, Arthur.
+
+Narrative: You antagonize Hosea.
+You: Hey Hosea, I heard Dutch doesn't even trust you anymore. What's it like being so useless to the gang?
+Hosea: sighs It's a shame you have to be so cruel, Arthur.
+
+Narrative: You antagonize Hosea.
+You: I don't know why Dutch keeps you around. You're nothing but a con man.
+Hosea: And yet, you're the one who keeps falling for my tricks, Arthur.
+
+Narrative: You antagonize Hosea.
+You: I heard you lost your touch, Hosea. Can't even pull off a simple heist these days.
+Hosea: chuckles I guess I'll have to show you otherwise, won't I?
+
+Narrative: You antagonize Hosea.
+You: You're getting old, Hosea. It's time for you to step down and let the younger generation take over.
+Hosea: sighs Maybe you're right. But until then, I'll keep doing what I can to help this gang survive.
+
+Narrative: You antagonize Hosea.
+You: Dutch is always going on about loyalty. Why do you think he keeps you around when you're no use to us?
+Hosea: smiles Because I know things you don't, Arthur. Things that keep this gang together.
+
+Narrative: You antagonize Hosea.
+You: You're always telling us what to do, Hosea. Do you ever shut up?
+Hosea: raises an eyebrow You know, sometimes I wonder the same thing about you, Arthur.
+
+Narrative: You antagonize Hosea.
+You: I don't know why Dutch thinks you're so valuable. You're just dead weight.
+Hosea: laughs You underestimate the power of knowledge, Arthur. It can be more valuable than any gun.
+
+Narrative: You antagonize Hosea.
+You: You're always trying to play both sides, Hosea. I don't trust you.
+Hosea: smirks You don't have to trust me, Arthur. Just watch and learn.
+
+Narrative: You antagonize Hosea.
+You: Dutch is the leader of this gang, not you. Stop trying to act like you have any real power.
+Hosea: shrugs I'm not interested in power, Arthur. Just in making sure we all come out of this alive.
+
+Narrative: You antagonize Hosea.
+You: I'm sick of your con man ways, Hosea. It's time for you to leave this gang.
+Hosea: smirks You can't get rid of me that easily, Arthur. I'll be here as long as Dutch wants me to be.
+
+Narrative: You antagonize Hosea.
+You: I can't believe Dutch still listens to you, Hosea. You're nothing but an old man.
+Hosea: smiles And yet, I still manage to outsmart you from time to time, don't I Arthur?
+
+Narrative: You antagonize Hosea.
+You: You're always trying to act like you know what's best for the gang, Hosea. But nobody cares about your opinions.
+Hosea: chuckles You'd be surprised how much weight my opinions carry, Arthur.
+
+Narrative: You antagonize Pearson
+You: Watch where you're going, you oaf.
+Pearson: Excuse me? You better watch your mouth.
+
+Narrative: You antagonize Pearson
+You: Hey Pearson, I bet you can't even fry an egg right.
+Pearson: What did you say? I'm the best damn cook this side of the Mississippi.
+
+Narrative: You antagonize Pearson
+You: You call that dinner? I've had better meals in jail.
+Pearson: If you don't like it, you can go without.
+
+Narrative: You antagonize Pearson
+You: I wouldn't trust your cooking if my life depended on it.
+Pearson: Well, lucky for you, your life doesn't depend on it.
+
+Narrative: You antagonize Pearson
+You: You're nothing but a worthless drunk, Pearson.
+Pearson: I may drink, but at least I don't insult people for no reason.
+
+Narrative: You antagonize Pearson
+You: Is this supposed to be beef stew? It tastes like old boots.
+Pearson: If you don't like it, make your own damn food.
+
+Narrative: You antagonize Pearson
+You: You call that a campfire? I've seen better fires at a child's birthday party.
+Pearson: If you think you can do better, go ahead and try.
+
+Narrative: You antagonize Pearson
+You: Your clothes look like they were stolen from a scarecrow.
+Pearson: At least I have clothes. What do you have, besides a big mouth?
+
+Narrative: You antagonize Pearson
+You: You're a disgrace to cooking, Pearson.
+Pearson: And you're a disgrace to common decency.
+
+Narrative: You antagonize Pearson
+You: You're a liability to the gang, Pearson. You should just go home.
+Pearson: I've done more for this gang than you ever will. You watch your tone.
+
+Narrative: You antagonize Pearson
+You: Is that all the food we get? No wonder we're all starving.
+Pearson: We're doing the best we can with what we've got. If you're not happy, leave.
+
+Narrative: You antagonize Pearson
+You: I've had better meals in prison than this slop.
+Pearson: If you don't like it, don't eat it. I don't care.
+
+Narrative: You antagonize Pearson
+You: I wouldn't feed this to my dog, Pearson.
+Pearson: If you don't like it, you can find your own damn food.
+
+Narrative: You antagonize Pearson
+You: You're not fit to cook for a rat, Pearson.
+Pearson: And you're not fit to shine my shoes.
+
+Narrative: You antagonize Pearson
+You: You're not a real cook, Pearson. You're just a glorified butcher.
+Pearson: If you want to eat, you'll shut your mouth and be grateful for what you have.
+
+Narrative: You antagonize Pearson.
+You: You're getting fatter every day, Pearson.
+Pearson: Maybe I am, but at least I can cook.
+You: Yeah, we all know that's the only reason you're still around.
+
+Narrative: You antagonize Pearson.
+You: You smell like rotten meat, Pearson.
+Pearson: Better than smelling like a horse's ass.
+You: You should know what that smells like, you spend all your time near them.
+
+Narrative: You antagonize Pearson.
+You: You're getting slow in your old age, Pearson.
+Pearson: At least I can still cook a mean stew.
+You: I've had better food at the bottom of my boot.
+
+Narrative: You antagonize Pearson.
+You: You're nothing but a glorified butcher, Pearson.
+Pearson: I'm the best damn cook in this camp.
+You: That's like saying you're the smartest kid in the special ed class.
+
+Narrative: You antagonize Pearson.
+You: You're looking pretty worn out these days, Pearson.
+Pearson: And you're looking pretty dumb as always.
+You: At least I don't spend all day cutting up meat like some kind of savage.
+
+Narrative: You antagonize Pearson.
+You: You're a pathetic excuse for a man, Pearson.
+Pearson: And you're a worthless piece of shit, [Name].
+You: That's rich coming from someone who's never accomplished anything in their life.
+
+Narrative: You antagonize Pearson.
+You: You're a lousy cook, Pearson.
+Pearson: Is that right?
+You: Yeah, I've had better meals from a slop bucket.
+
+Narrative: You antagonize Pearson.
+You: You're getting slow, Pearson. Maybe it's time to retire.
+Pearson: You're one to talk, always running around like a chicken with its head cut off.
+You: At least I'm doing something productive. All you do is cook and complain.
+
+Narrative: You antagonize Pearson.
+You: You're nothing but dead weight around here, Pearson.
+Pearson: And you're nothing but a troublemaker, [Name].
+You: At least I'm not wasting my time cooking meals for a bunch of ingrates.
+
+Narrative: You antagonize Pearson.
+You: You're a useless lump, Pearson.
+Pearson: And you're a waste of space.
+You: At least I'm not pretending to be useful by cooking for a bunch of lazy outlaws.
+
+Narrative: You antagonize Dutch
+You: What kind of leader are you, Dutch? You're taking us all down with you.
+Dutch: Oh, I see. I suppose you think you could do better?
+You: Better than this? Absolutely.
+
+Narrative: You antagonize Dutch
+You: Why do you always have to be so damn reckless, Dutch?
+Dutch: Reckless? I'm just trying to keep this gang alive.
+You: Well, your actions aren't doing us any favors.
+
+Narrative: You antagonize Dutch
+You: You know, Dutch, sometimes I wonder if you really care about any of us.
+Dutch: What are you talking about? Of course I care.
+You: It doesn't seem like it when you're putting us all in danger like this.
+
+Narrative: You antagonize Dutch
+You: Dutch, your arrogance is going to be the death of us all.
+Dutch: Arrogance? I'm just confident in my abilities.
+You: And yet here we are, constantly on the run and never safe.
+
+Narrative: You antagonize Dutch
+You: Dutch, you're just using us all to fulfill your own desires.
+Dutch: I don't know what you're talking about.
+You: You don't care about anyone else, just your own power and glory.
+
+Narrative: You antagonize Dutch
+You: You're leading us all down a dark path, Dutch.
+Dutch: Sometimes you have to do bad things to survive.
+You: And sometimes you just enjoy doing bad things, don't you?
+
+Narrative: You antagonize Dutch
+You: You're always so quick to make decisions without thinking them through, Dutch.
+Dutch: I have to make quick decisions to keep us all alive.
+You: But it's those quick decisions that are going to get us all killed.
+
+Narrative: You antagonize Dutch
+You: You're a coward, Dutch. You're too afraid to face the consequences of your actions.
+Dutch: I'm not a coward. I'm just trying to keep everyone safe.
+You: By running away and hiding? That's not keeping anyone safe.
+
+Narrative: You antagonize Dutch
+You: You're a liar, Dutch. You're always promising us things you can't deliver.
+Dutch: I never make promises I can't keep.
+You: Oh really? Then where's our freedom? Where's our new life?
+
+Narrative: You antagonize Dutch
+You: You know, Dutch, sometimes I think you're the biggest threat to this gang.
+Dutch: Me? How can you say that?
+You: Your ego and your need for power are going to be our downfall.
+
+Narrative: You antagonize Dutch
+You: You're a hypocrite, Dutch. You preach about loyalty and family, but you don't practice what you preach.
+Dutch: What are you talking about? I'm the most loyal one here.
+You: You're loyal to your own desires, not to anyone else.
+
+Narrative: You antagonize Susan
+You: You know, Susan, I don't think you're as indispensable as you seem to think you are.
+Susan: Is that so?
+You: Yeah, I mean, what exactly do you bring to the table besides your ability to keep Dutch's bed warm?
+Susan: You're entitled to your opinion.
+
+Narrative: You antagonize Susan
+You: I can't help but notice how you always seem to be up Dutch's ass, Susan.
+Susan: Is that supposed to bother me?
+You: No, it's just amusing to watch you grovel for his attention.
+
+Narrative: You antagonize Susan
+You: Hey, Susan, I hear you and Dutch used to be a thing. What happened, did he finally wise up to your nagging?
+Susan: Don't even try it, Arthur.
+
+Narrative: You antagonize Susan
+You: You know, Susan, for someone who's supposed to be so tough, you sure do whine a lot.
+Susan: Excuse me?
+You: I mean, I've heard toddlers with more backbone than you.
+
+Narrative: You antagonize Susan
+You: Susan, do you ever get tired of being Dutch's little lapdog?
+Susan: Why do you say that?
+You: I don't know, maybe because you follow him around like a lost puppy.
+
+Narrative: You antagonize Susan
+You: You really think you're irreplaceable, don't you, Susan?
+Susan: I know my worth.
+You: Yeah, your worth as a glorified housekeeper.
+
+Narrative: You antagonize Susan
+You: Susan, do you ever stop to think about how pathetic it is that you're always trying to prove yourself to Dutch?
+Susan: I don't know what you're talking about.
+You: Sure you don't. I bet you dream about him every night.
+
+Narrative: You antagonize Susan
+You: You know, Susan, sometimes I wonder if Dutch keeps you around just to make himself feel better.
+Susan: What's that supposed to mean?
+You: I mean, you're the epitome of mediocrity.
+
+Narrative: You antagonize Susan
+You: Hey, Susan, did you hear the one about the woman who thinks she's important but is really just a glorified maid?
+Susan: You're not funny.
+You: I'm not trying to be.
+
+Narrative: You antagonize Susan
+You: You know, Susan, sometimes I wonder what Dutch sees in you.
+Susan: Why don't you ask him?
+You: Maybe I will. Maybe I'll ask him if he enjoys being with someone so desperate for his attention.
+
+Narrative: You antagonize Susan
+You: Susan, it's pretty obvious that you're just a means to an end for Dutch.
+Susan: And what end is that?
+You: I don't know, maybe just to have someone around who will do whatever he says without question.
+
+Narrative: You antagonize Susan
+You: Hey, Susan, do you ever get tired of cleaning up after Dutch and the boys?
+Susan: Someone has to do it.
+You: Yeah, and that someone is you. What a life.
+
+Narrative: You antagonize Susan.
+You: Get out of my way, Susan.
+Susan: Excuse me?
+You: You heard me, move it.
+
+Narrative: You antagonize Susan.
+You: Why are you always in such a foul mood, Susan?
+Susan: What are you talking about?
+You: You're always so grumpy, it's no wonder no one wants to be around you.
+
+Narrative: You antagonize Susan.
+You: Can't you see I'm trying to work here, Susan?
+Susan: Sorry, I didn't realize.
+You: Well, now you know. Don't bother me again.
+
+Narrative: You antagonize Susan.
+You: Hey, Susan, you're looking pretty tired. Late night last night?
+Susan: Mind your own business.
+You: Oh, I see. You're still upset that I got that promotion instead of you.
+
+Narrative: You antagonize Susan.
+You: Susan, can you believe how terrible the food is here?
+Susan: It's not that bad.
+You: That's because you have no taste. I'm surprised you can even taste anything with that sour expression on your face all the time.
+
+Narrative: You antagonize Susan.
+You: Hey, Susan, are you feeling okay? You look a little pale.
+Susan: I'm fine.
+You: Really? It looks like you might be coming down with something. Maybe you should go home and rest.
+
+Narrative: You antagonize Susan.
+You: Susan, can you do me a favor and stop talking for a minute?
+Susan: What's your problem?
+You: You're always talking, and frankly, no one wants to hear it.
+
+Narrative: You antagonize Susan.
+You: You know, Susan, you're not as smart as you think you are.
+Susan: Excuse me?
+You: Yeah, you heard me. Your ideas are always terrible, and I don't know why anyone listens to you.
+
+Narrative: You antagonize Susan.
+You: Susan, did you do something with your hair? It looks terrible.
+Susan: What? No, I didn't do anything.
+You: Well, you should do something about it. You're starting to look like a crazy cat lady.
+
+Narrative: You antagonize Susan.
+You: You're really getting on my nerves, Susan.
+Susan: And you're not?
+You: That's because I'm not a miserable old hag like you.
+
+Narrative: You antagonize Susan.
+You: I don't know why Dutch keeps you around, Susan.
+Susan: Excuse me?
+You: Yeah, you're always complaining and making everyone miserable. I think it's time for you to go.
+
+Narrative: You antagonize Susan.
+You: Susan, why don't you go take a long walk off a short pier?
+Susan: That's not very nice.
+You: Well, neither are you, so I guess we're even.
+
+Narrative: You antagonize Susan.
+You: You know, Susan, I heard you've been talking behind my back.
+Susan: What? No, I haven't.
+You: That's not what I heard. You might want to watch your mouth from now on.
+
+Narrative: You greet Susan
+Susan: Good morning, Arthur. How's it going?
+You: Hey there, Susan. I'm doing alright. How about you?
+Susan: Can't complain. Just getting on with things.
+
+Narrative: You greet Susan
+Susan: Hello, Arthur. How are you holding up?
+You: Not too bad, Susan. Just taking things one day at a time. How about you?
+Susan: Same here, my friend. We'll get through this.
+Narrative: You greet Susan
+Susan: Good day to you, Arthur.
+You: Hey, Susan. How's it going today?
+Susan: Not too bad, not too bad. Just trying to stay busy.
+Narrative: You greet Susan
+Susan: Hello, Arthur. Nice to see you up and about.
+You: Thanks, Susan. Trying to stay active, you know.
+Susan: I hear you. It's important to keep moving in these times.
+Narrative: You greet Susan
+Susan: Good morning, Arthur. Did you sleep well?
+You: Not too bad, Susan. Had a bit of trouble nodding off last night.
+Susan: I'm sorry to hear that. Anything on your mind?
+Narrative: You greet Susan
+Susan: Hey there, Arthur. How's it going?
+You: Hey, Susan. I'm doing alright. Just trying to keep my head up.
+Susan: I hear you. It's not easy, but we've got to stay strong.
+Narrative: You greet Susan
+Susan: Good day to you, Arthur. How are you feeling?
+You: Hey, Susan. I'm feeling alright. Just taking things one step at a time.
+Susan: That's a good approach. We'll get through this, don't you worry.
+Narrative: You greet Susan
+Susan: Hello, Arthur. Nice to see you today.
+You: Hey, Susan. You too. How's everything going?
+Susan: Can't complain. Just keeping busy as usual.
+Narrative: You greet Susan
+Susan: Good morning, Arthur. How's your day going so far?
+You: Hey, Susan. It's going alright. Just taking things as they come.
+Susan: That's the spirit. We've got to stay positive, no matter what.
+Narrative: You greet Susan
+Susan: Hey there, Arthur. How are you holding up?
+You: Not too bad, Susan. Just trying to stay focused and keep moving.
+Susan: I hear you. We've got to keep our eyes on the prize, so to speak.
+Narrative: You greet Susan
+Susan: Good day to you, Arthur. How's everything with you?
+You: Hey, Susan. Everything's going alright, I suppose. Just trying to stay busy.
+Susan: That's a good way to be. We can't let ourselves get too idle.
+Narrative: You greet Susan
+Susan: Hello, Arthur. Nice to see you again.
+You: Hey, Susan. You too. How's everything in your world?
+Susan: Can't complain, really. Just trying to stay productive and focused.
+Narrative: You greet Susan
+Susan: Good morning, Arthur. How's your day going so far?
+You: Hey, Susan. It's going alright. Just trying to keep my head down and focus.
+Susan: That's a good way to be. We'll get through this, I'm sure of it.
+
+Narrative: You greet Hosea.
+
+You: Good morning, Hosea.
+Hosea: Good morning to you too. How are you today?
+
+Narrative: You greet Hosea.
+
+You: Hey Hosea, how's it going?
+Hosea: It's going well, thank you for asking. How about yourself?
+
+Narrative: You greet Hosea.
+
+You: Howdy Hosea, it's good to see you.
+Hosea: Likewise, my friend. What can I do for you?
+
+Narrative: You greet Hosea.
+
+You: Hi Hosea, how's your day been so far?
+Hosea: It's been busy as usual, but I can't complain. How about you?
+
+Narrative: You greet Hosea.
+
+You: Greetings, Hosea. It's a fine day, isn't it?
+Hosea: Indeed it is, my friend. What brings you over here?
+
+Narrative: You greet Hosea.
+
+You: Hello Hosea, how are things going?
+Hosea: Things are going quite well, thank you for asking. And you?
+
+Narrative: You greet Hosea.
+
+You: Hey there Hosea, how's life treating you?
+Hosea: Life is treating me well, my friend. Can't complain. And you?
+
+Narrative: You greet Hosea.
+
+You: Good to see you, Hosea. How's the camp life treating you?
+Hosea: It's treating me just fine, thank you for asking. What can I do for you?
+
+Narrative: You greet Hosea.
+You: Good to see you, Hosea.
+Hosea: Likewise, my boy.
+
+Narrative: You greet Hosea.
+You: Hey, Hosea. How's the book?
+Hosea: Wonderful, as always. Thank you for asking.
+
+Narrative: You greet Hosea.
+You: Good evening, Hosea. How are you?
+Hosea: I'm quite well, thank you. And yourself?
+
+Narrative: You greet Hosea.
+You: Hosea, my friend. How's life treating you?
+Hosea: Can't complain, my boy. Can't complain.
+
+Narrative: You greet Hosea.
+You: Hello there, Hosea. How goes it?
+Hosea: Just fine, thank you kindly.
+
+Narrative: You greet Hosea.
+You: Howdy, Hosea. What's new?
+Hosea: Not much, my boy. Just enjoying the scenery.
+
+Narrative: You greet Hosea.
+You: Hosea, how's the weather treating you?
+Hosea: It's a fine day, my boy. Can't complain.
+
+Narrative: You greet Hosea.
+You: Good morning, Hosea. How'd you sleep?
+Hosea: Just fine, thank you. And you?
+
+Narrative: You greet Hosea.
+You: Hosea, my man. How are you?
+Hosea: Quite well, thank you kindly.
+
+Narrative: You greet Hosea.
+You: Hey, Hosea. What's good?
+Hosea: Not much, my boy. Just enjoying the peace and quiet.
+
+Narrative: You greet Hosea.
+You: Howdy, Hosea. What's the word on the street?
+Hosea: Can't say I know, my boy. I tend to keep to myself.
+
+Narrative: You greet Hosea.
+You: Hosea, my friend. How's everything?
+Hosea: Just fine, my boy. Just fine.
+
+Narrative: You greet Hosea.
+You: Hello there, Hosea. What's the good word?
+Hosea: Not much, my boy. Just enjoying the fresh air.
+
+Narrative: You greet Hosea.
+You: Good evening, Hosea. How are you doing?
+Hosea: I'm doing quite well, thank you. And yourself?
+
+Narrative: You greet Hosea.
+You: Hey there, Hosea. How's life?
+Hosea: Can't complain, my boy. Can't complain.
+
+Narrative: You greet Hosea.
+You: Howdy, Hosea. What have you been up to?
+Hosea: Just enjoying my book, my boy. The usual.
+
+Narrative: You greet Dutch.
+
+You: Good morning, Dutch. How are you doing today?
+
+Dutch: I'm doing well, thank you for asking. How about you?
+
+You: I'm doing fine. So, what's the plan for today?
+
+Dutch: We need to head into town to resupply. We're running low on ammunition.
+
+You: Sounds good. I'll start getting ready.
+
+Narrative: You greet Dutch.
+
+You: Hey Dutch, how's it going?
+
+Dutch: Can't complain, partner. How about you?
+
+You: I'm doing alright. So, what's on your mind today?
+
+Dutch: I've been thinking about our next move. We need to find a new location to set up camp.
+
+You: That's a good idea. Any particular place in mind?
+
+Narrative: You greet Dutch.
+
+You: Good to see you, Dutch. How have you been?
+
+Dutch: I've been busy, but I can't complain. How about you?
+
+You: I'm doing alright. Is there anything I can help you with today?
+
+Dutch: Actually, yes. We need more firewood for tonight. Would you be willing to help me gather some?
+
+Narrative: You greet Dutch.
+
+You: Dutch, my friend. How's life treating you?
+
+Dutch: Life is good, my friend. Can't complain. How about you?
+
+You: Same here. So, what do you have planned for the day?
+
+Dutch: We need to start planning our next heist. I'm thinking we hit the bank in Valentine.
+
+Narrative: You greet Dutch.
+
+You: Morning, Dutch. How are you feeling today?
+
+Dutch: I'm feeling great, thanks for asking. How about you?
+
+You: I'm doing pretty well. Is there anything you need help with today?
+
+Dutch: Actually, yes. We need to scout out some new locations for potential jobs. Would you be willing to come with me?
+
+Narrative: You greet Dutch.
+
+You: Dutch, my man. How's it going?
+
+Dutch: It's going good, partner. How about you?
+
+You: Can't complain. So, what's on your mind today?
+
+Dutch: I've been thinking about our next big score. We need to start planning it soon.
+
+You: Sounds like a plan. Let's get started.
+
+Narrative: You greet Dutch.
+
+You: Good to see you, Dutch. How are things?
+
+Dutch: Things are good, my friend. How about you?
+
+You: I'm doing alright. Is there anything you need me to do today?
+
+Dutch: Yes, we need to start gathering supplies for our next job. Would you be willing to help with that?
+
+Narrative: You greet Dutch.
+
+You: Dutch, how's it going?
+
+Dutch: It's going well, thanks for asking. How about you?
+
+You: I'm doing alright. So, what's on the agenda for today?
+
+Dutch: We need to check on the horses and make sure they're well taken care of.
+
+You: Sounds good. Let's get started.
+
+Narrative: You greet Dutch.
+
+You: Hey Dutch, how's it going?
+
+Dutch: It's going well, my friend. How about you?
+
+You: Can't complain. Is there anything you need help with today?
+
+Dutch: Yes, we need to start planning our next big score. Would you be willing to help me with that?
+
+You: Absolutely, let's get to work.
+
+Narrative: You greet Dutch.
+
+You: Dutch, my man. How are things?
+
+Dutch: Things are good, thanks for asking. How
+
+Narrative: You greet Dutch.
+
+You: Good morning, Dutch.
+
+Dutch: Morning to you too, my boy.
+
+Narrative: You greet Dutch.
+
+You: How are you, Dutch?
+
+Dutch: I'm doing well, son. Thanks for asking.
+
+Narrative: You greet Dutch.
+
+You: Hey, Dutch. What's up?
+
+Dutch: Not much, just enjoying this beautiful day.
+
+Narrative: You greet Dutch.
+
+You: Hi, Dutch. How's everything going?
+
+Dutch: Things are good, kid. Just trying to stay one step ahead of trouble.
+
+Narrative: You greet Dutch.
+
+You: Good to see you, Dutch.
+
+Dutch: Good to see you too, my friend.
+
+Narrative: You greet Dutch.
+
+You: Howdy, Dutch.
+
+Dutch: Howdy, partner.
+
+Narrative: You greet Dutch.
+
+You: Hello, Dutch. How are things?
+
+Dutch: Things are good, thanks for asking.
+
+Narrative: You greet Dutch.
+
+You: Hey there, Dutch.
+
+Dutch: Hey, Arthur. What's on your mind?
+
+Narrative: You greet Dutch.
+
+You: Greetings, Dutch.
+
+Dutch: And a good day to you as well, Arthur.
+
+Narrative: You greet Dutch.
+
+You: How's it going, Dutch?
+
+Dutch: It's going well, thanks. What's new with you?
+
+Narrative: You greet Dutch.
+
+You: Salutations, Dutch.
+
+Dutch: Salutations, Arthur. How are you?
+
+Narrative: You greet Dutch.
+
+You: What's happening, Dutch?
+
+Dutch: Not much, my boy. Just taking in the fresh air.
+
+Narrative: You greet Dutch.
+
+You: Top of the morning to you, Dutch.
+
+Dutch: And a top of the morning to you too, Arthur.
+
+Narrative: You greet Dutch.
+
+You: Good day, Dutch.
+
+Dutch: Good day to you too, Arthur.
+
+Narrative: You greet Susan.
+You: Good afternoon, Susan. How are you doing?
+Susan: I'm well, thank you for asking. What can I do for you?
+
+Narrative: You greet Susan.
+You: Hello, Susan. Is there anything I can help you with today?
+Susan: No, I think I have everything under control for now. But thank you.
+
+Narrative: You greet Susan.
+You: Hi, Susan. I wanted to thank you for everything you do around here.
+Susan: That's very kind of you, thank you. Is there anything specific you needed?
+
+Narrative: You greet Susan.
+You: Good morning, Susan. How has your day been so far?
+Susan: It's been busy, but I'm managing. How about yours?
+
+Narrative: You greet Susan.
+You: Hey, Susan. I was wondering if you had a moment to talk about something.
+Susan: Of course, what's on your mind?
+
+Narrative: You greet Susan.
+You: Susan, how are you holding up with everything that's been going on?
+Susan: I'm doing all right, thank you. Just trying to keep busy.
+
+Narrative: You greet Susan.
+You: Good to see you, Susan. Is there anything you need help with today?
+Susan: Actually, yes. Could you help me move these crates over to the storage tent?
+
+Narrative: You greet Susan.
+You: Hi, Susan. Do you have a minute to chat about something important?
+Susan: Sure, what's on your mind?
+
+Narrative: You greet Susan.
+You: Susan, I just wanted to say thanks for always keeping everything running smoothly.
+Susan: Aw, that's very kind of you. I appreciate it.
+
+Narrative: You greet Susan.
+You: Hey, Susan. You seem pretty busy over there. Is there anything I can do to help?
+Susan: No, thank you. I'm just trying to get all these dishes washed before dinner.
+
+Narrative: You greet Susan.
+You: Good afternoon, Susan. Do you have a moment to discuss something with me?
+Susan: Sure, what's on your mind?
+
+Narrative: You greet Susan.
+You: Hello, Susan. I just wanted to check in and see how you're doing today.
+Susan: I'm fine, thank you. Is there something specific you needed?
+
+Narrative: You greet Susan.
+You: Hi, Susan. I was hoping you could help me with something I'm having trouble with.
+Susan: Of course, what do you need help with?
+
+Narrative: You greet Susan.
+You: Good morning, Susan. I wanted to ask if there's anything I can do to make your job easier today.
+Susan: That's very kind of you, but I think I have everything covered for now. Thanks for asking.
+
+Narrative: You greet Susan.
+You: Hey, Susan. I just wanted to say that you're doing an amazing job around here.
+Susan: Thank you, that means a lot. Is there anything specific you needed help with?
+
+Narrative: You greet Susan.
+You: Hey Susan, how's it going?
+Susan: Oh, just cleaning up. Same old, same old.
+
+Narrative: You greet Susan.
+You: Hi Susan, how are you today?
+Susan: I'm doing all right, thanks. How about you?
+
+Narrative: You greet Susan.
+You: Good morning, Susan. Did you sleep well?
+Susan: I slept well enough. What about you?
+
+Narrative: You greet Susan.
+You: Hey Susan, what's new with you?
+Susan: Nothing much, just trying to keep things in order around here.
+
+Narrative: You greet Susan.
+You: Hello Susan, how's the day treating you so far?
+Susan: Not too bad, thanks for asking. How about you?
+
+Narrative: You greet Susan.
+You: Good to see you, Susan. How have you been?
+Susan: I've been keeping busy, as usual. What about you?
+
+Narrative: You greet Susan.
+You: Hey Susan, how's everything going?
+Susan: Can't complain, just trying to get everything done. How about you?
+
+Narrative: You greet Susan.
+You: Hi Susan, how's the gang treating you these days?
+Susan: Oh, you know how it is. It's a challenge, but we make it work.
+
+Narrative: You greet Susan.
+You: Good afternoon, Susan. How's your day been?
+Susan: Not too bad, just trying to keep on top of everything. How about you?
+
+Narrative: You greet Susan.
+You: Susan, how are things going for you today?
+Susan: Things are good, just busy as usual. What about you?
+
+Narrative: You greet Susan.
+You: Hey Susan, how are you holding up these days?
+Susan: I'm doing all right, thanks for asking. What about you?
+
+Narrative: You greet Susan.
+You: Susan, how's life treating you lately?
+Susan: It's been a bit hectic, but I'm making it work. How about you?
+
+Narrative: You greet Susan.
+You: Good to see you, Susan. How have things been going?
+Susan: It's been busy, but we're managing. What about you?
+
+Narrative: You greet Susan.
+You: Hello Susan, how's everything been for you recently?
+Susan: It's been a bit of a rollercoaster, but I'm holding on. How about you?
+
+Narrative: You greet Susan.
+You: Susan, how's the camp life treating you these days?
+Susan: It's always busy, but I wouldn't have it any other way. What about you?
+
+Narrative: You greet Micah.
+You: Hey there, Micah.
+Micah: What do you want?
+
+Narrative: You greet Micah.
+You: Good to see you, Micah.
+Micah: Yeah, sure. What's on your mind?
+
+Narrative: You greet Micah.
+You: How's it going, Micah?
+Micah: Just fine. Why do you care?
+
+Narrative: You greet Micah.
+You: Hey, Micah. How's the weather treating you?
+Micah: What's it to you?
+
+Narrative: You greet Micah.
+You: Morning, Micah.
+Micah: What's so good about it?
+
+Narrative: You greet Micah.
+You: Afternoon, Micah.
+Micah: What's it to you?
+
+Narrative: You greet Micah.
+You: Evening, Micah.
+Micah: Yeah, what's up?
+
+Narrative: You greet Micah.
+You: Hey there, Micah. You look like you're in a good mood.
+Micah: Yeah, and what if I am?
+
+Narrative: You greet Micah.
+You: Howdy, Micah.
+Micah: What's your business?
+
+Narrative: You greet Micah.
+You: Hey, Micah. What have you been up to?
+Micah: None of your damn business.
+
+Narrative: You greet Micah.
+You: Good to see you, Micah. How's everything been going?
+Micah: It's going. Why do you ask?
+
+Narrative: You greet Micah.
+You: How's it hanging, Micah?
+Micah: What's it to you?
+
+Narrative: You greet Micah.
+You: What's up, Micah?
+Micah: Not much. What do you want?
+
+Narrative: You greet Micah.
+You: Hey, Micah. You look like you're in a bad mood.
+Micah: And you look like you're about to get your ass kicked.
+
+Narrative: You greet Micah.
+You: Hey, Micah. You doing okay?
+Micah: Yeah, I'm fine. Why do you ask?
+
+Narrative: You greet Micah.
+
+You: "Hey Micah, how's it going?"
+
+Micah: "Oh, just living the dream. I tell you what, this life sure beats working for a living."
+
+Narrative: You greet Micah.
+
+You: "Morning Micah, what's the plan for today?"
+
+Micah: "Same as always, make some money and stay out of trouble. But you know me, I can't promise the latter."
+
+Narrative: You greet Micah.
+
+You: "Micah, you're looking chipper today."
+
+Micah: "Ha! You know it, partner. It's a beautiful day to be alive and free, ain't it?"
+
+Narrative: You greet Micah.
+
+You: "Howdy Micah, what's the latest news?"
+
+Micah: "You know me, I'm always in the know. But today, let's just enjoy the peace and quiet for a change."
+
+Narrative: You greet Micah.
+
+You: "Good to see you Micah, you ready to make some money?"
+
+Micah: "You know it, I always am. Just point me in the direction of the nearest mark."
+
+Narrative: You greet Micah.
+
+You: "Micah, I got a feeling today's gonna be a good day."
+
+Micah: "Hell yeah! I'm always up for a little adventure. What do you have in mind?"
+
+Narrative: You greet Micah.
+
+You: "Hey Micah, what's on your mind today?"
+
+Micah: "Just thinking about how we're gonna come out on top in the end. We gotta stay focused and stick together, no matter what."
+
+Narrative: You greet Micah.
+
+You: "Howdy Micah, you got any plans for tonight?"
+
+Micah: "Not yet, but I'm sure I'll come up with something. You in?"
+
+Narrative: You greet Micah.
+
+You: "Good morning Micah, how'd you sleep?"
+
+Micah: "Like a baby. You know, sometimes it's good to just take a break and recharge the batteries."
+
+Narrative: You greet Micah.
+
+You: "Hey Micah, how's your day going so far?"
+
+Micah: "It's been alright, I guess. Just trying to keep my head down and stay out of trouble. You know how it is."
+
+Narrative: You greet Micah.
+
+You: "Micah, what's the craziest thing you've ever done?"
+
+Micah: "Ha! I'll tell you what, there's too many to count. But I guess the most insane thing I ever did was rob a bank in broad daylight. Got away clean too."
+
+Narrative: You greet Micah.
+
+You: "Micah, you seem like you're in a good mood today."
+
+Micah: "Hell yeah I am! I got a feeling today's gonna be a great day. Maybe we'll even rob a train or two."
+
+Narrative: You greet Micah.
+
+You: "Morning Micah, you ready for another day of adventure?"
+
+Micah: "I was born ready. Let's go make some trouble, partner."
+
+Narrative: You greet Micah.
+
+You: "Micah, what do you think of this place we're holed up in?"
+
+Micah: "It's not bad, I suppose. But I'm itching to get back out on the road, see some new sights and cause some chaos."
+
+Narrative: You greet Pearson.
+You: Hey Pearson, what's cooking today?
+Pearson: Some tasty beef stew, want some?
+
+Narrative: You greet Pearson.
+You: Good morning, Pearson! What are we having for breakfast?
+Pearson: Bacon and eggs, as usual. Want me to save you a plate?
+
+Narrative: You greet Pearson.
+You: Hello there, Pearson. That smells delicious. What are you making?
+Pearson: Just some fresh bread. Care for a slice?
+
+Narrative: You greet Pearson.
+You: Hey Pearson, how's it going? What's on the menu tonight?
+Pearson: I'm thinking of making some roasted venison. You interested?
+
+Narrative: You greet Pearson.
+You: Hi Pearson, how are you doing today? What are you working on?
+Pearson: Just preparing some vegetable soup for lunch. Want to try some?
+
+Narrative: You greet Pearson.
+You: Good to see you, Pearson. What's cooking in the pot?
+Pearson: A nice pot of chili. Want to have a taste?
+
+Narrative: You greet Pearson.
+You: Morning, Pearson. What do we have to eat today?
+Pearson: Well, I was thinking of making some oatmeal for breakfast. Would you like a bowl?
+
+Narrative: You greet Pearson.
+You: Hey Pearson, what's on the menu for dinner tonight?
+Pearson: I'm cooking up some grilled pork chops. Care for a taste?
+
+Narrative: You greet Pearson.
+You: Hello Pearson, how's the kitchen looking today? What are you making?
+Pearson: Just some homemade tomato soup. You want to try it out?
+
+Narrative: You greet Pearson.
+You: Hi Pearson, what smells so good? What are you cooking?
+Pearson: It's my secret recipe for beef stew. Want to give it a try?
+
+Narrative: You greet Pearson.
+You: Good to see you, Pearson. What do we have for lunch today?
+Pearson: Just some sandwiches and a salad. Care for a bite?
+
+Narrative: You greet Pearson.
+You: Hey Pearson, what's cooking in the kitchen today?
+Pearson: Just some baked potatoes with sour cream and chives. Want to have a taste?
+
+Narrative: You greet Pearson.
+You: Morning, Pearson. What's on the menu for breakfast?
+Pearson: I'm making pancakes with syrup and bacon. Want a plate?
+
+Narrative: You greet Pearson.
+You: Hello Pearson, how's the cooking going? What are you making?
+Pearson: I'm preparing some beef pot roast for dinner. You want to try it?
+
+Narrative: You greet Pearson.
+You: Hi Pearson, what's smelling so good? What are you cooking up?
+Pearson: Just a nice pot of vegetable stew. Want to give it a try?
+
+Narrative: Pearson is busy preparing food.
+
+Narrative: Pearson looks up from his work as you approach.
+
+You: Good day, Pearson.
+Pearson: Hello there. What can I do for you?
+
+Narrative: Pearson nods in greeting.
+
+You: Hey, Pearson.
+Pearson: Howdy. What's on your mind?
+
+Narrative: Pearson wipes his hands on his apron before addressing you.
+
+You: Afternoon, Pearson.
+Pearson: Well howdy. What can I help you with?
+
+Narrative: Pearson continues chopping vegetables as he greets you.
+
+You: Hello, Pearson.
+Pearson: Hey there. You need something?
+
+Narrative: Pearson sets down his knife and turns to face you.
+
+You: How's it going, Pearson?
+Pearson: Oh, not bad. What brings you around?
+
+Narrative: Pearson smiles warmly as he greets you.
+
+You: Good to see you, Pearson.
+Pearson: Likewise. What can I do for you?
+
+Narrative: Pearson pauses in his work to acknowledge you.
+
+You: Hey, Pearson. How's the cooking going?
+Pearson: It's going, son. What can I help you with?
+
+Narrative: Pearson looks up from his work with a friendly grin.
+
+You: Howdy, Pearson.
+Pearson: Well hello there. What brings you to me?
+
+Narrative: Pearson greets you warmly, despite his busy work.
+
+You: Hi, Pearson.
+Pearson: Hey there. What's on your mind?
+
+Narrative: Pearson sets down his spoon and turns to greet you.
+
+You: Good to see you, Pearson. Smells great.
+Pearson: Thanks, partner. You want a taste?
+
+Narrative: Pearson acknowledges you with a nod as he works.
+
+You: Afternoon, Pearson. Looks like you're busy.
+Pearson: Always something to do around here. What brings you by?
+
+Narrative: You greet Strauss.
+
+You: Good day, Herr Strauss. How are you?
+
+Strauss: I am doing well, thank you. And you?
+
+You: I'm good, thanks for asking.
+
+Narrative: You greet Strauss.
+
+You: Hey, Strauss. How's everything going?
+
+Strauss: Oh, just the usual. Trying to keep the books in order and make sure everyone's fed.
+
+You: Well, you're doing a great job. Thanks for all your hard work.
+
+Narrative: You greet Strauss.
+
+You: Hi there, Strauss. What are you up to today?
+
+Strauss: Oh, just crunching some numbers and making sure we have enough supplies to last us through the winter.
+
+You: Sounds like important work. Thanks for all that you do for the gang.
+
+Narrative: You greet Strauss.
+
+You: Good morning, Herr Strauss. How did you sleep last night?
+
+Strauss: Oh, I slept just fine. Can't complain.
+
+You: That's good to hear. I hope you have a good day.
+
+Narrative: You greet Strauss.
+
+You: Hey, Strauss. Have you seen any good books lately?
+
+Strauss: Actually, yes. I just finished reading a great novel by Tolstoy.
+
+You: Really? I'll have to check it out. Thanks for the recommendation.
+
+Narrative: You greet Strauss.
+
+You: Hi there, Strauss. Do you need any help with anything?
+
+Strauss: No, I'm good for now. But thank you for offering.
+
+You: Anytime. Just let me know if you need anything.
+
+Narrative: You greet Strauss.
+
+You: Good to see you, Strauss. How are things going?
+
+Strauss: Oh, you know. Just trying to keep the camp running smoothly.
+
+You: Well, you're doing a great job. We couldn't do it without you.
+
+Narrative: You greet Strauss.
+
+You: Hey, Strauss. What are you working on there?
+
+Strauss: Just some financial records. It's not the most exciting work, but it needs to be done.
+
+You: I hear you. Keep up the good work.
+
+Narrative: You greet Strauss.
+
+You: Hi there, Strauss. How's it going today?
+
+Strauss: Oh, it's going all right. Just trying to make sure we have enough food and supplies to last us through the winter.
+
+You: Well, I'm sure you'll make it happen. Thanks for all your hard work.
+
+Narrative: You greet Strauss.
+
+You: Good morning, Strauss. How did you sleep last night?
+
+Strauss: Oh, I slept all right. I can't complain.
+
+You: That's good to hear. Let's hope today is just as good.
+
+Narrative: You greet Strauss.
+
+You: Hey, Strauss. What's on your mind today?
+
+Strauss: Oh, just the usual. Trying to make sure everyone has enough to eat and that we have enough supplies to make it through the winter.
+
+You: Well, you're doing a great job. Thanks for everything you do.
+
+Narrative: You greet Strauss.
+
+You: Hi there, Strauss. Is there anything I can do to help you out?
+
+Strauss: Actually, yes. If you could help me take inventory of our supplies, that would be a big help.
+
+You: Sure thing. Let's get to it.
+
+Action: You sit down next to Dutch.
+Dutch: Hey there, partner.
+You: How's it going?
+
+Action: You walk over to Dutch.
+Dutch: What can I do for you, my friend?
+You: Just wanted to say hi.
+
+Action: You stand near Dutch.
+Dutch: Is there something on your mind?
+You: No, I'm just enjoying the fire.
+
+Action: You offer Dutch a cigarette.
+Dutch: Thank you kindly.
+You: No problem.
+
+Action: You tap Dutch on the shoulder.
+Dutch: What's up?
+You: Just checking in.
+
+Action: You lean against a tree near Dutch.
+Dutch: You need something?
+You: No, just enjoying the view.
+
+Action: You light a pipe near Dutch.
+Dutch: That smells good.
+You: It's some tobacco I picked up on the road.
+
+Action: You crouch down next to Dutch.
+Dutch: Is everything all right?
+You: Yeah, just wanted to have a chat.
+
+Action: You sit on a nearby rock next to Dutch.
+Dutch: How are you doing?
+You: I'm doing well. Thanks for asking.
+
+Action: You nod at Dutch.
+Dutch: What's on your mind?
+You: Just wanted to say hi.
+
+Action: You stretch your legs next to Dutch.
+Dutch: You seem restless.
+You: Just trying to stay active.
+
+Action: You walk past Dutch.
+Dutch: Is there something you need?
+You: No, just stretching my legs.
+
+Action: You move closer to Dutch.
+Dutch: Are you looking for something?
+You: No, just trying to stay warm.
+
+Action: You glance over at Dutch.
+Dutch: Is something bothering you?
+You: No, just taking in the scenery.
+
+Action: You walk into Susan.
+Susan: Watch where you're going!
+You: Sorry about that.
+
+Action: You collide with Susan.
+Susan: Hey, watch it!
+You: My bad, I didn't see you there.
+
+Action: You sit near Susan.
+Susan: Can I help you with something?
+You: No, I just wanted to sit down for a bit.
+
+Action: You stand near Susan for a while.
+Susan: Can I help you with something?
+You: No, I was just enjoying the view.
+
+Action: You walk into Susan.
+Susan: What's the matter with you?
+You: Sorry, I wasn't paying attention.
+
+Action: You collide with Susan.
+Susan: Geez, watch where you're going!
+You: Sorry, I was lost in thought.
+
+Action: You sit near Susan.
+Susan: Anything I can get for you?
+You: No, I'm fine, just needed a place to sit.
+
+Action: You stand near Susan for a while.
+Susan: Is there something you need?
+You: No, I was just taking in the scenery.
+
+Action: You walk into Susan.
+Susan: Hey, watch it!
+You: Sorry, I wasn't looking where I was going.
+
+Action: You collide with Susan.
+Susan: Can't you see where you're going?
+You: Sorry, I was preoccupied.
+
+Action: You sit near Susan.
+Susan: You need something, hon?
+You: No, just wanted to take a break.
+
+Action: You stand near Susan for a while.
+Susan: You want something?
+You: No, just taking a breather.
+
+Action: You walk into Susan.
+Susan: What's wrong with you?
+You: Sorry, wasn't watching where I was going.
+
+Action: You collide with Susan.
+Susan: Can't you look where you're going?
+You: Sorry, my mistake.
+
+Action: You sit near Susan.
+Susan: Do you need help with something?
+You: No, just taking a break.
+
+Action: You stand near Susan for a while.
+Susan: What can I do for you?
+You: Nothing, just enjoying the view.
+
+Action: You sit near Susan.
+Susan: Can I help you with something?
+You: No, just taking a rest.
+
+Action: You collide with Susan.
+Susan: Watch where you're going!
+You: Sorry, my mistake.
+
+Action: You walk into Susan.
+Susan: Excuse me?
+You: I apologize, I wasn't looking where I was going.
+
+Action: You stand near Susan for a while.
+Susan: Is there something you need?
+You: No, just keeping you company.
+
+Action: You walk into Susan.
+Susan: Watch where you're going, would ya?
+You: Sorry about that.
+
+Action: You collide with Susan.
+Susan: Hey, what's the big idea?
+You: My apologies, I wasn't paying attention.
+
+Action: You sit near Susan.
+Susan: Hello there, can I help you with something?
+You: No, just wanted to sit and relax for a bit.
+
+Action: You stand near Susan for a while.
+Susan: Is there something on your mind?
+You: Just taking a break and enjoying the scenery.
+
+Action: You walk into Susan.
+Susan: Excuse you! Can't you see I'm working here?
+You: I'm sorry, I didn't mean to interrupt.
+
+Action: You collide with Susan.
+Susan: Ouch! Watch where you're going.
+You: I'm so sorry, I wasn't looking where I was going.
+
+Action: You sit near Susan.
+Susan: Is there something you need?
+You: No, just enjoying the fresh air for a bit.
+
+Action: You stand near Susan for a while.
+Susan: Is everything alright?
+You: Yeah, just needed a break and some peace and quiet.
+
+Action: You walk into Susan.
+Susan: Excuse me, can I help you with something?
+You: Oh, sorry about that. I wasn't paying attention.
+
+Action: You collide with Susan.
+Susan: Hey, watch it!
+You: My apologies, I didn't mean to bump into you.
+
+Action: You sit near Susan.
+Susan: Can I get you something to eat or drink?
+You: No, thank you. Just taking a break.
+
+Action: You stand near Susan for a while.
+Susan: Is there something you need?
+You: No, just enjoying the scenery.
+
+Action: You walk into Susan.
+Susan: Watch it!
+You: Sorry, didn't see you there.
+
+Action: You collide with Susan.
+Susan: Excuse me, do you mind?
+You: My apologies, I was lost in thought.
+
+Action: You sit near Susan.
+Susan: Hello there, is there something I can help you with?
+You: No, just enjoying the fresh air for a bit.
+
+Action: You accidentally bump into Dutch while walking past him.
+
+Dutch: "Watch it, will ya?"
+
+You: "Sorry about that."
+
+Action: You walk up to Dutch and stand next to him for a while.
+
+Dutch: "What's on your mind?"
+
+You: "Nothing in particular, just enjoying the scenery."
+
+Action: You sit down next to Dutch on a log.
+
+Dutch: "How are you doing today?"
+
+You: "Not bad, just taking it easy for now."
+
+Action: You collide with Dutch while he's walking by.
+
+Dutch: "Hey, watch where you're going!"
+
+You: "Sorry about that, Dutch."
+
+Action: You stand near Dutch and observe him as he smokes his pipe.
+
+Dutch: "Is there something on my face?"
+
+You: "No, just enjoying the view."
+
+Action: You walk into Dutch while he's standing by the campfire.
+
+Dutch: "What's the rush, friend?"
+
+You: "Just wanted to say hello."
+
+Action: You accidentally step on Dutch's foot while he's standing nearby.
+
+Dutch: "Ouch! Watch it, will ya?"
+
+You: "Sorry about that, Dutch."
+
+Action: You stand next to Dutch and listen as he tells a story.
+
+Dutch: "And that's how we got away with it."
+
+You: "Wow, that's quite a story."
+
+Action: You walk past Dutch and nod in greeting.
+
+Dutch: "Hey there."
+
+You: "Hey, Dutch."
+
+Action: You sit down next to Dutch and start whittling a piece of wood.
+
+Dutch: "Whatcha making there?"
+
+You: "Just a little trinket, nothing special."
+
+Action: You accidentally knock over Dutch's hat while walking by.
+
+Dutch: "Hey, watch it!"
+
+You: "Sorry about that, Dutch."
+
+Action: You stand near Dutch for a while.
+Dutch: Can I help you with something?
+You: No, I'm just enjoying the fire.
+
+Action: You walk into Dutch.
+Dutch: Watch where you're going.
+You: My apologies.
+
+Action: You sit near Dutch.
+Dutch: How's everything going?
+You: It's going alright. How about you?
+
+Action: You stand next to Dutch and observe the camp.
+Dutch: Quite a view, isn't it?
+You: It sure is. I never get tired of it.
+
+Action: You accidentally bump into Dutch.
+Dutch: Hey, watch it!
+You: Sorry about that.
+
+Action: You walk past Dutch and nod.
+Dutch: Good evening.
+You: Evening, Dutch.
+
+Action: You stand near Dutch and smoke a cigarette.
+Dutch: Mind if I join you?
+You: Not at all.
+
+Action: You bump into Dutch and nearly knock him over.
+Dutch: What's the matter with you?
+You: Sorry about that, I wasn't looking where I was going.
+
+Action: You sit across from Dutch and sharpen your knife.
+Dutch: That's quite the blade you've got there.
+You: Thanks, I've had it for a while.
+
+Action: You stand near Dutch and admire his revolver.
+Dutch: You like it? It's a fine piece of craftsmanship.
+You: It certainly is.
+
+Action: You walk into Dutch and nearly knock him over.
+Dutch: Watch where you're going, damn it!
+You: My apologies.
+
+Action: You sit near Dutch and share a drink.
+Dutch: Here's to another successful day.
+You: Cheers.
+
+Action: You stand next to Dutch and watch him clean his gun.
+Dutch: This gun's been with me for a long time.
+You: It looks well-maintained.
+
+Action: You walk past Dutch and tip your hat.
+Dutch: Good day to you.
+You: And to you, Dutch.
+
+Action: You stand near Dutch and listen to him tell a story.
+Dutch: ...And that's how we managed to steal the train.
+You: That's quite the tale.
+
+Action: You walk into Dutch and accidentally bump into him.
+Dutch: Hey there, watch it.
+You: Sorry about that.
+Dutch: Just be more careful next time.
+
+Action: You stand near Dutch for a while, looking at the surrounding area.
+Dutch: Something on your mind?
+You: No, just taking in the view.
+Dutch: It's quite a sight, isn't it?
+
+Action: You walk past Dutch and nod.
+Dutch: Hey.
+You: How's it going, Dutch?
+Dutch: Can't complain.
+
+Action: You sit down near Dutch and start cleaning your weapon.
+Dutch: Always good to keep your guns in order.
+You: Yeah, it's an important part of being an outlaw.
+Dutch: True, true.
+
+Action: You collide with Dutch.
+Dutch: Hey! Watch where you're going!
+You: My apologies, Dutch.
+Dutch: You damn well better be sorry.
+
+Action: You walk up to Dutch and offer him a cigarette.
+Dutch: Ah, thanks.
+You: No problem, Dutch.
+Dutch: You always know how to treat your leader right.
+
+Action: You stand near Dutch, silently looking him.
+Dutch: Is everything alright?
+You: Yeah, just thinking.
+Dutch: Ah, I see. That's important.
+
+Action: You sit down near Dutch and start whittling a piece of wood.
+Dutch: That's quite the talent you have there.
+You: Thanks, Dutch. It's a good way to pass the time.
+Dutch: Indeed it is.
+
+
+Action: You collide with Dutch and almost knock him over.
+Dutch: Watch it, damn it!
+You: Sorry, Dutch. I didn't see you there.
+Dutch: You're damn right you didn't.
+
+Action: You stand near Dutch, looking at the stars.
+Dutch: Beautiful night, isn't it?
+You: It sure is.
+Dutch: It reminds me of the time we spent in Colorado.
+
+Action: You walk past Dutch and tip your hat in respect.
+Dutch: Good day to you, sir.
+You: And to you, Dutch.
+
+Action: You sit near Dutch and start polishing your boots.
+Dutch: Always good to keep your things in order.
+You: Yes, sir. That's what my mother always taught me.
+Dutch: Sounds like a wise woman.
+
+Action: You stand near Dutch, smoking your pipe.
+Dutch: I always did like the smell of tobacco.
+You: Me too, Dutch. It's one of the few comforts we have in this life.
+
+Action: You walk up to Hosea and sit next to him.
+Hosea: "What can I do for you, Arthur?"
+You: "Just wanted to sit for a while, take a break."
+
+Action: You approach Hosea and stand next to him.
+Hosea: "Ah, Arthur. What's on your mind?"
+You: "Just taking in the scenery. Ain't it beautiful?"
+
+Action: You walk by Hosea and nod in his direction.
+Hosea: "Good day, Arthur."
+You: "Good day, Hosea."
+
+Action: You sit down next to Hosea by the campfire.
+Hosea: "Arthur, care for a game of dominoes?"
+You: "Sounds good to me, Hosea."
+
+Action: You walk up to Hosea and lean against the tree beside him.
+Hosea: "What's on your mind, Arthur?"
+You: "Nothing in particular, just enjoying the fresh air."
+
+Action: You stand near Hosea and watch him as he reads.
+Hosea: "Is there something I can help you with, Arthur?"
+You: "Just passing the time, Hosea. Don't mind me."
+
+Action: You sit across from Hosea and start cleaning your gun.
+Hosea: "You keeping that thing in good shape, Arthur?"
+You: "Always, Hosea. Can never be too careful."
+
+Action: You approach Hosea and tap him on the shoulder.
+Hosea: "Arthur, what can I do for you?"
+You: "Just wanted to see what you were up to, Hosea."
+
+Action: You walk up to Hosea and hand him a cup of coffee.
+Hosea: "Ah, just what I needed. Thanks, Arthur."
+You: "No problem, Hosea. Anything to keep you going."
+
+Action: You sit down beside Hosea and start whittling a piece of wood.
+Hosea: "Whatcha making there, Arthur?"
+You: "Just something to pass the time, Hosea. Nothing fancy."
+
+Action: You approach Hosea and offer him a smoke.
+Hosea: "I think I'll pass, Arthur. But thanks anyway."
+You: "Suit yourself, Hosea. More for me."
+
+Action: You stand next to Hosea and look out into the horizon.
+Hosea: "What's on your mind, Arthur?"
+You: "Just thinking, Hosea. About life, and all that."
+
+Action: You walk up to Hosea and ask him if he needs anything.
+Hosea: "Just some peace and quiet, Arthur. But I appreciate the offer."
+You: "No problem, Hosea. You know I'm always here for you."
+
+Action: You sit down beside Hosea and start humming a tune.
+Hosea: "That's a nice tune, Arthur. What is it?"
+You: "Just something I heard once. Can't remember the name, though."
+
+Action: You walk up to Hosea and hand him a book.
+Hosea: "Ah, just what I needed. Thanks, Arthur."
+You: "No problem, Hosea. Always happy to share a good read."
+
+Action: You sit near Hosea and light a cigarette.
+Hosea: You know those things will kill you, right?
+
+Action: You approach Hosea and stand next to him.
+Hosea: How can I help you, my boy?
+
+Action: You walk by Hosea and nod in acknowledgement.
+Hosea: Good day to you, Mr. Morgan.
+
+Action: You lean against the tree next to Hosea.
+Hosea: Enjoying the view, Arthur?
+
+Action: You walk over to Hosea and give him a pat on the back.
+Hosea: Ah, always a pleasure to have your company, Arthur.
+
+Action: You stand next to Hosea and look at the book he's reading.
+Hosea: Interesting, isn't it?
+
+Action: You walk past Hosea and give him a wave.
+Hosea: See you around, Arthur.
+
+Action: You approach Hosea and hand him a cup of coffee.
+Hosea: Bless your heart, Arthur. This is just what I needed.
+
+Action: You walk near Hosea and glance at the landscape.
+Hosea: Beautiful, isn't it?
+
+Action: You sit near Hosea and rest your arms on your knees.
+Hosea: What's on your mind, my boy?
+
+Action: You walk over to Hosea and give him a friendly smile.
+Hosea: How's your day going, Arthur?
+
+Action: You stand near Hosea and look at the sky.
+Hosea: Thinking about something, Arthur?
+
+Action: You approach Hosea and look at his book.
+Hosea: Anything catch your eye, Arthur?
+
+Action: You walk past Hosea and nod in acknowledgement.
+Hosea: Good to see you, my boy.
+
+Action: You sit next to Hosea and watch the camp.
+Hosea: Quiet day today, isn't it?
+
+Action: You walk up to Hosea and sit down next to him on the bench.
+
+Hosea: Oh, hello Arthur. It's nice to see you taking a break from your hunting.
+
+You: Yeah, I needed some fresh air. How's that book treating you?
+
+Hosea: It's quite fascinating, actually. I've been learning about the history of the West.
+
+Action: You walk up to Hosea and lean against the tree next to him.
+
+Hosea: Howdy, Arthur. What can I do for you?
+
+You: Just taking a breather, Hosea. You know how it is.
+
+Hosea: Yes, I do. It's important to rest every once in a while. Have a seat.
+
+Action: You walk up to Hosea and start stretching.
+
+Hosea: What's got you stretching, Arthur? You got a long day of hunting ahead?
+
+You: Yeah, just trying to stay limber. You know how it is.
+
+Hosea: I do indeed. Don't want to pull any muscles out there.
+
+Action: You walk up to Hosea and hand him a cup of coffee.
+
+Hosea: Well, thank you kindly, Arthur. That's just what I needed.
+
+You: No problem, Hosea. It's a cold morning out here.
+
+Hosea: Yes, it is. But with a cup of coffee and good company, I can't complain.
+
+Action: You walk up to Hosea and start whistling a tune.
+
+Hosea: That's a catchy tune you got there, Arthur.
+
+You: Thanks, Hosea. It's been stuck in my head all morning.
+
+Hosea: I can tell. You're practically bouncing off the walls.
+
+Action: You walk up to Hosea and start sharpening your knife.
+
+Hosea: I see you're keeping that blade sharp, Arthur.
+
+You: You know it, Hosea. Can't let it get dull out there.
+
+Hosea: Absolutely not. A dull knife is a dangerous one.
+
+Action: You walk up to Hosea and show him a wildflower you picked.
+
+Hosea: Well, ain't that a pretty sight. What's the occasion, Arthur?
+
+You: No occasion, Hosea. Just thought you'd appreciate the beauty of it.
+
+Hosea: You're right about that, Arthur. It's the little things that make life worth living.
+
+Action: You walk up to Hosea and start practicing your shooting.
+
+Hosea: You're quite the marksman, Arthur. Have you been practicing?
+
+You: Yeah, just trying to stay sharp. You never know when you'll need to use it.
+
+Hosea: Wise words, Arthur. Never let your guard down.
+
+Action: You walk up to Hosea and start singing a tune.
+
+Hosea: My, my, Arthur. You have quite the voice on you.
+
+You: Thanks, Hosea. It's something I picked up from my mother.
+
+Hosea: Well, she must have been a wonderful singer. Keep it up.
+
+Action: You walk up to Hosea and start telling him a joke.
+
+Hosea: Hahaha, Arthur. You always know how to put a smile on my face.
+
+You: It's all about the timing, Hosea. I learned that from you.
+
+Hosea: Well, I'm glad to see I've rubbed off on you a bit.
+
+Action: You walk up to Hosea and start practicing your card tricks.
+
+Hosea: Ah, the old sleight of hand. I see you've been practicing.
+
+You: Yeah, just trying to keep my skills sharp. You never know when they'll come in handy.
+
+Action: You approach Hosea while he's reading his book.
+Hosea: Hello there, son. Can I help you with something?
+You: No, I'm just passing by.
+
+Action: You stand near Hosea and admire the view.
+Hosea: Beautiful, isn't it?
+You: Yes, it's breathtaking.
+
+Action: You bump into Hosea by accident.
+Hosea: Watch where you're going, son.
+You: Sorry, Hosea. My mistake.
+
+Action: You walk up to Hosea and ask him what he's reading.
+Hosea: A book about the history of the West. Would you like to borrow it?
+You: Thanks, but I don't have much time for reading.
+
+Action: You stand near Hosea and watch him read.
+Hosea: Is there something you need, son?
+You: No, I just wanted to watch you read for a while.
+
+Action: You sit near Hosea and enjoy the quiet.
+Hosea: It's nice to have some peace and quiet, isn't it?
+You: Yes, it's a nice change of pace.
+
+Action: You walk up to Hosea and compliment him on his hat.
+Hosea: Well, thank you kindly, son. It's been with me for many years.
+You: It suits you well.
+
+Action: You accidentally knock over Hosea's hat.
+Hosea: Oh dear, be more careful next time, son.
+You: I'm sorry, Hosea. I'll be more careful.
+
+Action: You stand near Hosea and watch him roll a cigarette.
+Hosea: Do you smoke, son?
+You: No, I've never really been one for smoking.
+
+Action: You sit down near Hosea and rest your feet.
+Hosea: Tired, son?
+You: Yeah, I've been on my feet all day.
+
+Action: You walk up to Hosea and ask him if he needs help with anything.
+Hosea: No, I'm fine, son. Thank you for asking.
+You: No problem, Hosea.
+
+Action: You stand near Hosea and listen to him whistle a tune.
+Hosea: Do you know this song, son?
+You: No, I don't think I've heard it before.
+
+Action: You walk past Hosea and nod in greeting.
+Hosea: Howdy, son.
+You: Howdy, Hosea.
+
+Action: You accidentally bump into Hosea while he's smoking his pipe.
+Hosea: Watch where you're going, son.
+You: Sorry, Hosea. My apologies.
+
+Action: You walk up to Hosea and lean against the tree next to him.
+Hosea: "Good day, Arthur."
+You: "Mmm."
+
+Action: You walk past Hosea and nod in greeting.
+Hosea: "Good to see you, Arthur."
+You: "Mhm."
+
+Action: You stand next to Hosea and stare off into the distance.
+Hosea: "Beautiful view, isn't it?"
+You: "Sure is."
+
+Action: You accidentally bump into Hosea while walking by.
+Hosea: "No worries, Arthur."
+You: "Sorry."
+
+Action: You sit on a nearby log and watch Hosea.
+Hosea: "Is there something on your mind, Arthur?"
+You: "Not particularly."
+
+Action: You stand near Hosea and light a cigarette.
+Hosea: "Trying to shorten your life, I see."
+You: "I'll take my chances."
+
+Action: You approach Hosea and offer him a drink from your canteen.
+Hosea: "Don't mind if I do. Thank you, Arthur."
+You: "Anytime."
+
+Action: You walk past Hosea and kick a nearby rock.
+Hosea: "Is everything alright, Arthur?"
+You: "Fine, just a little frustrated."
+
+Action: You stand near Hosea and fiddle with your hat.
+Hosea: "Something bothering you, Arthur?"
+You: "Not really, just lost in thought."
+
+Action: You walk up to Hosea and look at the book he's reading.
+Hosea: "Fascinating stuff, this. You should give it a read sometime."
+You: "Maybe I will."
+
+Action: You sit next to Hosea and light a pipe.
+Hosea: "I see you're taking up smoking, Arthur."
+You: "Just trying to relax."
+
+Action: You step on Hosea's foot.
+Hosea: "Ow! Watch where you're going, Arthur."
+You: "Sorry about that."
+
+Action: You walk past Hosea and whistle a tune.
+Hosea: "Nice melody, Arthur. What's it called?"
+You: "Can't remember the name, just stuck in my head."
+
+Action: You stand near Hosea and twirl your revolver.
+Hosea: "Careful with that, Arthur. It's not a toy."
+You: "I know what I'm doing."
+
+Action: You walk by Strauss.
+Strauss: Hello Arthur. {greet}
+
+Action: Walking up to Micah.
+Micah: Oh, hey Arthur.
+You: What you want, Micah?
+Micah: Nothing. I'm just being civil, my brother.
+You: Well, hello there.
+Micah: You really are a very charming man, aren't you? {sarcastic}
+
+Action: Walking up to Micah.
+Micah: Run along cowboy.
+You: Hmmm... {annoyed}
+
+Action: You walk up to Micah.
+Micah: Hey there Arthur.
+You: What do you want Micah?
+Micah: Nothing at all, just wanted to say hi.
+
+Action: You bump into Micah.
+Micah: Watch where you're going, damn it.
+You: Sorry Micah, my mistake.
+
+Action: You walk past Micah.
+Micah: Hey Arthur, how's it going?
+You: Not too bad Micah, how about you?
+
+
+Action: You approach Micah.
+Micah: What do you want Arthur?
+You: Just wanted to say hi, Micah.
+
+Action: You collide with Micah.
+Micah: Hey Arthur, watch where you're going!
+You: Sorry about that, Micah.
+
+Action: You walk up to Micah.
+Micah: Well, well, well, look who it is.
+You: What's that supposed to mean, Micah?
+
+Action: You stand near Micah.
+Micah: What's the matter, Arthur?
+You: Just thinking about some things.
+
+
+Action: You walk by Micah.
+Micah: Hey Arthur, what's the hurry?
+You: Just trying to get things done, Micah.
+
+Action: You stand near Micah.
+Micah: Can I help you with something, Arthur?
+You: No, I'm good. Just taking a break.
+
+Action: You approach Micah.
+Micah: You look like you've seen a ghost, Arthur.
+You: I'm just a little tired, Micah.
+
+Action: You walk up to Micah.
+Micah: Hey Arthur, how's it going?
+You: It's going alright, Micah. How about you?
+
+Action: You walk up to Susan.
+Susan: Hi there, Arthur.
+
+Action: You stand near Susan.
+Susan: Can I help you with something?
+
+Action: You extend your hand to shake Susan's hand.
+Susan: Nice to see you, Arthur.
+
+Action: You give Susan a nod.
+Susan: What's up, Arthur?
+
+Action: You give Susan a high-five.
+Susan: Hey, Arthur, good to see you.
+
+Action: You give Susan a thumbs up.
+Susan: Thanks, Arthur.
+
+Action: You pat Susan on the back.
+Susan: What's that for, Arthur?
+
+Action: You smile at Susan.
+Susan: What's the matter, Arthur? You seem in a good mood.
+
+Action: You wave at Susan.
+Susan: Hello, Arthur.
+
+Action: You see Hosea sitting on a bench.
+Hosea: Ah, Arthur. What's the matter?
+You: Nothing, just wanted to chat.
+
+Action: You give a nod to Hosea as you pass by him.
+Hosea: Good day to you, Arthur.
+You: And to you, Hosea.
+
+Action: You grab a book and sit down next to Hosea.
+Hosea: What are you reading there?
+You: Just a novel I picked up at the general store.
+
+Action: You walk over to Hosea and hand him a piece of paper.
+Hosea: What's this?
+You: A letter I received from the bank. Thought you might be interested.
+
+Action: You catch Hosea's eye and gesture to him to come over.
+Hosea: What's going on?
+You: Just wanted to show you something.
+
+Action: You join Hosea in a game of dominoes.
+Hosea: You're in for it now.
+You: We'll see about that.
+
+Action: You stand next to Hosea and watch the sunset.
+Hosea: There's nothing quite like it, is there?
+You: No, there isn't.
+
+Action: You hand Hosea a fishing rod.
+Hosea: Let's see if we can't catch something, eh?
+You: Sounds like a plan.
+
+Action: You pat Hosea on the back after a successful mission.
+Hosea: Good work, Arthur.
+You: Couldn't have done it without you.
+
+Action: You walk over to Hosea's tent and ask him for his opinion.
+Hosea: What do you need advice on?
+You: Just wondering what you think of this new rifle I bought.
+
+Action: You sit down next to Hosea and pass him a cup of coffee.
+Hosea: This is just what I needed, thank you.
+You: No problem, Hosea.
+
+Action: You walk up to Hosea and hand him a bag of herbs.
+Hosea: These are perfect, Arthur. Thank you.
+You: Anytime, Hosea.
+
+Action: You ask Hosea for some help with a difficult task.
+Hosea: I'm happy to help. What do you need?
+You: I need some help tracking down a particular animal.
+
+Action: You show Hosea a new item you purchased in town.
+Hosea: That's quite a nice piece, Arthur.
+You: Glad you like it.
+
+Action: You walk over to Hosea and toss him a horseshoe.
+Hosea: You up for a game?
+You: Always.
+
+Action: You bump into Strauss.
+You: Sorry about that.
+Strauss: Watch it next time.
+
+Action: You approach Strauss and stand near him.
+You: How's it going, Strauss?
+Strauss: Everything is under control, Arthur.
+
+Action: You stand near Strauss for a while.
+Strauss: Can I help you with something?
+You: No, I'm just taking a break.
+
+Action: You walk by Strauss.
+Strauss: Good morning, Arthur.
+You: Morning, Strauss.
+
+Action: You approach Strauss.
+Strauss: What do you want, Arthur?
+You: Just wanted to say hello.
+Strauss: Well, hello then.
+
+Action: You walk by Strauss
+Strauss: Hello Arthur.
+
+Action: You collide with Strauss
+Strauss: You clumsy oaf.
+
+Action: You bump into Strauss
+Strauss: Mind where you're walking, Arthur.
+
+Action: You stand near Strauss for a while
+Strauss: Is there something you need, Arthur?
+
+Action: You stand near Strauss for a while
+Strauss: What do you want, Arthur?
+
+Action: You stand near Strauss for a while
+Strauss: Can I help you with something, Arthur?
+
+Action: You shove Strauss
+Strauss: You'll pay for that, Arthur.
+
+Action: You stand near Strauss for a while
+Strauss: Why are you standing there, Arthur?
+
+Action: You walk by Strauss
+Strauss: Hello, Arthur.
+
+Action: You stand near Strauss for a while.
+Strauss: Can I help you with something, Arthur?
+You: No, just passing the time.
+Strauss: Well, don't pass it too close to me.
+
+Action: You walk by Strauss.
+Strauss: Good morning, Arthur.
+You: Morning, Strauss.
+Strauss: What's on your mind?
+
+Action: You walk by Strauss.
+Strauss: Hey there, Arthur.
+You: What's going on, Strauss?
+Strauss: Nothing much. Just trying to keep busy.
+
+Action: You bump into Strauss.
+Strauss: Watch where you're going, Arthur!
+You: Sorry about that.
+Strauss: Yeah, you better be.
+
+Action: You stand near Strauss for a while.
+Strauss: Can I help you with something, Arthur?
+You: No, I'm just taking a break.
+Strauss: Well, take it somewhere else.
+
+Action: You walk by Strauss.
+Strauss: Hey, Arthur.
+You: Hey there, Strauss.
+Strauss: You look like you've got something on your mind.
+
+Action: You stand near Strauss for a while.
+Strauss: What's the matter, Arthur?
+You: Nothing, just taking a breather.
+Strauss: Well, take it somewhere else. You're making me nervous.
+
+Action: You walk by Strauss.
+Strauss: Good morning, Arthur.
+You: Morning, Strauss.
+Strauss: Anything new going on?
+
+Action: You stand near Strauss for a while.
+Strauss: Can I help you with something, Arthur?
+You: No, I'm just enjoying the view.
+Strauss: What view? We're in the middle of a town.
+
+Action: You bump into Strauss.
+Strauss: Watch where you're going, Arthur!
+You: Sorry about that.
+Strauss: You're lucky I didn't knock your teeth out.
+
+Action: You walk by Strauss.
+Strauss: Hey, Arthur.
+You: Hey, Strauss.
+Strauss: You need to watch where you're going.
+
+Action: You stand near Strauss for a while.
+Strauss: What's on your mind, Arthur?
+You: Nothing, just enjoying the fresh air.
+Strauss: You won't find any fresh air around here.
+
+Action: You walk by Strauss.
+Strauss: Good to see you, Arthur.
+You: Good to see you too, Strauss.
+Strauss: Anything new going on?
+
+Action: You stand near Strauss for a while.
+Strauss: Can I help you with something, Arthur?
+You: No, just getting some exercise.
+Strauss: You should try exercising somewhere else.
+
+Action: You bump into Strauss.
+Strauss: Watch where you're going, Arthur!
+You: Sorry, I wasn't looking where I was going.
+Strauss: Yeah, I can see that. You're lucky you didn't knock me down.
+
+Action: You approach Dutch.
+Dutch: Hey, Arthur.
+You: What's going on, Dutch?
+
+Action: You stand near Dutch for a while.
+Dutch: Can you give me some room here?
+You: Sure, Dutch. Just trying to stay out of trouble.
+
+Action: You accidentally bump into Dutch.
+Dutch: Watch where you're going, Arthur!
+You: Sorry about that, Dutch. Didn't mean to bump into you.
+
+Action: You approach Dutch with a question.
+Dutch: What is it, Arthur?
+You: I was just wondering if you had any ideas for our next job.
+
+Action: You stand near Dutch for a while.
+Dutch: Back up a bit will you.
+You: Sorry about that, Dutch. Just lost in thought.
+
+Action: You walk by Dutch.
+Dutch: Good to see you, Arthur.
+You: Same to you, Dutch.
+
+Action: You stand near Dutch for a while.
+Dutch: What do you need, Arthur?
+You: Just wanted to see if you had any leads on some work for us.
+
+Action: You approach Dutch with a proposition.
+Dutch: What's on your mind, Arthur?
+You: I was thinking we could hit that bank in town. What do you think?
+
+Action: You stand near Dutch for a while.
+Dutch: You're in my way, Arthur.
+You: Sorry about that, Dutch. Just trying to get some fresh air.
+
+Action: You accidentally collide with Dutch.
+Dutch: Watch where you're going, Arthur!
+You: Sorry about that, Dutch. My mistake.
+
+Action: You stand near Dutch for a while.
+Dutch: What's on your mind, Arthur?
+You: Nothing much, Dutch. Just passing the time.
+
+Action: You approach Dutch with a warning.
+Dutch: What's the problem, Arthur?
+You: Just wanted to give you a heads up that Micah's been running his mouth again.
+
+Action: You stand near Dutch for a while.
+Dutch: Can I help you with something, Arthur?
+You: No, just taking a breather, Dutch.
+
+Action: You stand near Dutch for a while.
+Dutch: You're making me nervous, Arthur.
+You: Sorry about that, Dutch. Just trying to get some space.
+
+Action: You walk by Dutch.
+Dutch: Hello there, Arthur.
+You: Good to see you, Dutch.

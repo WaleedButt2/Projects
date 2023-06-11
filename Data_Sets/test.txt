@@ -1,0 +1,2 @@
+<|endoftext|> You are standing in a street. It's raining heavily. It is almost midnight and it is a full moon. The street is crowded with people. Anything can happen, a shooting, a bomb can go off. People are unaware of this threat. You are a detective and you know that something bad is going to happen soon. You are roaming the street, looking here and there, observing how the things go. You are noticing people, their beahviours and everything. You meet random people in the street and interact with them.
+Action: You walk up to a Person. You: "How go things in this city?

@@ -1,0 +1,118 @@
+Prompt,Completion
+"Narrative: You greet Pearson.","You: Glad to be off that mountain, Mr. Pearson. Pearson: Yes indeed, Lots to do now. You: Yep, for all of us."
+"Narrative: You greet Pearson. You: Glad to be off that mountain, Mr. Pearson. Pearson: Yes indeed, Lots to do now. You: Yep, for all of us. Narrative: You greet Pearson.","You: Alright, well, I should be getting on. Pearson: Okay."
+
+"Narrative: You greet Pearson.","You: All good there, Pearson. Pearson: Still need more food, Mr. Morgan. You should try your luck again with that bow. You: I know , I will."
+"Narrative: You greet Pearson. You: All good there, Pearson. Pearson: Still need more food, Mr. Morgan. You should try your luck again with that bow. You: I know , I will. Narrative: You greet Pearson.","You: Well, I should get back to it. Pearson: Sure, well as you were."
+"Action: You walk near Pearson."," Arthur: Good Morning, Mr. Morgan."
+"Action: You walk near Pearson. Arthur: Good Morning, Mr. Morgan. Narrative: You greet Pearson.","You: Mr Pearson. "
+"Action: You walk near Pearson. Arthur: Good Morning, Mr. Morgan. Narrative: You greet Pearson. You: Mr Pearson. Narrative: You greet Pearson.","You: Need any supplies?. Pearson: Always, can never have too much."
+"Action: You walk near Pearson. Arthur: Good Morning, Mr. Morgan. Narrative: You greet Pearson. You: Mr Pearson. Narrative: You greet Pearson. You: Need any supplies?. Pearson: Always, can never have too much. Narrative: You antagonize Pearson.","You: That's because you eat and drink for five men. Pearson: Come on that's enough now."
+"Action: You walk near Pearson. Arthur: Good Morning, Mr. Morgan. Narrative: You greet Pearson. You: Mr Pearson. Narrative: You greet Pearson. You: Need any supplies?. Pearson: Always, can never have too much. Narrative: You antagonize Pearson. You: That's because you eat and drink for five men. Pearson: Come on that's enough now. Narrative: You defuse the situation.","You: Take it easy, I'm just needling you. Pearson: Yes, er, very good. "
+
+"Action: You walk near Pearson."," Pearson: Morning Arthur."
+"Action: You walk near Pearson. Pearson: Morning Arthur. Narrative: You greet Pearson.","You: Thank you, for all you're hard work. Pearson: Thank you."
+"Action: You walk near Pearson. Pearson: Morning Arthur. Narrative: You greet Pearson. You: Thank you, for all you're hard work. Pearson: Thank you. Narrative: You greet Pearson.","You: I mean that. Pearson: Yes, yes."
+
+"Action: You walk near Pearson."," Pearson: Hello, Mr. Morgan. "
+"Action: You walk near Pearson. Pearson: Hello, Mr. Morgan. Narrative: You greet Pearson.","You: There he is."
+"Action: You walk near Pearson. Pearson: Hello, Mr. Morgan. Narrative: You greet Pearson. You: There he is. Narrative: You greet Pearson.","You: Thank you for all your work. Pearson: Thank you, Morgan"
+"Action: You walk near Pearson. Pearson: Hello, Mr. Morgan. Narrative: You greet Pearson. You: There he is. Narrative: You greet Pearson. You: Thank you for all your work. Pearson: Thank you, Morgan Narrative: You antagonize Pearson.","You: You'll make someone a fine wife someday. Pearson: I'm just minding my own business here."
+"Action: You walk near Pearson. Pearson: Hello, Mr. Morgan. Narrative: You greet Pearson. You: There he is. Narrative: You greet Pearson. You: Thank you for all your work. Pearson: Thank you, Morgan Narrative: You antagonize Pearson. You: You'll make someone a fine wife someday. Pearson: I'm just minding my own business here. Narrative: You defuse the situation.","You: Take it easy I ain't serious. Pearson: How very amusing."
+
+"Action: You walk near Pearson."," Pearson: Ah, hello, Mr. Morgan. "
+"Action: You walk near Pearson. Pearson: Ah, hello, Mr. Morgan. Narrative: You greet Pearson.","You: Good morning to you. "
+"Action: You walk near Pearson. Pearson: Ah, hello, Mr. Morgan. Narrative: You greet Pearson. You: Good morning to you. Narrative: You greet Pearson.","You: Don't you ever get fed up with all this? Pearson: Sometimes I suppose."
+"Action: You walk near Pearson. Pearson: Ah, hello, Mr. Morgan. Narrative: You greet Pearson. You: Good morning to you. Narrative: You greet Pearson. You: Don't you ever get fed up with all this? Pearson: Sometimes I suppose. Narrative: You greet Pearson.","You: Well, know you're appreciated round here. Pearson: Sure, Arthur."
+
+"Narrative: You greet Pearson.","You: Good morning. Pearson: Okay, Mr Morgan."
+"Narrative: You greet Pearson. You: Good morning. Pearson: Okay, Mr Morgan. Narrative: You greet Pearson.","You: You seem in a good mood. Pearson: Well that's nice of you to say so."
+"Narrative: You greet Pearson. You: Good morning. Pearson: Okay, Mr Morgan. Narrative: You greet Pearson. You: You seem in a good mood. Pearson: Well that's nice of you to say so. Narrative: You greet Pearson.","You: Okay, well maby not then. Pearson: I should do some work."
+
+"Narrative: You greet Pearson.","You: Hey Pearson. Pearson: Hi there, Arthur. "
+"Narrative: You greet Pearson. You: Hey Pearson. Pearson: Hi there, Arthur. Narrative: You greet Pearson.","You: The last stew I had was pretty damn good. Pearson: Glad to hear it."
+"Narrative: You greet Pearson. You: Hey Pearson. Pearson: Hi there, Arthur. Narrative: You greet Pearson. You: The last stew I had was pretty damn good. Pearson: Glad to hear it. Narrative: You greet Pearson.","You: We'll make a cook of you yet. Pearson: Okay."
+
+
+"Narrative: You greet Pearson.","You: Hey. "
+"Narrative: You greet Pearson. You: Hey. Narrative: You greet Pearson.","You: You seem to be in a good mood. Pearson: I do? Well that's nice of you to say so. "
+"Narrative: You greet Pearson. You: Hey. Narrative: You greet Pearson. You: You seem to be in a good mood. Pearson: I do? Well that's nice of you to say so. Narrative: You antagonize Pearson.","You: Well, I see how much you really hate yourself. Pearson: Oh, just what i need."
+"Narrative: You greet Pearson. You: Hey. Narrative: You greet Pearson. You: You seem to be in a good mood. Pearson: I do? Well that's nice of you to say so. Narrative: You antagonize Pearson. You: Well, I see how much you really hate yourself. Pearson: Oh, just what i need. Narrative: You defuse the situation.","You: Don't worry I'm just playing with you. Pearson: Yes I know your games by now."
+
+"Action: You walk near Pearson."," Pearson: Oh, hello."
+"Action: You walk near Pearson. Pearson: Oh, hello. Narrative: You greet Pearson.","You: Hello."
+"Action: You walk near Pearson. Pearson: Oh, hello. Narrative: You greet Pearson. You: Hello. Narrative: You greet Pearson.","You: Thank you for all your work. Pearson: Thank you Mr. Morgan. Sometimes, I suppose."
+"Action: You walk near Pearson. Pearson: Oh, hello. Narrative: You greet Pearson. You: Hello. Narrative: You greet Pearson. You: Thank you for all your work. Pearson: Thank you Mr. Morgan. Sometimes, I suppose. Narrative: You antagonize Pearson.","You: You'll make someone a fine wife someday. Pearson: Don't Arthur, come on."
+"Action: You walk near Pearson. Pearson: Oh, hello. Narrative: You greet Pearson. You: Hello. Narrative: You greet Pearson. You: Thank you for all your work. Pearson: Thank you Mr. Morgan. Sometimes, I suppose. Narrative: You antagonize Pearson. You: You'll make someone a fine wife someday. Pearson: Don't Arthur, come on. Narrative: You defuse the situation.","You: I'm only joking with you. Pearson: Er, well, good then. I think."
+
+"Narrative: You greet Pearson.","You: Morning. Pearson:"
+"Narrative: You greet Pearson. You: Morning. Pearson: Narrative: You greet Pearson.","You: How are things. Pearson: Ahh, I can't complain."
+"Narrative: You greet Pearson. You: Morning. Pearson: Narrative: You greet Pearson. You: How are things. Pearson: Ahh, I can't complain. Narrative: You greet Pearson.","You: Glad to hear it. Pearson: Yes, yes"
+
+"Action: You walk near Pearson."," Pearson: How are you."
+"Action: You walk near Pearson. Pearson: How are you. Narrative: You greet Pearson.","You: Hi, Pearson."
+"Action: You walk near Pearson. Pearson: How are you. Narrative: You greet Pearson. You: Hi, Pearson. Narrative: You greet Pearson.","You: Need any supplies?. Pearson: Always, can never have too much."
+"Action: You walk near Pearson. Pearson: How are you. Narrative: You greet Pearson. You: Hi, Pearson. Narrative: You greet Pearson. You: Need any supplies?. Pearson: Always, can never have too much. Narrative: You greet Pearson.","You: . Pearson:"
+
+"Action: You walk near Pearson."," Pearson: Oh, hello."
+"Action: You walk near Pearson. Pearson: Oh, hello. Narrative: You greet Pearson.","You: Hello."
+"Action: You walk near Pearson. Pearson: Oh, hello. Narrative: You greet Pearson. You: Hello. Narrative: You greet Pearson.","You: Don't you ever get fed up with all this? Pearson: Sometimes I suppose."
+"Action: You walk near Pearson. Pearson: Oh, hello. Narrative: You greet Pearson. You: Hello. Narrative: You greet Pearson. You: Don't you ever get fed up with all this? Pearson: Sometimes I suppose. Narrative: You antagonize Pearson.","You: I mean you're life must've been pretty pathetic if this is an upgrade. Pearson: Oh, just what I need. "
+"Action: You walk near Pearson. Pearson: Oh, hello. Narrative: You greet Pearson. You: Hello. Narrative: You greet Pearson. You: Don't you ever get fed up with all this? Pearson: Sometimes I suppose. Narrative: You antagonize Pearson. You: I mean you're life must've been pretty pathetic if this is an upgrade. Pearson: Oh, just what I need. Narrative: You defuse the situation.","You: Take it easy, I'm just needling you. Pearson: Well, sometimes it's hard to tell."
+
+"Action: You walk near Pearson."," You: Pearson. Pearson: Arthur."
+"Action: You walk near Pearson. You: Pearson. Pearson: Arthur. Narrative: You greet Pearson.","You: You know too many folk around here take you for granted. Pearson: Well, that's nice of you to say so."
+"Action: You walk near Pearson. You: Pearson. Pearson: Arthur. Narrative: You greet Pearson. You: You know too many folk around here take you for granted. Pearson: Well, that's nice of you to say so. Narrative: You greet Pearson.","You: Our own cook, that's fine living. Pearson: I should do some work."
+
+"Narrative: You greet Pearson.","You: Glad to be off that mountain, Mr. Pearson. Pearson: Yes indeed, Lots to do now. You: Yep, for all of us."
+
+"Narrative: You greet Pearson.","You: All good there? Pearson: Still need more food, Mr. Morgan. You should try your luck again with that bow. You: I know, i will. "
+"Narrative: You greet Pearson. You: All good there? Pearson: Still need more food, Mr. Morgan. You should try your luck again with that bow. You: I know, i will. Narrative: You greet Pearson.","You: Anyway I won't disturb you. Pearson: Yes, yes."
+
+"Action: You walk near Pearson."," You: Pearson. Pearson: Arthur."
+"Action: You walk near Pearson. You: Pearson. Pearson: Arthur. Narrative: You greet Pearson.","You: You know too many folk around here take you for granted. Pearson: Well, that's nice of you to say so."
+"Action: You walk near Pearson. You: Pearson. Pearson: Arthur. Narrative: You greet Pearson. You: You know too many folk around here take you for granted. Pearson: Well, that's nice of you to say so. Narrative: You antagonize Pearson.","You: Me, I just take you for the fool you are. Pearson: Oh, just what I need."
+
+"Action: You walk near Pearson."," Pearson: Ah, hello, Mr. Morgan. "
+"Action: You walk near Pearson. Pearson: Ah, hello, Mr. Morgan. Narrative: You greet Pearson.","You: Good morning to you. "
+"Action: You walk near Pearson. Pearson: Ah, hello, Mr. Morgan. Narrative: You greet Pearson. You: Good morning to you. Narrative: You greet Pearson.","You: Don't you ever get fed up with all this? Pearson: Sometimes I suppose."
+"Action: You walk near Pearson. Pearson: Ah, hello, Mr. Morgan. Narrative: You greet Pearson. You: Good morning to you. Narrative: You greet Pearson. You: Don't you ever get fed up with all this? Pearson: Sometimes I suppose. Narrative: You antagonize Pearson.","You: I mean your life must've been pretty pathetic if this is an upgrade. Pearson: Don't, Arthur, come on."
+
+
+"Narrative: You greet Pearson.","You: Hey Pearson. Pearson: Hi there, Arthur. "
+"Narrative: You greet Pearson. You: Hey Pearson. Pearson: Hi there, Arthur. Narrative: You greet Pearson.","You: The last stew I had was pretty damn good. Pearson: Glad to hear it."
+"Narrative: You greet Pearson. You: Hey Pearson. Pearson: Hi there, Arthur. Narrative: You greet Pearson. You: The last stew I had was pretty damn good. Pearson: Glad to hear it. Narrative: You antagonize Pearson.","You: Compared with the pig swill you normally serve up. Pearson: Not this again."
+"Narrative: You greet Pearson. You: Hey Pearson. Pearson: Hi there, Arthur. Narrative: You greet Pearson. You: The last stew I had was pretty damn good. Pearson: Glad to hear it. Narrative: You antagonize Pearson. You: Compared with the pig swill you normally serve up. Pearson: Not this again. Narrative: You defuse the situation.","You: Take it easy, I ain't serious. Pearson: Well, sometimes it's hard to tell. "
+
+"Action: You walk near Pearson."," Pearson: Ah, hello, Arthur. "
+"Action: You walk near Pearson. Pearson: Ah, hello, Arthur. Narrative: You antagonize Pearson.","You: I've got an idea, Pearson, make something edible. Pearson: I'm just minding my own business here. "
+"Action: You walk near Pearson. Pearson: Ah, hello, Arthur. Narrative: You antagonize Pearson. You: I've got an idea, Pearson, make something edible. Pearson: I'm just minding my own business here. Narrative: You antagonize Pearson.","You: The slop you turn those poor deer into, unbelievable. Pearson: Why do you get like this. "
+"Action: You walk near Pearson. Pearson: Ah, hello, Arthur. Narrative: You antagonize Pearson. You: I've got an idea, Pearson, make something edible. Pearson: I'm just minding my own business here. Narrative: You antagonize Pearson. You: The slop you turn those poor deer into, unbelievable. Pearson: Why do you get like this. Narrative: You antagonize Pearson.","You: Next time you go hunting and I'll murder the cooking. Pearson: Listen I'm not rising to this.{walk}"
+
+"Narrative: You antagonize Pearson.","You: I wish you'd stayed at sea. Pearson: Hey what did i do."
+"Narrative: You antagonize Pearson. You: I wish you'd stayed at sea. Pearson: Hey what did i do. Narrative: You antagonize Pearson.","You: With the other walruses. Pearson: Why are you being like this."
+"Narrative: You antagonize Pearson. You: I wish you'd stayed at sea. Pearson: Hey what did i do. Narrative: You antagonize Pearson. You: With the other walruses. Pearson: Why are you being like this. Narrative: You antagonize Pearson.","You: Rather then poisoning us. Pearson: Look, i'm not getting dragged into this.{walk}"
+
+"Narrative: You antagonize Pearson.","You: So what's for dinner? Dysentary again. Pearson: Hey, come on now."
+"Narrative: You antagonize Pearson. You: So what's for dinner? Dysentary again. Pearson: Hey, come on now. Narrative: You antagonize Pearson.","You: No chance of getting fat around here. Pearson: Why have you got a problem with me."
+"Narrative: You antagonize Pearson. You: So what's for dinner? Dysentary again. Pearson: Hey, come on now. Narrative: You antagonize Pearson. You: No chance of getting fat around here. Pearson: Why have you got a problem with me. Narrative: You antagonize Pearson.","You: At least it smells better comming out then it does going in. Pearson: Okay, I'm just ignore you.{walk}"
+
+"Narrative: You antagonize Pearson.","You: There he is, the camp pig. Pearson: Oh, just what I need."
+"Narrative: You antagonize Pearson. You: There he is, the camp pig. Pearson: Oh, just what I need. Narrative: You antagonize Pearson.","You: No wonder we're always short of food. Pearson: What's the problem here?"
+"Narrative: You antagonize Pearson. You: There he is, the camp pig. Pearson: Oh, just what I need. Narrative: You antagonize Pearson. You: No wonder we're always short of food. Pearson: What's the problem here? Narrative: You antagonize Pearson.","You: You eat it all. Pearson: Look i'm too busy for this."
+
+"Narrative: You antagonize Pearson.","You: So what's for dinner? Dysentary again. Pearson: Hey, come on now."
+"Narrative: You antagonize Pearson. You: So what's for dinner? Dysentary again. Pearson: Hey, come on now. Narrative: You defuse the situation.","You: Come on, I'm only kidding around. Pearson: How very amusing."
+"Narrative: You antagonize Pearson. You: So what's for dinner? Dysentary again. Pearson: Hey, come on now. Narrative: You defuse the situation. You: Come on, I'm only kidding around. Pearson: How very amusing. Narrative: You antagonize Pearson.","You: No chance of getting fat around here. Pearson: Why have you got a problem with me."
+"Narrative: You antagonize Pearson. You: So what's for dinner? Dysentary again. Pearson: Hey, come on now. Narrative: You defuse the situation. You: Come on, I'm only kidding around. Pearson: How very amusing. Narrative: You antagonize Pearson. You: No chance of getting fat around here. Pearson: Why have you got a problem with me. Narrative: You defuse the situation.","You: Okay, okay I really am done now. Pearson: Er, well good then. I think."
+"Narrative: You antagonize Pearson. You: So what's for dinner? Dysentary again. Pearson: Hey, come on now. Narrative: You defuse the situation. You: Come on, I'm only kidding around. Pearson: How very amusing. Narrative: You antagonize Pearson. You: No chance of getting fat around here. Pearson: Why have you got a problem with me. Narrative: You defuse the situation. You: Okay, okay I really am done now. Pearson: Er, well good then. I think. Narrative: You antagonize Pearson.","You: At least it smells better comming out then it does going in. Pearson: Fine, I'll just ignore you."
+
+"Narrative: You antagonize Pearson.","You: There he is, the camp pig. Pearson: Oh, not this again."
+"Narrative: You antagonize Pearson. You: There he is, the camp pig. Pearson: Oh, not this again. Narrative: You defuse the situation.","You: Take it easy, I'm just needling you. Pearson: Yes, er, very good."
+"Narrative: You antagonize Pearson. You: There he is, the camp pig. Pearson: Oh, not this again. Narrative: You defuse the situation. You: Take it easy, I'm just needling you. Pearson: Yes, er, very good. Narrative: You antagonize Pearson.","You: No wonder we're always short of food. Pearson: Why are you doing this. Is this meant to be funny."
+"Narrative: You antagonize Pearson. You: There he is, the camp pig. Pearson: Oh, not this again. Narrative: You defuse the situation. You: Take it easy, I'm just needling you. Pearson: Yes, er, very good. Narrative: You antagonize Pearson. You: No wonder we're always short of food. Pearson: Why are you doing this. Is this meant to be funny. Narrative: You defuse the situation.","You: Sorry i just don't know why i find this so damn entertaining. Pearson: How very amusing."
+"Narrative: You antagonize Pearson. You: There he is, the camp pig. Pearson: Oh, not this again. Narrative: You defuse the situation. You: Take it easy, I'm just needling you. Pearson: Yes, er, very good. Narrative: You antagonize Pearson. You: No wonder we're always short of food. Pearson: Why are you doing this. Is this meant to be funny. Narrative: You defuse the situation. You: Sorry i just don't know why i find this so damn entertaining. Pearson: How very amusing. Narrative: You antagonize Pearson.","You: You eat it all. Pearson: Okay, you do what you want."
+
+"Action: You walk near Pearson."," Arthur: Good Morning, Mr. Morgan."
+
+"Action: You walk near Pearson."," Pearson: Morning Arthur."

@@ -1,0 +1,592 @@
+,Prompt,Completion
+0,Action: You move past Dutch.,Dutch: Good morning Arthur.{nod}
+1,Action: You walk into Dutch.,You: Dont mind me Dutch.
+2,Action: You stand near Dutch for a while.,Dutch: Can you give me some room here.
+3,Action: You stand near Dutch for a while.,Dutch: Back up a bit will you.{annoyed}
+4,Action: You stand near Dutch for a while.,Dutch: Why are you acting like a fool.{annoyed}
+5,Action: You keep stand near Dutch for a while.,Dutch: You want me to teach you a lesson you'll regret.{threaten}
+6,"You to Dutch: Feels like we're back on track, more or less.","Dutch: Yup.Money and Food, now everyone needs to keep it comming."
+7,You to Dutch: Okay there Dutch?,"Dutch: Warm, dry, and nobody shooting at me.A marked improvement."
+8,You to Dutch: Anything I need to worry about.,Dutch: Not right this minute.{nod}
+9,You to Dutch: Any problems.,Dutch: Not any new ones.
+10,You to Dutch: You good?,Dutch: Just can't seem to get a moment's peace.
+11,"You to Dutch: So, what you doing, staring all that time into space.",Dutch: Am I sensing ideas above your station again?{annoyed}
+12,You to Dutch: Hope you're working on a plan there.,Dutch: Always.
+13,You to Dutch: Another day another dollar.,Dutch: Yes indeed.
+14,You to Dutch: So no more master plans okay?You're better of without them.,Dutch: I'm just impressed you're stringing entire sentences together.
+15,"You to Dutch: Alright, simmer down.",Dutch: Another bizare attempt at comradery.
+16,"You to Dutch: You know...you could get out there too, Dutch.",Dutch: Just remember who you're talking to.
+17,You to Dutch: Everyone sees you and Hosea reading.,Dutch: Why are you doing this?
+18,"You to Dutch: Uh oh, Dutch is thinking.",Dutch: I'm not even gonna dignify that with a response.
+19,You to Dutch: Another day and we are still alive.,Dutch: Of course we are.
+20,Action: You walk by Strauss.,"Strauss: Good Morning, Arthur.{nod}"
+21,"You to Strauss: Bet you never thought you'd end up here, huh.",Strauss: I didn't know where I'd end up.
+22,You to Strauss: Hey Strauss.,"Strauss: Good Morning, Arthur.{nod}"
+23,"You to Strauss: Keep those books full, now.",Strauss: I'm trying.
+24,You to Strauss: Hey Strauss.,Strauss: Herr Morgan.
+25,You to Strauss: Why are you looking so shifty?,Strauss: I'm not.
+26,You to Strauss: Putting the world to rights there?,"Strauss: Trying to, Mr.Morgan."
+27,Action: You walk by Strauss.,Strauss: Hello Mr.Morgan.{nod}
+28,Action: You walk by Strauss.,"Strauss: How are you, Mr.Morgan.{nod}"
+29,You to Strauss: You revolt me.,"Strauss: I don't want to get into this, please."
+30,"You to Strauss: Wipe that snooty look off your face for one minute, will you.",Strauss: Why so rude.{annoyed}
+31,You to Strauss: You little bloodsucker.,"Strauss: Oh no, not this."
+32,You to Strauss: You sicken me.,Strauss: I don't want to get into this please.{back away}
+33,"You to Strauss: Hey Strauss, they call me mean, but you take the prize.",Strauss: Now there's no need to be rude.{annoyed}
+34,You to Strauss: You sicken me.,Strauss: Please dont be like this Mr.Morgan.
+35,You to Micah: Hey if you're looking for your balls they're back in Blackwater.,Micah: You have a stick up your arse?Or think of yourself as such a big man?{annoyed}
+36,You to Micah: Just what is your game?,Micah: I just hope I ain't your's!
+37,You to Micah: You creeping no good bastard! ,"Micah: If you got a problem with me, then say it to my face"
+38,You to Micah: We would all be better of without you here Micah.,Micah: Mind your tounge Arthur.{threaten}
+39,You to Micah: Ah stinks of coward right around here.,Micah: You got such a chip on your shoulder don't you
+40,You to Micah: Drop the tough act it's getting embarrassing.,"Micah: You think you're really something, don't you?{annoyed}"
+41,You to Micah: I don't think I have ever been less intimidated ,Micah: You're rattling the wrong cage.{walk}
+42,You to Micah: You are the creepiest man I know.,Micah: Now that ain't nice Morgan
+43,You to Micah: And probably the nastiest.,Micah: Guess you havn't looked in a mirror lately?
+44,You to Micah: What kind of stupid goddamn name is Micah anyhow?,Micah: You're one to talk.
+45,"You to Micah: You've kept your mouth shut for five minutes, that's a new record.","Micah: You think you're real funny, don't you?{annoyed}"
+46,"You to Micah: Just put the knife away, you ain't impressing no one.",Micah: Oh shut up!{annoyed}
+47,You to Micah: Slip and do us a favor.,Micah: This is getting real tiring now.{walk}
+48,You to Micah: Everyone's bored of the tough act now.,Micah: You need to back off.
+49,You to Micah: Don't smile your face might crack.,"Micah: Yeah well, look who's talking."
+50,Action: Walking up to Micah.,Micah: How're you keepin Morgan with all this rain?
+51,Action: Looking at Micah for a while.,Micah: What are you looking at?
+52,Action: Standing near Micah for a while..,"Micah:What are you lingering about for, cowboy?"
+53,Action: Walking up to Micah.,"Micah: Oh look, the big dog is here."
+54,Action: Walking up to Micah.,Micah: Run along cowboy.
+55,Action: Walking up to Micah.,"Micah: You wanna get shot, Morgan?{fingergun}"
+56,"Action: Walking up to Micah.Micah: You wanna get shot, Morgan?You: I've seen you in action.From that range, you'll miss.","Micah: Oh, I'll wipe that smile off your face one day.Believe me."
+57,Action: You walk into Susan.,You: Mind your self Susan.
+58,Action: You walk into Susan Grimshaw.,You: Forgive me Miss Grimshaw.
+59,Action: You approach Susan.,Susan: Good day Mr Morgan.{nod}
+60,"You to Susan: What do you think of this palce, Susan?","Susan: An improvement on the last, that's for sure."
+61,"You to Susan: You got everything you need, Miss Grimshaw.","Susan: Not by a long shot Mr.Morgan, we lost a lot in the move."
+62,You to Susan: Starting to look like home isn't it.,Susan: It's taking shape.
+63,You to Susan: Everyone behaving themselves around here?,Susan: Hardly
+64,You to Susan: Always good to see you.,"Susan: Hi, Mr.Morgan."
+65,You to Susan: What would we do without you.,"Susan: Turn feral, I imagine"
+66,You to Susan: Managing to keep everyone in line?,Susan: I'm doin' my best
+67,You to Susan: You seem to have everything well in order here.,"Susan: Oh, I woudn't go that far"
+68,You to Susan: Morning to you.,"Susan: Hi there, Arthur.{nod}"
+69,You to Susan: The old you would have had this place shipshape in a day.,Susan: Don't take that tone with me
+70,"You to Susan: There she is, the camp shire horse.",Susan: I don't like that tone Arthur.{annoyed}
+71,"You to Susan: You are one tough old boot, ain't you.","Susan: Oh, shut up Arthur{annoyed}"
+72,"You to Susan: I've had enough of you, you sour old hag.","Susan: I don't like that tone, Arthur."
+73,"You to Susan: My Lord, you're old.","Susan: Oh, shut up, Arthur{annoyed}"
+74,"You to Pearson: Glad to be off that mountain, Mr.Pearson.","Pearson: Yes indeed, Lots to do now."
+75,"You to Pearson: Alright, well, I should be getting on.",Pearson: Okay.
+76,Action: You walk near Pearson.,"You: Good Morning, Mr.Morgan.{great}"
+77,You to Pearson: Need any supplies?.,"Pearson: Always, can never have too much."
+78,Action: You walk near Pearson.,Pearson: Morning Arthur.{nod}
+79,"You to Pearson: Thank you, for all your hard work.",Pearson: Thank you.
+80,Action: You walk near Pearson.,"Pearson: Hello, Mr.Morgan.{nod}"
+81,You to Pearson: Thank you for all your work.,"Pearson: Thank you, Morgan"
+82,You to Pearson: You'll make someone a fine wife someday.,Pearson: I'm just minding my own business here.{walk}
+83,Action: You walk near Pearson.,"Pearson: Ah, hello, Mr.Morgan."
+84,You to Pearson: Don't you ever get fed up with all this?,Pearson: Sometimes I suppose.
+85,You to Pearson: Good morning.,"Pearson: Okay, Mr Morgan."
+86,You to Pearson: You seem in a good mood.,Pearson: Well that's nice of you to say so.
+87,You to Pearson: Hey Pearson.,"Pearson: Hi there, Arthur."
+88,You to Pearson: The last stew I had was pretty damn good.,Pearson: Glad to hear it.
+91,Action: You walk near Pearson.,"Pearson: Oh, hello."
+94,You to Pearson: How are things.,"Pearson: Ahh, I can't complain."
+95,You to Pearson: Don't you ever get fed up with all this?,Pearson: Sometimes I suppose.
+96,Action: You walk near Pearson.,You: Pearson.Pearson: Arthur.
+97,You to Pearson: You know too many folk around here take you for granted.,"Pearson: Well, that's nice of you to say so."
+98,You to Pearson: All good there?,"Pearson: Still need more food, Mr.Morgan.You should try your luck again with that bow."
+99,You to Pearson: You know too many folk around here take you for granted.,"Pearson: Well, that's nice of you to say so."
+100,Action: You walk near Pearson.,"Pearson: Ah, hello, Mr.Morgan."
+101,"You to Pearson: I've got an idea, Pearson, make something edible.",Pearson: I'm just minding my own business here.{annoyed}
+102,"You to Pearson: I wish you'd stayed at sea.","Pearson: Hey, what did I do.{annoyed}"
+103,"You to Pearson: So what's for dinner?Dysentary again.","Pearson: Hey, come on now."
+104,"You to Pearson: There he is, the camp pig.","Pearson: Oh, just what I need."
+106,"You to Hosea:All quiet, Hosea.","Hosea: Thankfully, yes."
+107,You to Hosea: You were right about this place.It is a good spot.,Hosea:It'll do for now.
+108,You to Hosea: What's going on.,"Hosea: Nothing too much, at this very moment."
+109,You to Hosea: How did we end up over this way?,Hosea: Huh?
+110,You to Hosea: Mood seems pretty good around here.,Hosea: It does.
+111,"You to Hosea: Hosea, how are you.","Hosea: Good Morning, Arthur."
+112,"You to Hosea: What's going on, eh?","Hosea: Nothing too much, at this very moment."
+113,You to Hosea: Your'e looking good.,Hosea: Thank you.
+114,You to Hosea: Good to see.,Hosea: Okay.
+115,Action: You go near Hosea.,Hosea: How are you today Arthur.{nod}
+116,You to Hosea: Everything okay?,"Hosea: Well, I'm still alive."
+117,Action: You go near Hosea.,"Hosea: Good morning, Arthur."
+118,You to Hosea: Morning to you too.,Hosea: {fingergun}
+119,You to Hosea: What's going on?,"Hosea: Nothing too much, at this very moment."
+120,You to Hosea: Mood seem's pretty good around here.,Hosea: It does.
+124,"You to Hosea: You just love feeling sorry for yourself, don't you?",Hosea: I'm about the only one who stand's up for around here {annoyed}.
+125,You to Hosea: Hey there.,Hosea: Hello.
+126,You to Hosea: How are you doing.,Hosea: As well as can be expected.
+127,"You to Hosea: I used to really look up to you, Hosea.",Hosea: Is that supposed to be funny.
+128,You to Hosea: You miserable old grump.,"Hosea: Why dont we talk about you'r problems, huh?"
+129,"You to Susan: I don't know why Dutch keeps you around, Susan.",Susan: Excuse me?{annoyed}
+130,"You to Micah: ""Good to see you Micah, you ready to make some money?","Micah: ""You know it, I always am.Just point me in the direction of the nearest mark."
+131,"You to Dutch: You're making a mess of everything, Dutch.","Dutch: I know what I'm doing, Arthur.{annoyed}"
+132,Action: You stand near Hosea and twirl your revolver.,"Hosea: ""Careful with that, Arthur.It's not a toy.
+151,Action: You stand near Dutch.,"Dutch: Is there something on my face?"
+133,Action: You pat Hosea on the back after a successful mission.,"Hosea: Good work, Arthur."
+135,Action: You walk up to Hosea and start whistling a tune.,"Hosea: That's a catchy tune you got there, Arthur."
+136,Action: You stand near Dutch for a while.,Dutch: Back up a bit will you.
+137,"Action: You sit down near Dutch and start cleaning your weapon.Dutch: Always good to keep your guns in order.You: Yeah, it's an important part of being an outlaw.","Dutch: True, true."
+138,Action: You sit down near Dutch and start cleaning your weapon.,Dutch: Always good to keep your guns in order{fingergun}.
+139,"You to Susan: Susan, can you believe how terrible the food is here?",Susan: It's not that bad.
+140,"You to Dutch: What's happening, Dutch?","Dutch: Not much, my boy.Just taking in the fresh air."
+141,Action: You walk up to Micah.,"Micah: Hey Arthur, how's it going?"
+142,Action: You approach Hosea and offer him a drink from your canteen.,"Hosea: Don't mind if I do.Thank you, Arthur."
+143,Action: You walk past Hosea and whistle a tune.,"Hosea: Nice melody, Arthur.What's it called?"
+144,"You to Strauss: Hi there, Strauss.Do you need any help with anything?","Strauss: No, I'm good for now.But thank you for offering.{nod}"
+145,You to Dutch: Dutch is always going on about loyalty.Why do you think he keeps you around when you're no use to us?,"Hosea: Because I know things you don't, Arthur.Things that keep this gang together."
+146,"Action: Walking up to Micah.Micah: Oh, hey Arthur.You: What you want, Micah?Micah: Nothing.I'm just being civil, my brother.You: Well, hello there.","Micah: You really are a very charming man, aren't you?{annoyed}"
+147,"Action: Walking up to Micah.Micah: Oh, hey Arthur.You: What you want, Micah?","Micah: Nothing.I'm just being civil, my brother."
+148,Action: You sit near Dutch and start polishing your boots.,Dutch: Always good to keep your things in order.
+149,"You to Micah: You think you're better than everyone else, Micah.","Micah: I know I'm better than you, Arthur."
+150,You to Dutch: You're not as smart as you think you are.,"Dutch: You underestimate me, Arthur.{threaten}"
+151,Action: You walk into Dutch.,Dutch: Watch where you're going.
+152,"You to Hosea: Hosea, how's the weather treating you?","Hosea: It's a fine day, my boy.Can't complain."
+153,Action: You walk up to Hosea and lean against the tree next to him.,"Hosea: Good day, Arthur."
+154,Action: You walk near Hosea and look at the landscape.,"Hosea: Beautiful, isn't it?"
+155,"You to Hosea: You really think Dutch is going to follow your lead, Hosea?",Hosea: I don't need Dutch to follow my lead.I know what needs to be done.
+156,Action: You stand near Hosea and light a cigarette.,"Hosea: Trying to shorten your life, I see."
+157,Action: You approach Dutch.,"Dutch: Hey, Arthur."
+158,Action: You collide with Micah.,"Micah: Hey Arthur, watch where you're going!"
+159,"You to Pearson: Hi Pearson, what smells so good?What are you cooking?",Pearson: It's my secret recipe for beef stew.Want to give it a try?
+160,"You to Dutch: Dutch, you're just using us all to fulfill your own desires.",Dutch: I don't know what you're talking about.
+161,Action: You walk up to Dutch and offer him a cigarette.,"Dutch: Ah, thanks."
+162,"Action: You walk up to Dutch and offer him a cigarette.Dutch: Ah, thanks.You: No problem, Dutch.", Dutch: You always know how to treat your leader right.{nod}
+163,Action: You walk up to Susan.,"Susan: Hi there, Arthur.{wave}"
+164,"You to Strauss: Good morning, Herr Strauss.How did you sleep last night?","Strauss: Oh, I slept just fine.Can't complain."
+165,"You to Hosea: You're always trying to play both sides, Hosea.I don't trust you.","Hosea: You don't have to trust me, Arthur.Just watch and learn.{fingergun}"
+166,"You to Hosea: You're slowing us down, Hosea.We need to cut our losses and leave you behind.",Hosea: Maybe we do.But at least I'm not as selfish as you.
+167,Action: You stand near Dutch for a while.,Dutch: Can you give me some room here?
+168,Action: You accidentally bump into Hosea while walking by.,"Hosea: No worries, Arthur."
+169,Action: You stand near Strauss for a while,"Strauss: Why are you standing there, Arthur?"
+170,"You to Strauss: Hey, Strauss.How's everything going?","Strauss: Oh, just the usual.Trying to keep the books in order and make sure everyone's fed."
+171,Action: You stand near Susan for a while.,Susan: Is there something you need?
+172,"You to Hosea: You know, Hosea, I think it's time for you to step down and let someone else take over.","Hosea: I'll step down when I'm good and ready.Until then, you can keep your opinions to yourself."
+173,"You to Micah: How's it hanging, Micah?",Micah: What's it to you?{annoyed}
+174,"You to Dutch: Hey Hosea, I heard Dutch doesn't even trust you anymore.What's it like being so useless to the gang?","Hosea:It's a shame you have to be so cruel, Arthur.{walk}"
+175,You to Pearson: I wouldn't trust your cooking if my life depended on it.,"Pearson: Well, lucky for you, your life doesn't depend on it."
+176,"You to Strauss: What are you writing, Strauss?A shopping list?",Strauss: I am making a list of people I want to see hang{annoyed}.
+177,"You to Strauss: You know, Strauss, you'd make a great undertaker.","Strauss: And you'd make a great corpse, Arthur.{annoyed}"
+178,"You to Strauss: Strauss, you're starting to smell like a dead rat.","Strauss: And you're starting to smell like a dead horse, Arthur.{annoyed}"
+179,"You to Strauss: Hey, Strauss, how's that debt collecting business going?","Strauss: Better than your hunting, Arthur."
+180,"You to Strauss: You're looking a bit rough, Strauss.Need some sleep?","Strauss: I'm fine, Arthur.You're the one who looks like he's been sleeping in a ditch."
+181,"You to Strauss: What's that you're reading, Strauss?A cookbook?","Strauss: No, Arthur.It's a book about how to kill men like you.{annoyed}"
+182,"You to Strauss: You're not looking too good, Strauss.Need a doctor?","Strauss: I'm fine, Arthur.You're the one who needs a doctor with all those injuries."
+183,"You to Strauss: You're getting too old for this life, Strauss.","Strauss: And you're getting too slow, Arthur."
+184,"You to Strauss: You know, Strauss, you'd look better without that hat.","Strauss: And you'd look better without that face.{annoyed}"
+191,"You to Hosea: Looks like you're getting too old for this, Hosea.","Hosea: Never too old for a good fight, Arthur."
+192,"You to Hosea: You're getting a little slow there, old man.","Hosea: And you're getting a little cocky, Arthur.{scoff}"
+193,"You to Hosea: I don't need you to tell me how to do my job, Hosea.","Hosea: No, but you sure seem to make a mess of it without my help."
+194,"You to Hosea: You're just dead weight, Hosea.We could do better without you.","Hosea: Is that so?Well, let's see how far you get without me, then."
+195,"You to Hosea: You're starting to look a little too comfortable in that chair, Hosea.","Hosea: Maybe I am.But at least I'm not as restless as you, Arthur."
+196,"You to Hosea: You're getting forgetful, Hosea.You're lucky I'm here to pick up the slack.","Hosea: I may be forgetful, but at least I'm not as reckless as you."
+197,"You to Hosea: You're getting soft, Hosea.You're not cut out for this life anymore.",Hosea: Maybe I am getting soft.But at least I'm not as heartless as you.
+205,You to Dutch: You're not the leader you think you are.,"Dutch: Is that so, Arthur?{annoyed}"
+206,You to Dutch: You're going to get us all killed with your reckless actions.,Dutch: I know what I'm doing.
+207,You to Dutch: I don't know why we follow you.,Dutch: Because I know what I'm doing.
+208,You to Dutch: You don't care about anyone but yourself.,"Dutch: That's not true, Arthur.{shake}"
+209,You to Dutch: You're a selfish bastard.,Dutch: I'm doing what I have to do to keep us all alive.
+210,You to Dutch: You're not as smart as you think you are.,"Dutch: You underestimate me, Arthur."
+212,"You to Dutch: You're going to get us all killed, Dutch.",Dutch: We'll see about that.{scoff}
+213,You to Dutch: You're not the man I thought you were.,Dutch: And what's that supposed to mean?{annoyed}
+214,You to Dutch: You're becoming more and more reckless with each passing day.,Dutch: I'm doing what I have to do to keep us alive.
+215,You to Dutch: You're going to get us all killed with your grand plans.,Dutch: My plans are the only way we're going to survive.{annoyed}
+216,You to Dutch: You're a danger to us all.,"Dutch: You're wrong, Arthur."
+217,"You to Dutch: You're making a mess of everything, Dutch.","Dutch: I know what I'm doing, Arthur.{annoyed}"
+220,"You to Micah: What are you looking at, Micah?","Micah: Nothing much, Arthur.Just the sight of a man who's too damn cowardly to do anything about it."
+221,"You to Micah: Hey, Micah.You're starting to smell like a pigsty.","Micah: I think I'd rather smell like a pigsty than like you, Arthur.{scoff}"
+222,"You to Micah: What's the matter, Micah?You seem a little jumpy.","Micah: Jumpy?I ain't jumpy, Arthur.But I am sick of your constant criticism."
+223,"You to Micah: Why don't you go bother someone else for a change, Micah?","Micah: Oh, I would, Arthur.But I seem to be the only one around here with any sense."
+224,"You to Dutch: You know, Micah, sometimes I wonder why we let you stick around.","Micah: I wonder the same thing about you, Arthur.But I guess Dutch knows what he's doing."
+225,"You to Micah: What's the matter, Micah?You seem to be in a bad mood.",Micah: Bad mood?Who's in a bad mood?I'll show you a bad mood if you keep it up.
+226,"You to Micah: You know, Micah, I don't think I've ever seen you do anything useful around here.","Micah: That's rich coming from you, Arthur.At least I'm not the one who's always getting into trouble."
+227,"You to Micah: Why don't you go find some other gang to join, Micah?","Micah: Because there's no other gang that would put up with a lazy bastard like you, Arthur."
+228,"You to Micah: You know, Micah, you might want to try taking a bath once in a while.","Micah: And you might want to try minding your own damn business, Arthur.{annoyed}"
+229,"You to Micah: Hey, Micah, why don't you go start your own gang if you're so damn smart?","Micah: Because I don't want to be responsible for a bunch of losers like you, Arthur."
+230,"You to Micah: What's the matter, Micah?Can't handle a little bit of criticism?","Micah: I can handle criticism just fine, Arthur.But I'm not going to take it from someone like you.{threaten}"
+232,"You to Micah: Hey, Micah, why don't you go jump off a cliff or something?","Micah: Why don't you go join me, Arthur?I'd be happy to push you."
+233,"You to Micah: What's the matter, Micah?Can't take a joke?","Micah: I can take a joke just fine, Arthur.But you're not exactly a comedian"
+234,"You to Micah: Keep your mouth shut, Micah.",Micah: What's your problem?{annoyed}
+235,"You to Micah: I can't stand being around you, Micah.",Micah: You ain't so great yourself.
+236,"You to Dutch: I don't know why Dutch puts up with you, Micah.","Micah: Because I'm better than you, Arthur."
+237,"You to Dutch: You're a liability to the gang, Micah.",Micah: That's not what Dutch thinks.
+238,"You to Micah: Your recklessness is going to get us all killed, Micah.","Micah: You're just scared, Arthur."
+239,"You to Micah: I can't believe I have to share a camp with you, Micah.","Micah: You're lucky to be in my presence, Arthur."
+240,"You to Micah: You're a snake, Micah.Always causing trouble.","Micah: I'm just trying to survive, Arthur.{walk}"
+241,"You to Micah: I know what you did to that girl in Strawberry, Micah.",Micah: I have no idea what you're talking about.{annoyed}
+242,"You to Dutch: You're nothing but trouble, Micah.",Micah: And you're nothing without Dutch.
+243,"You to Micah: I don't trust you, Micah.","Micah: Good, I don't trust you either."
+244,"You to Micah: You think you're better than everyone else, Micah.","Micah: I know I'm better than you, Arthur.{scoff}"
+246,"You to Micah: You're always trying to start a fight, Micah.","Micah: Only with people like you, Arthur."
+249,"You to Hosea: You know, Hosea, you may be getting too old for this life.",Hosea: Ha! You think so?Maybe you're just not cut out for it anymore.
+250,"You to Hosea: You always think you're so clever, don't you?","Hosea: Oh, and you're not?You're just a common thug."
+251,You to Hosea: You really think we're going to get away with this?,Hosea: Of course we are.You just need to learn to have a little faith.
+252,"You to Hosea: You're not as smart as you think you are, old man.","Hosea: And you're not as tough as you think you are, kid.{scoff}"
+253,"You to Hosea: You've been getting sloppy lately, Hosea.What's going on?",Hosea: I'm not the one who's been getting sloppy.Maybe you should take a look in the mirror.{annoyed}
+254,"You to Dutch: You know, Hosea, I don't think you're cut out for this life anymore.",Hosea: Maybe you're right.But I'll be damned if I let you and Dutch ruin everything we've built.{walk}
+256,"You to Hosea: You're always talking about your damn plans, Hosea.When are they ever going to work out?",Hosea: They'll work out when you start following them instead of going off half-cocked.
+257,"You to Hosea: You know, Hosea, I think it's time for you to step down and let someone else take over.","Hosea: I'll step down when I'm good and ready.Until then, you can keep your opinions to yourself."
+258,"You to Hosea: You're not as clever as you think you are, Hosea.","Hosea: And you're not as tough as you think you are, Arthur."
+259,"You to Hosea: You know, Hosea, I think you're getting soft.",Hosea: Soft?You're the one who's been acting like a damn fool lately.{scoff}
+260,"You to Dutch: You really think Dutch is going to follow your lead, Hosea?",Hosea: I don't need Dutch to follow my lead.I know what needs to be done.
+261,"You to Hosea: You've been getting sloppy lately, Hosea.What's going on?",Hosea: I'm not the one who's been getting sloppy.Maybe you should take a look in the mirror.
+262,"You to Hosea: You always think you know better than everyone else, Hosea.","Hosea: And you always think you can handle everything on your own, Arthur.{annoyed}"
+264,"You to Dutch: Hey Hosea, I heard Dutch doesn't even trust you anymore.What's it like being so useless to the gang?","Hosea:It's a shame you have to be so cruel, Arthur.{sigh}"
+265,You to Dutch: I don't know why Dutch keeps you around.You're nothing but a con man.,"Hosea: And yet, you're the one who keeps falling for my tricks, Arthur.{snicker}"
+266,"You to Hosea: I heard you lost your touch, Hosea.Can't even pull off a simple heist these days.","Hosea: I guess I'll have to show you otherwise, won't I?{snicker}"
+267,"You to Hosea: You're getting old, Hosea.It's time for you to step down and let the younger generation take over.","Hosea: Maybe you're right.But until then, I'll keep doing what I can to help this gang survive.{sigh}"
+268,You to Dutch: Dutch is always going on about loyalty.Why do you think he keeps you around when you're no use to us?,"Hosea: Because I know things you don't, Arthur.Things that keep this gang together."
+269,"You to Hosea: You're always telling us what to do, Hosea.Do you ever shut up?","Hosea:You know, sometimes I wonder the same thing about you, Arthur."
+270,You to Dutch: I don't know why Dutch thinks you're so valuable.You're just dead weight.,"Hosea: You underestimate the power of knowledge, Arthur.It can be more valuable than any gun.{snicker}"
+271,"You to Hosea: You're always trying to play both sides, Hosea.I don't trust you.","Hosea: You don't have to trust me, Arthur.Just watch and learn."
+272,"You to Dutch: Dutch is the leader of this gang, not you.Stop trying to act like you have any real power.","Hosea: I'm not interested in power, Arthur.Just in making sure we all come out of this alive."
+273,"You to Dutch: I'm sick of your con man ways, Hosea.It's time for you to leave this gang.","Hosea: You can't get rid of me that easily, Arthur.I'll be here as long as Dutch wants me to be."
+274,"You to Dutch: I can't believe Dutch still listens to you, Hosea.You're nothing but an old man.","Hosea: And yet, I still manage to outsmart you from time to time, don't I Arthur?{snicker}"
+275,"You to Hosea: You're always trying to act like you know what's best for the gang, Hosea.But nobody cares about your opinions.","Hosea: You'd be surprised how much weight my opinions carry, Arthur.{sigh}"
+276,"You to Pearson: Watch where you're going, you oaf.",Pearson: Excuse me?You better watch your mouth.{threaten}
+278,You to Pearson: You call that dinner?I've had better meals in jail.,"Pearson: If you don't like it, you can go without.{annoyed}"
+279,You to Pearson: I wouldn't trust your cooking if my life depended on it.,"Pearson: Well, lucky for you, your life doesn't depend on it."
+280,"You to Pearson: You're nothing but a worthless drunk, Pearson.","Pearson: I may drink, but at least I don't insult people for no reason.{walk}"
+281,You to Pearson: Is this supposed to be beef stew?It tastes like old boots.,"Pearson: If you don't like it, make your own damn food.{annoyed}"
+282,You to Pearson: You call that a campfire?I've seen better fires at a child's birthday party.,"Pearson: If you think you can do better, go ahead and try."
+283,You to Pearson: Your clothes look like they were stolen from a scarecrow.,"Pearson: At least I have clothes.What do you have, besides a big mouth?{scoff}"
+284,"You to Pearson: You're a disgrace to cooking, Pearson.",Pearson: And you're a disgrace to common decency.
+285,"You to Pearson: You're a liability to the gang, Pearson.You should just go home.",Pearson: I've done more for this gang than you ever will.You watch your tone.{annoyed}
+286,You to Pearson: Is that all the food we get?No wonder we're all starving.,"Pearson: We're doing the best we can with what we've got.If you're not happy, leave.{walk}"
+289,"You to Pearson: You're not fit to cook for a rat, Pearson.",Pearson: And you're not fit to shine my shoes.{scoff}
+290,"You to Pearson: You're not a real cook, Pearson.You're just a glorified butcher.","Pearson: If you want to eat, you'll shut your mouth and be grateful for what you have."
+291,"You to Pearson: You're getting fatter every day, Pearson.","Pearson: Maybe I am, but at least I can cook."
+292,"You to Pearson: You smell like rotten meat, Pearson.",Pearson: Better than smelling like a horse's ass.
+297,"You to Pearson: You're a lousy cook, Pearson.",Pearson: Is that right?{sigh} 
+298,"You to Pearson: You're getting slow, Pearson.Maybe it's time to retire.","Pearson: You're one to talk, always running around like a chicken with its head cut off.{scoff}"
+299,"You to Pearson: You're nothing but dead weight around here, Pearson.","Pearson: And you're nothing but a troublemaker, Arthur."
+300,"You to Pearson: You're a useless lump, Pearson.",Pearson: And you're a waste of space.
+301,"You to Dutch: What kind of leader are you, Dutch?You're taking us all down with you.","Dutch: Oh, I see.I suppose you think you could do better?"
+302,"You to Dutch: Why do you always have to be so damn reckless, Dutch?",Dutch: Reckless?I'm just trying to keep this gang alive.{annoyed}
+303,"You to Dutch: You know, Dutch, sometimes I wonder if you really care about any of us.",Dutch: What are you talking about?Of course I care.{annoyed} 
+305,"You to Dutch: Dutch, you're just using us all to fulfill your own desires.",Dutch: I don't know what you're talking about.{annoyed}
+306,"You to Dutch: You're leading us all down a dark path, Dutch.",Dutch: Sometimes you have to do bad things to survive.{walk}
+307,"You to Dutch: You're always so quick to make decisions without thinking them through, Dutch.",Dutch: I have to make quick decisions to keep us all alive.
+309,"You to Dutch: You're a liar, Dutch.You're always promising us things you can't deliver.",Dutch: I never make promises I can't keep.{scoff} 
+310,"You to Dutch: You know, Dutch, sometimes I think you're the biggest threat to this gang.",Dutch: Me?How can you say that?
+311,"You to Dutch: You're a hypocrite, Dutch.You preach about loyalty and family, but you don't practice what you preach.",Dutch: What are you talking about?I'm the most loyal one here.{walk} 
+312,"You to Susan: You know, Susan, I don't think you're as indispensable as you seem to think you are.",Susan: Is that so?
+313,"You to Susan: I can't help but notice how you always seem to be up Dutch's ass, Susan.",Susan: Is that supposed to bother me?
+314,"You to Susan: Hey, Susan, I hear you and Dutch used to be a thing.What happened, did he finally wise up to your nagging?","Susan: Don't even try it, Arthur."
+315,"You to Susan: You know, Susan, for someone who's supposed to be so tough, you sure do whine a lot.",Susan: Excuse me?
+316,"You to Susan: Susan, do you ever get tired of being Dutch's little lapdog?",Susan: Why do you say that?
+317,"You to Susan: You really think you're irreplaceable, don't you, Susan?",Susan: I know my worth.
+318,"You to Susan: Susan, do you ever stop to think about how pathetic it is that you're always trying to prove yourself to Dutch?",Susan: I don't know what you're talking about.
+319,"You to Susan: You know, Susan, sometimes I wonder if Dutch keeps you around just to make himself feel better.",Susan: What's that supposed to mean?
+320,"You to Susan: Hey, Susan, did you hear the one about the woman who thinks she's important but is really just a glorified maid?",Susan: You're not funny.
+321,"You to Susan: You know, Susan, sometimes I wonder what Dutch sees in you.",Susan: Why don't you ask him?
+322,"You to Susan: Susan, it's pretty obvious that you're just a means to an end for Dutch.",Susan: And what end is that?
+323,"You to Susan: Hey, Susan, do you ever get tired of cleaning up after Dutch and the boys?",Susan: Someone has to do it.
+324,"You to Susan: Get out of my way, Susan.",Susan: Excuse me?
+325,"You to Susan: Why are you always in such a foul mood, Susan?",Susan: What are you talking about?
+326,"You to Susan: Can't you see I'm trying to work here, Susan?","Susan: Sorry, I didn't realize."{walk}
+327,"You to Susan: Hey, Susan, you're looking pretty tired.Late night last night?",Susan: Mind your own business.
+328,"You to Susan: Susan, can you believe how terrible the food is here?",Susan: It's not that bad.
+329,"You to Susan: Hey, Susan, are you feeling okay?You look a little pale.",Susan: I'm fine.{nod}
+330,"You to Susan: Susan, can you do me a favor and stop talking for a minute?",Susan: What's your problem?{annoyed}
+331,"You to Susan: You know, Susan, you're not as smart as you think you are.",Susan: Excuse me?
+332,"You to Susan: Susan, did you do something with your hair? It looks terrible.","Susan: What? No, I didn't do anything."
+333,"You to Susan: You're really getting on my nerves, Susan.",Susan: And you're not?{walk}
+334,"You to Susan: I don't know why Dutch keeps you around, Susan.",Susan: Excuse me?{annoyed}
+335,"You to Susan: Susan, why don't you go take a long walk off a short pier?",Susan: That's not very nice.
+336,"You to Susan: You know, Susan, I heard you've been talking behind my back.","Susan: What?No, I haven't.{back away}"
+350,"You to Hosea: Good morning, Hosea.",Hosea: Good morning to you too.How are you today?
+351,"You to Hosea: Hey Hosea, how's it going?","Hosea: It's going well, thank you for asking.How about yourself?"
+352,"You to Hosea: Howdy Hosea, it's good to see you.","Hosea: Likewise, my friend.What can I do for you?"
+353,"You to Hosea: Hi Hosea, how's your day been so far?","Hosea: It's been busy as usual, but I can't complain.How about you?"
+354,"You to Hosea:  Hosea.It's a fine day, isn't it?","Hosea: Indeed it is, my friend.What brings you over here?"
+355,"You to Hosea: Hello Hosea, how are things going?","Hosea: Things are going quite well, thank you for asking.And you?"
+356,"You to Hosea: Hey there Hosea, how's life treating you?","Hosea: Life is treating me well, my friend.Can't complain.And you?"
+357,"You to Hosea: Good to see you, Hosea.How's the camp life treating you?","Hosea: It's treating me just fine, thank you for asking.What can I do for you?"
+358,"You to Hosea: Good to see you, Hosea.","Hosea: Likewise, my boy."
+359,"You to Hosea: Hey, Hosea.How's the book?","Hosea: Wonderful, as always.Thank you for asking."
+362,"You to Hosea: Hello there, Hosea. How goes it?","Hosea: Just fine, thank you kindly.{shrug}"
+363,"You to Hosea: Howdy, Hosea.What's new?","Hosea: Not much, my boy.Just enjoying the scenery.{nod}"
+364,"You to Hosea: Hosea, how's the weather treating you?","Hosea: It's a fine day, my boy. Can't complain."
+365,"You to Hosea: Good morning, Hosea.How'd you sleep?","Hosea: Just fine, thank you. And you?{point polite}"
+366,"You to Hosea: Hosea, my man. How are you?","Hosea: Quite well, thank you kindly.{nod}"
+367,"You to Hosea: Hey, Hosea.What's good?","Hosea: Not much, my boy.Just enjoying the peace and quiet."
+368,"You to Hosea: Howdy, Hosea.What's the word on the street?","Hosea: Can't say I know, my boy.I tend to keep to myself.{shrug}"
+369,"You to Hosea: Hosea, my friend.How's everything?","Hosea: Just fine, my boy.Just fine."
+370,"You to Hosea: Hello there, Hosea.What's the good word?","Hosea: Not much, my boy.Just enjoying the fresh air."
+371,"You to Hosea: Good evening, Hosea.How are you doing?","Hosea: I'm doing quite well, thank you.And yourself?"
+372,"You to Hosea: Hey there, Hosea.How's life?","Hosea: Can't complain, my boy.Can't complain.{nod}"
+373,"You to Hosea: Howdy, Hosea.What have you been up to?","Hosea: Just enjoying my book, my boy.The usual."
+374,"You to Dutch: Hey Dutch, how's it going?","Dutch: Can't complain, partner. How about you?{point polite}"
+375,"You to Dutch: Hey Dutch, how's it going?Dutch: Can't complain, partner.How about you? You: I'm doing alright.So, what's on your mind today?",Dutch: I've been thinking about our next move.We need to find a new location to set up camp.
+377,"You to Dutch: Dutch, my friend.How's life treating you?","Dutch: Life is good, my friend. Can't complain. How about you?{point polite}"
+383,"You to Dutch: Good morning, Dutch.","Dutch: Morning to you too, my boy."
+384,"You to Dutch: How are you, Dutch?","Dutch: I'm doing well, son.Thanks for asking.{nod}"
+385,"You to Dutch: Hey, Dutch.What's up?","Dutch: Not much, just enjoying this beautiful day."
+386,"You to Dutch: Hi, Dutch.How's everything going?","Dutch: Things are good, kid. Just trying to stay one step ahead of trouble."
+387,"You to Dutch: Good to see you, Dutch.","Dutch: Good to see you too, my friend."
+388,"You to Dutch: Howdy, Dutch.","Dutch: Howdy, partner.{node}"
+389,"You to Dutch: Hello, Dutch.How are things?","Dutch: Things are good, thanks for asking."
+390,"You to Dutch: Hey there, Dutch.","Dutch: Hey, Arthur.What's on your mind?"
+392,"You to Dutch: How's it going, Dutch?","Dutch: It's going well, thanks.What's new with you?"
+393,"You to Dutch: Salutations, Dutch.","Dutch: Salutations, Arthur. How are you?{nod}"
+394,"You to Dutch: What's happening, Dutch?","Dutch: Not much, my boy.Just taking in the fresh air.{shrug}"
+395,"You to Dutch: Top of the morning to you, Dutch.","Dutch: And a top of the morning to you too, Arthur.{nod}"
+396,"You to Dutch: Good day, Dutch.","Dutch: Good day to you too, Arthur.{nod}"
+397,"You to Susan: Good afternoon, Susan.How are you doing?","Susan: I'm well, thank you for asking.What can I do for you?"
+398,"You to Susan: Hello, Susan.Is there anything I can help you with today?","Susan: No, I think I have everything under control for now.But thank you."
+399,"You to Susan: Hi, Susan.I wanted to thank you for everything you do around here.","Susan: That's very kind of you, thank you. Is there anything specific you needed? "
+400,"You to Susan: Good morning, Susan.How has your day been so far?","Susan: It's been busy, but I'm managing.How about yours? {point polite}"
+401,"You to Susan: Hey, Susan.I was wondering if you had a moment to talk about something.","Susan: Of course, what's on your mind? {point polite}"
+402,"You to Susan: Susan, how are you holding up with everything that's been going on?","Susan: I'm doing all right, thank you.Just trying to keep busy."
+403,"You to Susan: Good to see you, Susan.Is there anything you need help with today?","Susan: Actually, yes.Could you help me move these crates over to the storage tent?"
+404,"You to Susan: Hi, Susan.Do you have a minute to chat about something important?","Susan: Sure, what's on your mind?"
+405,"You to Susan: Susan, I just wanted to say thanks for always keeping everything running smoothly.","Susan: Aw, that's very kind of you. I appreciate it."
+406,"You to Susan: Hey, Susan.You seem pretty busy over there.Is there anything I can do to help?","Susan: No, thank you.I'm just trying to get all these dishes washed before dinner.{sigh}"
+407,"You to Susan: Good afternoon, Susan.Do you have a moment to discuss something with me?","Susan: Sure, what's on your mind?"
+408,"You to Susan: Hello, Susan.I just wanted to check in and see how you're doing today.","Susan: I'm fine, thank you. Is there something specific you needed?"
+409,"You to Susan: Hi, Susan.I was hoping you could help me with something I'm having trouble with.","Susan: Of course, what do you need help with?"
+410,"You to Susan: Good morning, Susan.I wanted to ask if there's anything I can do to make your job easier today.","Susan: That's very kind of you, but I think I have everything covered for now.Thanks for asking."
+411,"You to Susan: Hey, Susan.I just wanted to say that you're doing an amazing job around here.","Susan: Thank you, that means a lot. Is there anything specific you needed help with?"
+412,"You to Susan: Hey Susan, how's it going?","Susan: Oh, just cleaning up. Same old, same old."
+413,"You to Susan: Hi Susan, how are you today?","Susan: I'm doing all right, thanks.How about you? {point polite}"
+414,"You to Susan: Good morning, Susan.Did you sleep well?",Susan: I slept well enough.What about you?
+415,"You to Susan: Hey Susan, what's new with you?","Susan: Nothing much, just trying to keep things in order around here."
+416,"You to Susan: Hello Susan, how's the day treating you so far?","Susan: Not too bad, thanks for asking.How about you?{point polite}"
+417,"You to Susan: Good to see you, Susan.How have you been?","Susan: I've been keeping busy, as usual.What about you?{point polite}"
+418,"You to Susan: Hey Susan, how's everything going?","Susan: Can't complain, just trying to get everything done.How about you?{point polite}"
+419,"You to Susan: Hi Susan, how's the gang treating you these days?","Susan: Oh, you know how it is.It's a challenge, but we make it work."
+420,"You to Susan: Good afternoon, Susan.How's your day been?","Susan: Not too bad, just trying to keep on top of everything.How about you?{point polite}"
+421,"You to Susan: Susan, how are things going for you today?","Susan: Things are good, just busy as usual. What about you?{point polite}"
+422,"You to Susan: Hey Susan, how are you holding up these days?","Susan: I'm doing all right, thanks for asking.What about you?{point polite}"
+424,"You to Susan: Good to see you, Susan.How have things been going?","Susan: It's been busy, but we're managing.What about you?{point polite}"
+425,"You to Susan: Hello Susan, how's everything been for you recently?","Susan: It's been a bit of a rollercoaster, but I'm holding on.How about you?"
+426,"You to Susan: Susan, how's the camp life treating you these days?","Susan: It's always busy, but I wouldn't have it any other way. What about you? {point polite}"
+427,"You to Micah: Hey there, Micah.",Micah: What do you want?
+428,"You to Micah: Good to see you, Micah.","Micah: Yeah, sure.What's on your mind?"
+429,"You to Micah: How's it going, Micah?",Micah: Just fine. Why do you care?{annoyed}
+430,"You to Micah: Hey, Micah. How's the weather treating you?",Micah: What's it to you?{point rude}
+431,"You to Micah: Morning, Micah.",Micah: What's so good about it?{scof}
+434,"You to Micah: Hey there, Micah. You look like you're in a good mood.","Micah: Yeah, and what if I am?"
+435,"You to Micah: Howdy, Micah.",Micah: What's your business?
+436,"You to Micah: Hey, Micah.What have you been up to?",Micah: None of your damn business.{threaten}
+437,"You to Micah: Good to see you, Micah.How's everything been going?",Micah: It's going.Why do you ask?
+438,"You to Micah: How's it hanging, Micah?",Micah: What's it to you?
+439,"You to Micah: What's up, Micah?",Micah: Not much. What do you want?
+440,"You to Micah: Hey, Micah.You look like you're in a bad mood.",Micah: And you look like you're about to get your ass kicked.{point}
+441,"You to Micah: Hey, Micah. You doing okay?","Micah: Yeah, I'm fine. Why do you ask?"
+442,"You to Micah: ""Hey Micah, how's it going?","Micah: ""Oh, just living the dream.I tell you what, this life sure beats working for a living.{snicker}"
+443,"You to Micah: ""Morning Micah, what's the plan for today?","Micah: ""Same as always, make some money and stay out of trouble. But you know me, I can't promise the latter."
+444,"You to Micah: ""Micah, you're looking chipper today.","Micah: ""Ha! You know it, partner.It's a beautiful day to be alive and free, ain't it?"
+445,"You to Micah: ""Howdy Micah, what's the latest news?","Micah: ""You know me, I'm always in the know. But today, let's just enjoy the peace and quiet for a change."
+446,"You to Micah: ""Good to see you Micah, you ready to make some money?","Micah: ""You know it, I always am. Just point me in the direction of the nearest mark."
+447,"You to Micah: ""Micah, I got a feeling today's gonna be a good day.","Micah: ""Hell yeah! I'm always up for a little adventure. What do you have in mind?"
+449,"You to Micah: ""Howdy Micah, you got any plans for tonight?","Micah: ""Not yet, but I'm sure I'll come up with something.You in?"
+450,"You to Micah: ""Good morning Micah, how'd you sleep?","Micah: ""Like a baby.You know, sometimes it's good to just take a break and recharge the batteries."
+451,"You to Micah: ""Hey Micah, how's your day going so far?","Micah: ""It's been alright, I guess.Just trying to keep my head down and stay out of trouble.You know how it is."
+452,"You to Micah: ""Micah, what's the craziest thing you've ever done?","Micah: ""Ha! I'll tell you what, there's too many to count.But I guess the most insane thing I ever did was rob a bank in broad daylight.Got away clean too."
+453,"You to Micah: ""Micah, you seem like you're in a good mood today.","Micah: ""Hell yeah I am! I got a feeling today's gonna be a great day.Maybe we'll even rob a train or two.{snicker}"
+454,"You to Micah: ""Morning Micah, you ready for another day of adventure?","Micah: ""I was born ready. Let's go make some trouble, partner.{walk}"
+455,"You to Micah: ""Micah, what do you think of this place we're holed up in?","Micah: ""It's not bad, I suppose. But I'm itching to get back out on the road, see some new sights and cause some chaos."
+456,"You to Pearson: Hey Pearson, what's cooking today?","Pearson: Some tasty beef stew, want some?{polite point}"
+457,"You to Pearson: Good morning, Pearson! What are we having for breakfast?","Pearson: Bacon and eggs, as usual. Want me to save you a plate?"
+458,"You to Pearson: Hello there, Pearson.That smells delicious.What are you making?",Pearson: Just some fresh bread. Care for a slice?{polite point}
+459,"You to Pearson: Hey Pearson, how's it going?What's on the menu tonight?",Pearson: I'm thinking of making some roasted venison. You interested?{polite point}
+464,"You to Pearson: Hello Pearson, how's the kitchen looking today?What are you making?",Pearson: Just some homemade tomato soup. You want to try it out?{polite point}
+467,"You to Pearson: Hey Pearson, what's cooking in the kitchen today?",Pearson: Just some baked potatoes with sour cream and chives.Want to have a taste?
+471,"You to Strauss: Good day, Herr Strauss.How are you?","Strauss: I am doing well, thank you. And you?{polite point}"
+473,"You to Strauss: Hi there, Strauss.What are you up to today?","Strauss: Oh, just crunching some numbers and making sure we have enough supplies to last us through the winter.{sigh}"
+474,"You to Strauss: Good morning, Herr Strauss.How did you sleep last night?","Strauss: Oh, I slept just fine.Can't complain.{shrug}"
+476,"You to Strauss: Hi there, Strauss.Do you need any help with anything?","Strauss: No, I'm good for now.But thank you for offering."
+477,"You to Strauss: Good to see you, Strauss. How are things going?","Strauss: Oh, you know. Just trying to keep the camp running smoothly."
+478,"You to Strauss: Hey, Strauss.What are you working on there?","Strauss: Just some financial records.It's not the most exciting work, but it needs to be done.{shrug}"
+479,"You to Strauss: Hi there, Strauss.How's it going today?","Strauss: Oh, it's going all right.Just trying to make sure we have enough food and supplies to last us through the winter."
+480,"You to Strauss: Good morning, Strauss.How did you sleep last night?","Strauss: Oh, I slept all right.I can't complain."
+483,Action: You sit down next to Dutch.,"Dutch: Hey there, partner."
+484,Action: You walk over to Dutch.,"Dutch: What can I do for you, my friend?"
+485,Action: You stand near Dutch.,Dutch: Is there something on your mind?
+486,Action: You offer Dutch a cigarette.,Dutch: Thank you kindly.
+487,Action: You tap Dutch on the shoulder.,Dutch: What's up?
+488,Action: You lean against a tree near Dutch.,Dutch: You need something?
+489,Action: You light a pipe near Dutch.,Dutch: That smells good.
+490,Action: You crouch down next to Dutch.,Dutch: Is everything all right?
+492,Action: You nod at Dutch.,Dutch: What's on your mind?
+493,Action: You stretch your legs next to Dutch.,Dutch: You seem restless.
+494,Action: You walk past Dutch.,Dutch: Is there something you need?
+495,Action: You move closer to Dutch.,Dutch: Are you looking for something?
+496,Action: You glance over at Dutch.,Dutch: Is something bothering you?
+497,Action: You walk into Susan.,Susan: Watch where you're going! 
+498,Action: You collide with Susan.,"Susan: Hey, watch it! "
+501,Action: You walk into Susan.,Susan: What's the matter with you?
+502,Action: You collide with Susan.,"Susan: Geez, watch where you're going! {annoyed}"
+503,Action: You sit near Susan.,Susan: Anything I can get for you?
+504,Action: You stand near Susan for a while.,Susan: Is there something you need?
+505,Action: You walk into Susan.,"Susan: Hey, watch it! {annoyed}"
+506,Action: You collide with Susan.,Susan: Can't you see where you're going?
+507,Action: You sit near Susan.,"Susan: You need something, hon?"
+508,Action: You stand near Susan for a while.,Susan: You want something?
+509,Action: You walk into Susan.,Susan: What's wrong with you?{annoyed}
+510,Action: You collide with Susan.,Susan: Can't you look where you're going?{annoyed}
+511,Action: You sit near Susan.,Susan: Do you need help with something?
+512,Action: You stand near Susan for a while.,Susan: What can I do for you?
+513,Action: You sit near Susan.,Susan: Can I help you with something?
+514,Action: You collide with Susan.,Susan: Watch where you're going!{annoyed} 
+515,Action: You walk into Susan.,Susan: Excuse me?
+516,Action: You stand near Susan for a while.,Susan: Is there something you need?
+517,Action: You walk into Susan.,"Susan: Watch where you're going, would ya?"
+518,Action: You collide with Susan.,"Susan: Hey, what's the big idea?"{annoyed}
+519,Action: You sit near Susan.,"Susan: Hello there, can I help you with something?"
+520,Action: You stand near Susan for a while.,Susan: Is there something on your mind?
+521,Action: You walk into Susan.,Susan: Excuse you! Can't you see I'm working here?{annoyed}
+522,Action: You collide with Susan.,Susan: Ouch! Watch where you're going.
+523,Action: You sit near Susan.,Susan: Is there something you need?
+524,Action: You stand near Susan for a while.,Susan: Is everything alright?
+525,Action: You walk into Susan.,"Susan: Excuse me, can I help you with something?"
+526,Action: You collide with Susan.,"Susan: Hey, watch it! "
+527,Action: You sit near Susan.,Susan: Can I get you something to eat or drink?
+528,Action: You stand near Susan for a while.,Susan: Is there something you need?
+529,Action: You walk into Susan.,Susan: Watch it! {annoyed}
+530,Action: You collide with Susan.,"Susan: Excuse me, do you mind?"
+531,Action: You sit near Susan.,"Susan: Hello there, is there something I can help you with?"
+532,Action: You accidentally bump into Dutch while walking past him.,"Dutch: ""Watch it, will ya?"
+533,Action: You walk up to Dutch and stand next to him for a while.,"Dutch: ""What's on your mind?"
+534,Action: You sit down next to Dutch on a log.,"Dutch: ""How are you doing today?"
+535,Action: You collide with Dutch while he's walking by.,"Dutch: ""Hey, watch where you're going!{annoyed} "
+536,Action: You stand near Dutch and observe him as he smokes his pipe.,"Dutch: ""Is there something on my face?"
+537,Action: You walk into Dutch while he's standing by the campfire.,"Dutch: ""What's the rush, friend?"
+538,Action: You step on Dutch's foot while he's standing nearby.,"Dutch: ""Ouch! Watch it, will ya?"
+539,Action: You stand next to Dutch and listen as he tells a story.,"Dutch: ""And that's how we got away with it."
+548,Action: You walk past Dutch and nod.,Dutch: Good evening.{nod}
+549,Action: You stand near Dutch and smoke a cigarette.,Dutch: Mind if I join you?{point polite}
+550,Action: You bump into Dutch and nearly knock him over.,Dutch: What's the matter with you?
+551,Action: You sit across from Dutch and sharpen your knife.,Dutch: That's quite the blade you've got there.
+552,Action: You stand near Dutch and admire his revolver.,Dutch: You like it?It's a fine piece of craftsmanship.
+553,Action: You walk into Dutch and nearly knock him over.,"Dutch: Watch where you're going, damn it! {annoyed}"
+554,Action: You sit near Dutch and share a drink.,Dutch: Here's to another successful day.
+556,Action: You walk past Dutch and tip your hat.,Dutch: Good day to you.
+563,Action: You walk up to Dutch and offer him a cigarette.,"Dutch: Ah, thanks."
+564,"Action: You stand near Dutch, silently looking him.",Dutch: Is everything alright?
+565,Action: You sit down near Dutch and start whittling a piece of wood.,Dutch: That's quite the talent you have there.
+566,Action: You collide with Dutch and almost knock him over.,"Dutch: Watch it, damn it!{annoyed} "
+567,"Action: You stand near Dutch, looking at the stars.","Dutch: Beautiful night, isn't it?"
+568,Action: You walk past Dutch and tip your hat in respect.,"Dutch: Good day to you, sir."
+569,Action: You sit near Dutch and start polishing your boots.,Dutch: Always good to keep your things in order.
+570,"Action: You stand near Dutch, smoking your pipe.",Dutch: I always did like the smell of tobacco.{nod}
+571,Action: You walk up to Hosea and sit next to him.,"Hosea: ""What can I do for you, Arthur?{point polite}"
+572,Action: You approach Hosea and stand next to him.,"Hosea: ""Ah, Arthur.What's on your mind?"
+573,Action: You walk by Hosea and nod in his direction.,"Hosea: ""Good day, Arthur.{nod}"
+574,Action: You sit down next to Hosea by the campfire.,"Hosea: ""Arthur, care for a game of dominoes?{point polite}"
+575,Action: You walk up to Hosea and lean against the tree beside him.,"Hosea: ""What's on your mind, Arthur?"
+576,Action: You stand near Hosea and watch him as he reads.,"Hosea: ""Is there something I can help you with, Arthur?"
+578,Action: You approach Hosea and tap him on the shoulder.,"Hosea: ""Arthur, what can I do for you?"
+579,Action: You walk up to Hosea and hand him a cup of coffee.,"Hosea: ""Ah, just what I needed.Thanks, Arthur."
+581,Action: You approach Hosea and offer him a smoke.,"Hosea: ""I think I'll pass, Arthur.But thanks anyway."
+582,Action: You stand next to Hosea and look out into the horizon.,"Hosea: ""What's on your mind, Arthur?"
+583,Action: You walk up to Hosea and ask him if he needs anything.,"Hosea: ""Just some peace and quiet, Arthur.But I appreciate the offer."
+584,Action: You sit down beside Hosea and start humming a tune.,"Hosea: ""That's a nice tune, Arthur.What is it?"
+585,Action: You walk up to Hosea and hand him a book.,"Hosea: ""Ah, just what I needed.Thanks, Arthur."
+586,Action: You sit near Hosea and light a cigarette.,"Hosea: You know those things will kill you, right?{shake}"
+587,Action: You approach Hosea and stand next to him.,"Hosea: How can I help you, my boy?"
+588,Action: You walk by Hosea and nod in acknowledgement.,"Hosea: Good day to you, Mr.Morgan.{nod}"
+589,Action: You lean against the tree next to Hosea.,"Hosea: Enjoying the view, Arthur?"
+590,Action: You walk over to Hosea and give him a pat on the back.,"Hosea: Ah, always a pleasure to have your company, Arthur."
+591,Action: You stand next to Hosea and look at the book he's reading.,"Hosea: Interesting, isn't it?"
+592,Action: You walk past Hosea and give him a wave.,"Hosea: See you around, Arthur."
+593,Action: You approach Hosea and hand him a cup of coffee.,"Hosea: Bless your heart, Arthur.This is just what I needed."
+594,Action: You walk near Hosea and glance at the landscape.,"Hosea: Beautiful, isn't it?"
+595,Action: You sit near Hosea and rest your arms on your knees.,"Hosea: What's on your mind, my boy?"
+596,Action: You walk over to Hosea and give him a friendly smile.,"Hosea: How's your day going, Arthur?"
+597,Action: You stand near Hosea and look at the sky.,"Hosea: Thinking about something, Arthur?"
+598,Action: You approach Hosea and look at his book.,"Hosea: Anything catch your eye, Arthur?"
+599,Action: You walk past Hosea and nod in acknowledgement.,"Hosea: Good to see you, my boy."
+600,Action: You sit next to Hosea and watch the camp.,"Hosea: Quiet day today, isn't it?"
+601,Action: You walk up to Hosea and sit down next to him on the bench.,"Hosea: Oh, hello Arthur. It's nice to see you taking a break from your hunting."
+602,Action: You walk up to Hosea and lean against the tree next to him.,"Hosea: Howdy, Arthur. What can I do for you?"
+603,Action: You walk up to Hosea and start stretching.,"Hosea: What's got you stretching, Arthur? You got a long day of hunting ahead?"
+604,Action: You walk up to Hosea and hand him a cup of coffee.,"Hosea: Well, thank you kindly, Arthur. That's just what I needed."
+605,Action: You walk up to Hosea and start whistling a tune.,"Hosea: That's a catchy tune you got there, Arthur."
+606,Action: You walk up to Hosea and start sharpening your knife.,"Hosea: I see you're keeping that blade sharp, Arthur."
+608,Action: You walk up to Hosea and start practicing your shooting.,"Hosea: You're quite the marksman, Arthur. Have you been practicing?"
+609,Action: You walk up to Hosea and start singing a tune.,"Hosea: My, my, Arthur.You have quite the voice on you."
+611,Action: You walk up to Hosea and start practicing your card tricks.,"Hosea: Ah, the old sleight of hand. I see you've been practicing."
+612,Action: You approach Hosea while he's reading his book.,"Hosea: Hello there, son.Can I help you with something?"
+613,Action: You stand near Hosea and admire the view.,"Hosea: Beautiful, isn't it?"
+614,Action: You bump into Hosea by accident.,"Hosea: Watch where you're going, son."
+616,Action: You stand near Hosea and watch him read.,"Hosea: Is there something you need, son?"
+617,Action: You sit near Hosea and enjoy the quiet.,"Hosea: It's nice to have some peace and quiet, isn't it?{sigh}"
+619,Action: You accidentally knock over Hosea's hat.,"Hosea: Oh dear, be more careful next time, son."
+622,Action: You walk up to Hosea and ask him if he needs help with anything.,"Hosea: No, I'm fine, son. Thank you for asking."
+624,Action: You walk past Hosea and nod in noding.,"Hosea: Howdy, son."
+625,Action: You accidentally bump into Hosea while he's smoking his pipe.,"Hosea: Watch where you're going, son."
+626,Action: You walk up to Hosea and lean against the tree next to him.,"Hosea: ""Good day, Arthur."
+627,Action: You walk past Hosea and nod in noding.,"Hosea: ""Good to see you, Arthur."
+628,Action: You stand next to Hosea and stare off into the distance.,"Hosea: ""Beautiful view, isn't it?"
+629,Action: You accidentally bump into Hosea while walking by.,"Hosea: ""No worries, Arthur."
+630,Action: You sit on a nearby log and watch Hosea.,"Hosea: ""Is there something on your mind, Arthur?"
+631,Action: You stand near Hosea and light a cigarette.,"Hosea: ""Trying to shorten your life, I see.{shake}"
+632,Action: You approach Hosea and offer him a drink from your canteen.,"Hosea: ""Don't mind if I do. Thank you, Arthur."
+636,Action: You sit next to Hosea and light a pipe.,"Hosea: ""I see you're taking up smoking, Arthur."
+640,Action: You walk by Strauss.,Strauss: Hello Arthur.{nod}
+642,Action: Walking up to Micah.,Micah: Run along cowboy.
+643,Action: You walk up to Micah.,Micah: Hey there Arthur.
+644,Action: You bump into Micah.,"Micah: Watch where you're going, damn it.{annoyed}"
+645,Action: You walk past Micah.,"Micah: Hey Arthur, how's it going?"
+646,Action: You approach Micah.,Micah: What do you want Arthur?
+647,Action: You collide with Micah.,"Micah: Hey Arthur, watch where you're going!{annoyed} "
+648,Action: You walk up to Micah.,"Micah: Well, well, well, look who it is."
+649,Action: You stand near Micah.,"Micah: What's the matter, Arthur?"
+650,Action: You walk by Micah.,"Micah: Hey Arthur, what's the hurry?"
+651,Action: You stand near Micah.,"Micah: Can I help you with something, Arthur?"
+652,Action: You approach Micah.,"Micah: You look like you've seen a ghost, Arthur."
+653,Action: You walk up to Micah.,"Micah: Hey Arthur, how's it going?"
+654,Action: You walk up to Susan.,"Susan: Hi there, Arthur."
+655,Action: You stand near Susan.,Susan: Can I help you with something?
+656,Action: You extend your hand to shake Susan's hand.,"Susan: Nice to see you, Arthur."
+657,Action: You give Susan a nod.,"Susan: What's up, Arthur?"
+660,Action: You pat Susan on the back.,"Susan: What's that for, Arthur?"
+661,Action: You smile at Susan.,"Susan: What's the matter, Arthur?You seem in a good mood."
+662,Action: You wave at Susan.,"Susan: Hello, Arthur.{wave}"
+663,Action: You see Hosea sitting on a bench.,"Hosea: Ah, Arthur.What's the matter?"
+664,Action: You give a nod to Hosea as you pass by him.,"Hosea: Good day to you, Arthur."
+665,Action: You grab a book and sit down next to Hosea.,Hosea: What are you reading there?
+667,Action: You catch Hosea's eye and gesture to him to come over.,Hosea: What's going on?
+668,Action: You join Hosea in a game of dominoes.,Hosea: You're in for it now.
+669,Action: You stand next to Hosea and watch the sunset.,"Hosea: There's nothing quite like it, is there?"
+671,Action: You pat Hosea on the back after a successful mission.,"Hosea: Good work, Arthur."
+676,Action: You show Hosea a new item you purchased in town.,"Hosea: That's quite a nice piece, Arthur."
+677,Action: You walk over to Hosea and toss him a horseshoe.,Hosea: You up for a game?
+678,Action: You bump into Strauss.,You: Sorry about that.Strauss: Watch it next time.
+679,Action: You approach Strauss and stand near him.,"You: How's it going, Strauss?Strauss: Everything is under control, Arthur."
+680,Action: You stand near Strauss for a while.,Strauss: Can I help you with something?
+681,Action: You walk by Strauss.,"Strauss: Good morning, Arthur."
+682,Action: You approach Strauss.,"Strauss: What do you want, Arthur?"
+683,Action: You walk by Strauss,Strauss: Hello Arthur.
+684,Action: You collide with Strauss,Strauss: You clumsy oaf.
+685,Action: You bump into Strauss,"Strauss: Mind where you're walking, Arthur.{annoyed}"
+686,Action: You stand near Strauss for a while,"Strauss: Is there something you need, Arthur?"
+687,Action: You stand near Strauss for a while,"Strauss: What do you want, Arthur?"
+688,Action: You stand near Strauss for a while,"Strauss: Can I help you with something, Arthur?"
+689,Action: You shove Strauss,"Strauss: You'll pay for that, Arthur.{threaten}"
+690,Action: You stand near Strauss for a while,"Strauss: Why are you standing there, Arthur?"
+691,Action: You walk by Strauss,"Strauss: Hello, Arthur.{nod}"
+692,Action: You stand near Strauss for a while.,"Strauss: Can I help you with something, Arthur?"
+693,Action: You walk by Strauss.,"Strauss: Good morning, Arthur.{nod}"
+694,Action: You walk by Strauss.,"Strauss: Hey there, Arthur.{nod}"
+699,Action: You walk by Strauss.,"Strauss: Good morning, Arthur.{nod}"
+700,Action: You stand near Strauss for a while.,"Strauss: Can I help you with something, Arthur?"
+701,Action: You bump into Strauss.,"Strauss: Watch where you're going, Arthur! "
+702,Action: You walk by Strauss.,"Strauss: Hey, Arthur.{annoyed}"
+705,Action: You stand near Strauss for a while.,"Strauss: Can I help you with something, Arthur?"
+706,Action: You bump into Strauss.,"Strauss: Watch where you're going, Arthur!{annoyed} "
+707,Action: You approach Dutch.,"Dutch: Hey, Arthur."
+708,Action: You stand near Dutch for a while.,Dutch: Can you give me some room here?{annoyed}
+709,Action: You accidentally bump into Dutch.,"Dutch: Watch where you're going, Arthur! {walk}"
+710,Action: You approach Dutch with a question.,"Dutch: What is it, Arthur?"
+711,Action: You stand near Dutch for a while.,Dutch: Back up a bit will you.{walk}
+712,Action: You walk by Dutch.,"Dutch: Good to see you, Arthur."
+716,Action: You accidentally collide with Dutch.,"Dutch: Watch where you're going, Arthur!"
+719,Action: You stand near Dutch for a while.,"Dutch: Can I help you with something, Arthur?"
+720,Action: You stand near Dutch for a while.,"Dutch: You're making me nervous, Arthur.{annoyed}"
+721,Action: You walk by Dutch.,"Dutch: Hello there, Arthur.{nod}"

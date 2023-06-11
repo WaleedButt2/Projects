@@ -1,0 +1,77 @@
+,Patient Data,Unnamed: 1,Unnamed: 2
+0,,,
+1,Attribute,Type ,Description
+2,SID,STR,Patient Unique ID
+3,Year,STR,Patient Record Year
+4,Age,INT,Patient Age
+5,Race,STR,Patient Race
+6,Sex,STR,Patient Gender
+7,State,STR,Name of the State
+8,Zip Code,INT,ZIP code of patients residence 
+9,MSA,INT,Metropolitan Statistical Area Code
+10,Enrollment Type Categorized,INT,Type of enrollment 
+11,Enrollment Months,INT,No of months patient was enrolled
+12,HCC Score,FLOAT,HCC Risk score of patient
+13,Avg. LOS,FLOAT,Average length of stay at hospital
+14,Diagnosis,INT,Number of diagnosis in a year
+15,# Total Claims,INT,Total number of claims
+16,# Hospital OP,INT,Number of hospital outpatient visits
+17,# All Physician OP,INT,Number of physicians visits
+18,# Inpatient,INT,Number of inpatient visits
+19,# Short Term Stay Hospital,INT,Number of short term stay visits
+20,# Long Term Stay Hospital,INT,Number of long term stay visits
+21,# Rehabilitation Hospital,INT,Number of rehabilitation visits
+22,# Psychiatric Hospital,INT,Number of psychiatric hospital visits
+23,# Readmissions,INT,Number of hospital readmission
+24,% Readmissions,INT,Percentage of readmission
+25,# ER,INT,Number of emergency visits
+26,# ER Admissions,INT,Number of emergency admission
+27,# SNF,INT,Number of skilled nursing facility visits
+28,# Non Swing Bed SNF Claim,INT,Number of non swing bed snf visits
+29,# Swing Bed SNF Claim,INT,Number of swing bed snf visits
+30,# Home Health,INT,Number of Homehealth visits
+31,# Hospice,INT,Number of Hospice visits
+32,# Labs,INT,Number of labs done
+33,# Part B Labs,INT,Number of part b labs 
+34,# Imaging,INT,Number of times medical imaging done
+35,# Part B Imaging,INT,Number of part b imaging
+36,# Part B E&M,INT,Number of part b E&M tests
+37,# Part B Drugs,INT,Number of part b Drugs tests
+38,# Part B Ambulance,INT,Number of  times part b ambulatory service taken
+39,# Dialysis,INT,Number of dialysis done
+40,# Part-B Dialysis,INT,Number of part b dialysis done
+41,# Rx Claims,INT,Number of Rx claims
+42,# DME,INT,Number of DME
+43,# Miscellaneous,INT,Number of miscellaneous visits
+44,TotalCost_Y_Actual,FLOAT,Total actual cost of patient for next year 
+45,TotalCost_Y_Expected,FLOAT,Total expected 12 month cost of patient. This feature is dependant upon TotalCost_Y_Actual and Enrollment months.
+46,,,
+47,,,
+48,Medication Data,,
+49,,,
+50,Attribute,Type ,Description
+51,SID,STR,Patient Unique ID
+52,Year,STR,Patient Record Year
+53,dapagliflozin,BOOL,Did the patient take dapagliflozin
+54,exenatide,BOOL,Did the patient take exenatide
+55,glimepiride,BOOL,Did the patient take glimepiride
+56,glyburide and metformin hydrochloride,BOOL,Did  the patient take glyburide and metformin hydrochloride
+57,insulin,BOOL,Did the patient take insulin
+58,metformin hydrochloride,BOOL,Did  the patient take metformin hydrochloride
+59,pioglitazone,BOOL,Did the patient take pioglitazone
+60,sitagliptin and metformin hydrochloride,BOOL,Did  the patient take sitagliptin and metformin hydrochloride
+61,,,
+62,,,
+63,Socio Economics Data,,
+64,,,
+65,Attribute,Type ,Description
+66,SID,STR,Patient Unique ID
+67,Year,STR,Patient Record Year
+68,SVI1,FLOAT,Percentile ranking for Socioeconomic Status theme summary
+69,SVI3,FLOAT,Percentile ranking for Racial and Ethnic Minority Status theme
+70,SVI4,FLOAT,Percentile ranking for Housing Type/ Transportation theme
+71,SVI,FLOAT,Overall percentile ranking
+72,MDI,FLOAT,Multidimensional Deprivation Index
+73,Avg ADI,FLOAT,Average of Countys' Area Deprivation Index for a ZIP Code
+74,Max ADI,FLOAT,Max of Countys' Area Deprivation Index for a ZIP Code
+75,Min ADI,FLOAT,Min of Countys' Area Deprivation Index for a ZIP Code
