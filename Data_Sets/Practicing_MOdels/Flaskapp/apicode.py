@@ -5,7 +5,7 @@ from transformers import GPTNeoForCausalLM, AutoTokenizer, AutoModelForCausalLM
 
 app = Flask(__name__)
 model = AutoModelForCausalLM.from_pretrained("./uo")
-tokenizer =AutoTokenizer.from_pretrained("EleutherAI/gpt-neo-125m", bos_token='<|startoftext|>', eos_token='<|endoftext|>', pad_token='<|pad|>')
+tokenizer =AutoTokenizer.from_pretrained("EleutherAI/gpt-neo-1.3B", bos_token='<|startoftext|>', eos_token='<|endoftext|>', pad_token='<|pad|>')
 @app.route('/generate', methods=['POST'])
 def generate_text():
     data = request.get_json(force=True)
